@@ -18,4 +18,9 @@ Now the variable "example" is embedded as {{ page.example }}.
 
 To uses the `_include` folder, one can write {% include big-cat.html %}.
 
+To use the `data` folder, one can write
+  {% for x in site.data.animals %}
+  - The {{ x.name }} is a {{ x.size }} animal.
+  {% endfor %}
+
 
