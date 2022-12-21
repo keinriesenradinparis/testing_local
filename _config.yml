@@ -1,5 +1,5 @@
-# include:
-#   - _pages
+include:
+  - _pages
   
   
 # Site settings
@@ -43,7 +43,7 @@ defaults:
 header_pages:
 - README.md
 - about.md
-- 2021-06-29-languages.md
+# - 2021-06-29-languages.md
 
 # Ignore stuff
 # exclude:
