@@ -14,3 +14,12 @@ theme: minima
 # minima:
 #   skin: dark
 # remote_theme: jekyll/minima # Alternative way
+
+header_pages:
+- README.md
+- about.md
+
+# Ignore stuff
+# exclude:
+ 
+
