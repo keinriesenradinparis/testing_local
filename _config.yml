@@ -4,6 +4,7 @@ author:
   name: Rhythmszk the author
   email: your-email@domain.com
 description: this is a description, "quotation mark"
+show_excerpts: true
 
 markdown: kramdown
 
