@@ -19,6 +19,11 @@ Bullet list:
 - cates
 - dosg
 
+* asd
+* asd
+
++ asd 
++ asd 
 
 
 Another type of lists:
