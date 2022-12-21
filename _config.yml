@@ -7,6 +7,19 @@ description: > # this means to ignore newlines until "show_excerpts:"
 # show_excerpts: true
 # markdown: kramdown
 
+# URL VARIABLES [optional!]
+#
+# Optional if using GitHub Pages! If building manually, these must be set correctly.
+#
+# use url for the domain, e.g. https://thecdil.github.io
+# on gh-pages follow the pattern: https://username.github.io
+url: https://keinriesenradinparis.github.io
+# use baseurl to add subsection of the domain, e.g. /timelinejs-template
+# on gh-pages this is a / followed by the name of the repository
+# baseurl is your github repository's name prefixed with a /
+# baseurl: /baseurl
+# location of code, the full url to your github repository
+# source-code: https://github.com/thecdil/bootstrap-template
 
 # Build settings
 theme: minima
@@ -17,7 +30,7 @@ minima:
 # all files in the "pages" folder will be output at root of site
 defaults:
   - scope:
-      path: "_pages"
+      path: "./_pages"
     values:
       layout: page
       permalink: /:basename:output_ext
