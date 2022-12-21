@@ -1,5 +1,5 @@
-include:
-  - _pages
+# include:
+#   - _pages
   
   
 # Site settings
@@ -27,9 +27,9 @@ description: > # this means to ignore newlines until "show_excerpts:"
 
 
 # Build settings
-theme: minima
-minima:
-  skin: dark
+theme: minimal
+# minima:
+#   skin: dark
 # remote_theme: jekyll/minima # Alternative way
 # Defaults to simplify front matter,
 # all files in the "pages" folder will be output at root of site
