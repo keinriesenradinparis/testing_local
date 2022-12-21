@@ -1,3 +1,5 @@
+title: Title test
+description: this is a description
 markdown: kramdown
 theme: minima
 # remote_theme: SOME THEME HOSTED ON GITHUB
