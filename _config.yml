@@ -13,6 +13,8 @@ theme: minima
 minima:
   skin: dark
 # remote_theme: jekyll/minima # Alternative way
+# Defaults to simplify front matter,
+# all files in the "pages" folder will be output at root of site
 defaults:
   - scope:
       path: "pages"
