@@ -11,8 +11,8 @@ description: > # this means to ignore newlines until "show_excerpts:"
 
 # Build settings
 theme: minima
-# minima:
-#   skin: dark
+minima:
+  skin: dark
 # remote_theme: jekyll/minima # Alternative way
 # defaults:
 #   - scope:
