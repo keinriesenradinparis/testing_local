@@ -3,7 +3,9 @@ title: Title is here
 author:
   name: Rhythmszk the author
   email: your-email@domain.com
-description: this is a description, "quotation mark"
+description: > # this means to ignore newlines until "show_excerpts:"
+  this is a description, "quotation mark"
+  
 show_excerpts: true
 
 markdown: kramdown
