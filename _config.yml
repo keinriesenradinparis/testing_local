@@ -14,12 +14,20 @@ theme: minima
 # minima:
 #   skin: dark
 # remote_theme: jekyll/minima # Alternative way
+defaults:
+  - scope:
+      path: *pages"
+    values:
+      layout: page
+      permalink: /:basename:output_ext
 
-header_pages:
-- README.md
-- about.md
+
+# header_pages:
+# - README.md
+# - about.md
 
 # Ignore stuff
 # exclude:
+# - README.md
  
 
