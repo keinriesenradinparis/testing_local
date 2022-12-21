@@ -25,7 +25,7 @@ minima:
 header_pages:
 - README.md
 - about.md
-- pages/2021-06-29-languages.md
+- _pages/2021-06-29-languages.md
 
 # Ignore stuff
 # exclude:
