@@ -13,12 +13,12 @@ theme: minima
 minima:
   skin: dark
 # remote_theme: jekyll/minima # Alternative way
-# defaults:
-#   - scope:
-#       path: *pages"
-#     values:
-#       layout: page
-#       permalink: /:basename:output_ext
+defaults:
+  - scope:
+      path: "pages"
+    values:
+      layout: page
+      permalink: /:basename:output_ext
 
 
 header_pages:
