@@ -40,10 +40,10 @@ defaults:
       layout: page
       permalink: /:basename:output_ext
   
-header_pages:
-- README.md
-- about.md
-- 2021-06-29-languages.md
+# header_pages:
+# - README.md
+# - about.md
+# - 2021-06-29-languages.md
 
 # Ignore stuff
 # exclude:
