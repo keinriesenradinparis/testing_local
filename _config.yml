@@ -1,7 +1,15 @@
-title: Title test
-description: this is a description
+# Site settings
+title: Title is here
+author:
+  name: Rhythmszk the author
+  email: your-email@domain.com
+description: this is a description, "quotation mark"
+
 markdown: kramdown
+
+
+# Build settings
 theme: minima
 # minima:
 #   skin: dark
-# remote_theme: SOME THEME HOSTED ON GITHUB
+# remote_theme: jekyll/minima # Alternative way
