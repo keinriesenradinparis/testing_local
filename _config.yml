@@ -5,14 +5,12 @@ author:
   email: your-email@domain.com
 description: > # this means to ignore newlines until "show_excerpts:"
   this is a description, "quotation mark"
-  
 show_excerpts: true
-
 markdown: kramdown
 
 
 # Build settings
-remote_theme: minima
+theme: minima
 # minima:
 #   skin: dark
 # remote_theme: jekyll/minima # Alternative way
