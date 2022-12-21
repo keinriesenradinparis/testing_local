@@ -35,7 +35,9 @@ defaults:
       layout: page
       permalink: /:basename:output_ext
 
-
+include:
+  - _pages
+  
 header_pages:
 - README.md
 - about.md
