@@ -21,7 +21,7 @@ Bullet list:
 
 Another type of lists:
 
-\- asdalksdj
+- asdalksdj
 
 Numnbered list:
 
