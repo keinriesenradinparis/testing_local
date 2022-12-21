@@ -1,5 +1,4 @@
-include:
-  - /_pages
+
   
   
 # Site settings
@@ -45,9 +44,12 @@ defaults:
 # - about.md
 # - 2021-06-29-languages.md
 
+include:
+  - /_pages
+  
 # Ignore stuff
-exclude:
+# exclude:
 # - README.md
-- _pages/2021-04-27-home.md
+# - _pages/2021-04-27-home.md
  
 
