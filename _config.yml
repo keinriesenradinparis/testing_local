@@ -30,7 +30,7 @@ minima:
 # all files in the "pages" folder will be output at root of site
 defaults:
   - scope:
-      path: "./_pages"
+      path: "pages"
     values:
       layout: page
       permalink: /:basename:output_ext
