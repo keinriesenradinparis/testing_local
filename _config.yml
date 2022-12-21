@@ -1,3 +1,7 @@
+include:
+  - _pages
+  
+  
 # Site settings
 title: Title is here
 author: Rhythmszk the author
@@ -21,6 +25,7 @@ description: > # this means to ignore newlines until "show_excerpts:"
 # location of code, the full url to your github repository
 # source-code: https://github.com/thecdil/bootstrap-template
 
+
 # Build settings
 theme: minima
 minima:
@@ -34,9 +39,6 @@ defaults:
     values:
       layout: page
       permalink: /:basename:output_ext
-
-include:
-  - _pages
   
 header_pages:
 - README.md
