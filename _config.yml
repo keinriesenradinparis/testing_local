@@ -2,4 +2,6 @@ title: Title test
 description: this is a description
 markdown: kramdown
 theme: minima
+minima:
+  skin: dark
 # remote_theme: SOME THEME HOSTED ON GITHUB
