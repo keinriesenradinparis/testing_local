@@ -5,8 +5,8 @@ author:
   email: your-email@domain.com
 description: > # this means to ignore newlines until "show_excerpts:"
   "this is a description, quotation mark"
-show_excerpts: true
-markdown: kramdown
+# show_excerpts: true
+# markdown: kramdown
 
 
 # Build settings
