@@ -9,6 +9,7 @@
 @import "minima/custom-styles.scss";
 
 
+
 /**
  * Initialisation of variables
  */
@@ -16,6 +17,7 @@
 $content-width:    800px !default;
 $spacing-unit:     30px !default;
 $on-large:        800px !default;
+
 
 
 /**
@@ -35,4 +37,16 @@ $on-large:        800px !default;
     padding-right: $spacing-unit;
     padding-left: $spacing-unit;
   }
+}
+
+
+
+/**
+ * Clearfix
+ */
+
+%clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
 }
