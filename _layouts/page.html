@@ -12,7 +12,7 @@ layout: default
     
     {%- for post in site.posts -%}
         {% if {{ post.categories }} contains {{ page.page_category }} %}
-           <br> post </br>
+           {{ post.title }}
         {% endif %}
     {%- endfor -%}
   </div>
