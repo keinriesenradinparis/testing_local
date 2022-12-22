@@ -27,6 +27,13 @@ theme: minima
 # minima:
 #   skin: dark
 # remote_theme: jekyll/minima # Alternative way
+# Other themes:
+# amitmerchant1990/reverie
+# sighingnow/jekyll-gitbook
+# One template:
+# thecdil/bootstrap-template
+
+
 # Defaults to simplify front matter,
 # all files in the "pages" folder will be output at root of site
 defaults:
