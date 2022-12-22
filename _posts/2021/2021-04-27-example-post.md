@@ -7,9 +7,9 @@ categories:
   - "sources"
 ---
 
-# 1 - Here I collect some of my favourite Youtube music channels
+## 1 - Here I collect some of my favourite Youtube music channels
 
-## Music theory, music production, share and lessons
+### Music theory, music production, share and lessons
 
 Adam Neely: modern music theory (he plays bass)
 
@@ -51,7 +51,7 @@ Calvin歌唱小教室
 
 Paul Barton: practices classical piano pieces
 
-## Performances, CD, covers and arrangements
+### Performances, CD, covers and arrangements
 
 Yvans Jacques: jazz playing in duet guitar/piano
 
@@ -85,7 +85,7 @@ Tibetan Music World 藏族音乐世界 བོད་ཀྱི་རོལ་ད�
 
 添翼音樂 TEAM EAR MUSIC
 
-## Classical
+### Classical
 
 BillEvansArchive
 
@@ -107,7 +107,7 @@ medici.tv
 
 Yo-Yo Ma: 马友友
 
-## Singers 
+### Singers 
 
 韋禮安WeiBird
 
@@ -127,7 +127,7 @@ Ivana Wong 王菀之
 
 TangBadVoice (personally I like ลิ้นติดไฟ（舌头着火）very much)
 
-# 2 - Here are some websites
+## 2 - Here are some websites
 
 https://www.thejazzpianosite.com/jazz-piano-lessons/
 
@@ -147,7 +147,7 @@ https://www.gypsyjazzguitaronline.com/
 
 Barry Warhaftig
 
-# 3 - Some chord progressions of Pop songs
+## 3 - Some chord progressions of Pop songs
 
 Substitutions for (2-)5-1
 
