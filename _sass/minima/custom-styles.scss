@@ -2,9 +2,19 @@
  * Page content
  */
 .page-content {
-  text-align: center;
+  li {
+    div {
+      text-align: center;
+    }
+  }
 }
-
+/**
+ * Post content
+ */
 .post-content {
-  text-align: right; 
+  li {
+    div {
+      text-align: right;
+    }
+  }
 }
