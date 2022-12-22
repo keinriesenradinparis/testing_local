@@ -1,4 +1,5 @@
 ---
+# This overrides the _layouts/page.html of the theme minima 
 layout: default
 ---
 <article class="post">
@@ -10,7 +11,9 @@ layout: default
   <div class="post-content">
     {{ content }}
     
-     <!--This filters out the posts within the given category associated with the page.-->
+    {% comment %} 
+       This filters out the posts within the given category associated with the page.
+    {% endcomment %}
     {% if site.paginate %}
       {% assign posts = paginator.posts | where:"categories", categories contains page.page_category %}
     {% else %}
