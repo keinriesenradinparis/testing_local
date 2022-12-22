@@ -1,6 +1,7 @@
 ---
 layout: defaut_light
 title: title of test2
+page_category: "法语启蒙"
 ---
 
 {% comment %} 
@@ -9,7 +10,7 @@ title: title of test2
 {% if site.paginate %}
   {% assign posts = paginator.posts | where:"categories", categories contains "basicfrench" %}
 {% else %}
-  {% assign posts = site.posts | where:"post", "post.categories contains 'basicfrench'" %}
+  {% assign posts = site.posts | where:"post", "post.categories contains '法语启蒙'" %}
 {% endif %}
 
 {% include print_posts.html content=posts %}
