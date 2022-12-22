@@ -49,6 +49,5 @@ include:
 # - README.md
 # - _pages/2021-04-27-home.md
  
-plugins:
- - jekyll-feed
- - jekyll-seo-tag
+feed:
+  disable: true
