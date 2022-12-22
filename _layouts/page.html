@@ -19,6 +19,7 @@ layout: default
     {% else %}
 <!--       {% assign posts = site.posts | where:"categories", page.page_category %} -->
       {% assign posts = site.posts | where_exp:"post", "post.categories contains page.page_category" %}
+      <!-- cannot omit the 'page.' in 'page.page_category'-->
     {% endif %}
     
     {% include print_posts.html content=posts %}
