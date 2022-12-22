@@ -8,11 +8,9 @@ page_category: "法语启蒙"
    This filters out the posts within the given category associated with the page.
 {% endcomment %}
 {% if site.paginate %}
-  {% assign posts = paginator.posts | where:"categories", categories contains "basicfrench" %}
+   {% assign posts = paginator.posts | where:"categories", page.page_category %}
 {% else %}
-<!--   {% assign posts = site.posts | where_exp:"post", "post.categories contains page_category" %} -->
-<!--   {% assign posts = site.posts | where_exp:"item", "item.categories contains 'languages'" %} -->
-   "{{ page_category }}"
+   <!--   {% assign posts = site.posts | where_exp:"post", "post.categories contains page_category" %} -->
    {% assign posts = site.posts | where:"categories", page.page_category %}
 {% endif %}
 
