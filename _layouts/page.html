@@ -10,6 +10,8 @@ layout: default
   <div class="post-content">
     {{ content }}
     
+    {{ page.name }}
+    {{ page.page_category }}
     {% include page_by_category.html content={{ page.name }} %}
   </div>
 
