@@ -17,7 +17,7 @@ layout: default
       {% assign posts = site.posts | where:"categories", categories contains page.page_category %}
     {% endif %}
     
-    {% include page_by_category.html content={{ posts }} %}
+    {% include page_by_category.html content=posts %}
     <!--This part is personalised for each page.-->
   </div>
 
