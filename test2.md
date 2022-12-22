@@ -9,7 +9,7 @@ title: title of test2
 {% if site.paginate %}
   {% assign posts = paginator.posts | where:"categories", categories contains "basicfrench" %}
 {% else %}
-  {% assign posts = site.posts | where:"categories", categories contains "basicfrench" %}
+  {% assign posts = site.posts | where:"post", post.categories contains "basicfrench" %}
 {% endif %}
 
 {% include print_posts.html content=posts %}
