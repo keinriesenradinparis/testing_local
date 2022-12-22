@@ -10,6 +10,38 @@
     <p>Another para</p>
     
     <h2>Header two is here</h2>
+
+    
+    
+    
+    
+    <article class="post">
+
+      <header class="post-header">
+        <h1 class="post-title">{{ page.title | escape }}</h1>
+      </header>
+
+      <div class="post-content">
+        {{ content }}
+
+        {% comment %} 
+           This filters out the posts within the given category associated with the page.
+        {% endcomment %}
+        {% if site.paginate %}
+          {% assign posts = paginator.posts | where:"categories", categories contains "basicfrench" %}
+        {% else %}
+          {% assign posts = site.posts | where:"categories", categories contains "basicfrench" %}
+        {% endif %}
+
+        {% include print_posts.html content=posts %}
+        <!--This part is personalised for each page.-->
+      </div>
+
+    </article>
+    
+    
+    
+    
   </body>
   
 </html>
