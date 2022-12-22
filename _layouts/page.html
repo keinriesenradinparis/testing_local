@@ -11,7 +11,7 @@ layout: default
     {{ content }}
     
     {%- for post in site.posts -%}
-        {{ post.categories }}
+        "{{ page.page_category }} in {{ post.categories }}"
     {%- endfor -%}
   </div>
 
