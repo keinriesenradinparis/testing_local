@@ -10,7 +10,14 @@ layout: default
   <div class="post-content">
     {{ content }}
     
-    {% include page_by_category.html %}
+     <!--This filters out the posts within the given category associated with the page.-->
+    {% if site.paginate %}
+      {% assign posts = paginator.posts | where:"categories", categories contains page.page_category %}
+    {% else %}
+      {% assign posts = site.posts | where:"categories", categories contains page.page_category %}
+    {% endif %}
+    
+    {% include page_by_category.html content={{ posts }} %}
     <!--This part is personalised for each page.-->
   </div>
 
