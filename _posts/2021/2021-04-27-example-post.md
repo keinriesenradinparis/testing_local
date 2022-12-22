@@ -3,14 +3,14 @@ title: "Music sources"
 date: "2021-04-27"
 categories: 
   - "blog"
-tags: 
   - "music"
   - "sources"
 ---
 
-##### **1 - _Here I collect some of my favourite Youtube music channels_**
+# 1 - Here I collect some of my favourite Youtube music channels
 
-_Music theory, music production, share and lessons_: 
+## Music theory, music production, share and lessons
+
 Adam Neely: modern music theory (he plays bass)
 
 8-bit Music Theory: on music from video games
@@ -51,7 +51,8 @@ Calvin歌唱小教室
 
 Paul Barton: practices classical piano pieces
 
-_Performances, CD, covers and arrangements:_ 
+## Performances, CD, covers and arrangements
+
 Yvans Jacques: jazz playing in duet guitar/piano
 
 Yohan Kim: jazz keyboarder, original solos
@@ -84,7 +85,7 @@ Tibetan Music World 藏族音乐世界 བོད་ཀྱི་རོལ་ད�
 
 添翼音樂 TEAM EAR MUSIC
 
-_Classical:_
+## Classical
 
 BillEvansArchive
 
@@ -106,18 +107,27 @@ medici.tv
 
 Yo-Yo Ma: 马友友
 
-_Singers:_ 
+## Singers 
+
 韋禮安WeiBird
+
 持修ChihSiou
+
 吳汶芳Fang Wu
+
 waawei
+
 文慧如Bonn Hui Lu
+
 蔡健雅Tanya Chua
+
 Ivana Wong 王菀之
+
 이지금 IU
+
 TangBadVoice (personally I like ลิ้นติดไฟ（舌头着火）very much)
 
-##### **2 - _Here are some websites_**
+# 2 - Here are some websites
 
 https://www.thejazzpianosite.com/jazz-piano-lessons/
 
@@ -137,15 +147,14 @@ https://www.gypsyjazzguitaronline.com/
 
 Barry Warhaftig
 
-3 - _Some chord progressions of Pop songs_
+# 3 - Some chord progressions of Pop songs
 
 Substitutions for (2-)5-1
 
-V#M9 - V9sus - I
-ii7 - I#+(aug) \*- I
-                   \* Can be a dominant 7th chord.
-ii7 - V+(aug) - I
+- V#M9 - V9sus - I
+- ii7 - I#+(aug) \*- I, \* Can be a dominant 7th chord.
+- ii7 - V+(aug) - I
 
 Substitutions for 5
 
-V13sus
+- V13sus

@@ -2,8 +2,7 @@
 title: "Cuisine Vloggers"
 date: "2021-04-27"
 categories: 
-  - "blog"
-tags: 
+  - "blog" 
   - "cooking"
   - "sources"
 ---
