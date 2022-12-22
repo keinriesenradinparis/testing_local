@@ -15,7 +15,10 @@ The variable "title" is {{ site.title }}.
 
 Now the variable "example" is embedded as {{ page.example }}.
 
-To uses the `_include` folder, one can write {% include big-cat.html %}.
+To uses the `_include` folder, one can write `{% include big-cat.html %}`.
+<img style="display:block; margin: 10px auto;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Siberischer_tiger_de_edit02.jpg/640px-Siberischer_tiger_de_edit02.jpg" 
+    alt="face of a big tiger" >
 
 To use the `data` folder, one can write
   {% for animal in site.data.animal_list %}
