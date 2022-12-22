@@ -1,6 +1,6 @@
 ---
 layout: page_light
-title: title of test2
+title: title of test22
 page_category: "法语启蒙"
 ---
 
