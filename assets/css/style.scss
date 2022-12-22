@@ -3,7 +3,8 @@
 ---
 
 // This is required by Minima
-// @import "minima";
+@import "minima";
+@import "minima/initialize";
 
 // This is the file with customised styles
-@import "minima/custom-styles.scss";
+// @import "minima/custom-styles.scss";
