@@ -14,7 +14,7 @@
       {%- for post in posts -%}
         Test if I can output "post"
         "post.categories"
-        {% if "languages" in post.categories %}
+        {%- if "languages" in post.categories %}
 
         <li>
           <span class="post-meta">{{ post.date | date: date_format }}</span>
