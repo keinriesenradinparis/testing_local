@@ -2,7 +2,7 @@
   {% if site.paginate %}
     {% assign posts = paginator.posts | where:"categories", "categories contains page.page_category" %}
   {% else %}
-    {% assign posts = site.posts | where:"categories", "categories contains page.page_category" %}
+    {% assign posts = site.posts | where:"categories", categories contains page.page_category %}
   {% endif %}
 
 
