@@ -12,6 +12,7 @@
     <ul class="post-list">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       {%- for post in posts -%}
+        "post.categories"
         {% if "languages" in post.categories %}
         <!--This filters out the posts in the category associated with the page-->
         <li>
