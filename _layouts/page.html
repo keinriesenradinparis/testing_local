@@ -11,7 +11,9 @@ layout: default
     {{ content }}
     
     {%- for post in site.posts -%}
-        "{{ page.page_category }} in {{ post.categories }}"
+        {% if {{ page.page_category }} in {{ post.categories }} %}
+           <br> post </br>
+        {% endif %}
     {%- endfor -%}
   </div>
 
