@@ -1,0 +1,15 @@
+---
+layout: defaut_light
+title: title of test2
+---
+
+{% comment %} 
+   This filters out the posts within the given category associated with the page.
+{% endcomment %}
+{% if site.paginate %}
+  {% assign posts = paginator.posts | where:"categories", categories contains "basicfrench" %}
+{% else %}
+  {% assign posts = site.posts | where:"categories", categories contains "basicfrench" %}
+{% endif %}
+
+{% include print_posts.html content=posts %}
