@@ -3,7 +3,7 @@ title: Naive playground
 author: Rhythmszk
 email: your-email@domain.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  "this is a description, quotation mark"
+  Do you want a description?
 # show_excerpts: true
 markdown: kramdown
 
