@@ -1,5 +1,5 @@
 ---
-layout: defaut_light
+layout: page_light
 title: title of test2
 page_category: "法语启蒙"
 ---
