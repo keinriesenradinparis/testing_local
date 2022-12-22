@@ -1,6 +1,3 @@
-
-  
-  
 # Site settings
 title: Title is here
 author: Rhythmszk the author
@@ -8,6 +5,7 @@ email: your-email@domain.com
 description: > # this means to ignore newlines until "show_excerpts:"
   "this is a description, quotation mark"
 # show_excerpts: true
+search: true
 markdown: kramdown
 
 # URL VARIABLES [optional!]
