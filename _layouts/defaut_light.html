@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+{% comment %} 
+  This is a lighter version of the defaut layout.
+{% endcomment %}
+<html>
+  <head>
+    <title> Title of default static layout</title>
+  </head>
+  
+  <body>
+    
+    <article class="post">    
+      <header class="post-header">
+        <h1 class="post-title">{{ page.title | escape }}</h1>
+      </header>
+      
+      <div class="post-content">
+        {{ content }}
+      </div>
+
+    </article>
+    
+    
+    
+    
+  </body>
+  
+</html>
