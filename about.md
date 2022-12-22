@@ -9,6 +9,7 @@ example: Example Text
 I am a financial analyst trying to establish my own blog where I would like to share personal notes across various themes.
 
 I learnt how to build Github from [this blog/wordshop](https://evanwill.github.io/go-go-ghpages-b/) and from [this documentation](https://jekyllrb.com/docs/).
+Whitespace control could be learnt [here](https://shopify.github.io/liquid/basics/whitespace/).
 
 The variable "title" is {{ site.title }}.
 
