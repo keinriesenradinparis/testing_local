@@ -12,7 +12,7 @@ page_category: "法语启蒙"
 {% else %}
 <!--   {% assign posts = site.posts | where_exp:"post", "post.categories contains 'languages'" %} -->
 <!--   {% assign posts = site.posts | where_exp:"item", "item.categories contains 'languages'" %} -->
-  {% assign posts = site.posts | where:"categories", "languages" %}
+  {% assign posts = site.posts | where:"categories", page_category %}
 {% endif %}
 
 {% include print_posts.html content=posts %}
