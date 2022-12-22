@@ -10,11 +10,7 @@ layout: default
   <div class="post-content">
     {{ content }}
     
-    {%- for post in site.posts -%}
-        {% if post.categories contains page.page_category %}
-           {{ post.title }}
-        {% endif %}
-    {%- endfor -%}
+    {% include page_by_category.html content={{ page.name }} %}
   </div>
 
 </article>
