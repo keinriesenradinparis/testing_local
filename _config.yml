@@ -5,7 +5,6 @@ email: your-email@domain.com
 description: > # this means to ignore newlines until "show_excerpts:"
   "this is a description, quotation mark"
 # show_excerpts: true
-search: true
 markdown: kramdown
 
 # URL VARIABLES [optional!]
@@ -50,4 +49,6 @@ include:
 # - README.md
 # - _pages/2021-04-27-home.md
  
-
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
