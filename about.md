@@ -31,7 +31,7 @@ You need whitespace control of the for loop.
 You will need this specific
 
 |a | b|
-|c| d |
+|c|
 line
    
 
