@@ -25,7 +25,7 @@ To use the `data` folder, one can write
 <!-- Need whitespace control of the for loop. -->
 {% for animal in site.data.animal_list -%} 
   | {{ animal.name }} | {{ animal.size }} |
-{%- endfor -%}
+{% endfor %}
 You will need this specific
 line
    
