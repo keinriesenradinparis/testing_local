@@ -23,9 +23,9 @@ To uses the `_include` folder, one can write {% comment %}{% include big-cat.htm
 To use the `data` folder, one can write
   [comment]: # Need whitespace control.
   [comment]: # The left - in endfor tag deletes the return/new line in the for loop.
-  {% for animal in site.data.animal_list %} 
+  {% for animal in site.data.animal_list -%} 
     | {{ animal.name }} | {{ animal.size }} |
-  {%- endfor %}
+  {%- endfor -%}
 line
 
 
