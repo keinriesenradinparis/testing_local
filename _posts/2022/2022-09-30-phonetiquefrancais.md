@@ -20,6 +20,6 @@ layout: page_light
 **2. 单个字母的读法**
 
 | 法语单词 |
-{%- for word in site.data.wordlist_french_acronym. %} 
+{%- for word in site.data.wordlist_french_acronyms %} 
   | {{ word.French }} | 
 {%- endfor %}
