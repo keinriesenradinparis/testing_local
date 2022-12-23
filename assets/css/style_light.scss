@@ -78,7 +78,6 @@ $on-large:        800px !default;
  * Tables
  */
 
-table {
-//   margin-bottom: $spacing-unit;
-  width: 100%;
+th, td {
+  padding-right: $spacing-unit;
 }
