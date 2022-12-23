@@ -28,6 +28,10 @@ The left - in endfor tag deletes the return/new line in the for loop.
   {%- endfor %}
 You will need this specific
 line
+```liquid
+  {%- endfor %}
+```
+   
 
 
 
