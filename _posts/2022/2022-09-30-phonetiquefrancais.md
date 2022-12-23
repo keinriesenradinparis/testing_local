@@ -12,22 +12,13 @@ categories:
 提醒：一般来说：词尾辅音不发音，但词尾的r, l, f, c, q要发音。
 
 | 法语单词 | 中文 |
-{%- for word in site.data.wordlist_pronunciation. %} 
+{%- for word in site.data.wordlist_french_pronunciation %} 
   | {{ word.French }} | {{ word.Chinese }} |
 {%- endfor %}
 
 **2. 单个字母的读法**
 
-```
-BNF
-BNP
-CDG
-LCL
-PDG
-RATP
-RER
-SNCF
-SG
-TGV
-UE
-```
+| 法语单词 |
+{%- for word in site.data.wordlist_french_acronym. %} 
+  | {{ word.French }} | 
+{%- endfor %}
