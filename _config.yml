@@ -63,8 +63,8 @@ include:
 # - _pages/2021-04-27-home.md
 # - test2.md
  
-feed:
-  disable: true
+# feed:
+#   disable: true
   
 plugins:
  - jekyll-seo-tag
