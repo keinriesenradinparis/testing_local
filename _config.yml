@@ -63,8 +63,11 @@ include:
 # - _pages/2021-04-27-home.md
 # - test2.md
  
+ 
+# Post permalink
+permalink: /:year/:month/:day/:title:output_ext
+
+
 # feed:
 #   disable: true
   
-plugins:
- - jekyll-seo-tag
