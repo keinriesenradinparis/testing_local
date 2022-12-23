@@ -28,6 +28,9 @@ To use the `data` folder, one can write
 <!-- Need whitespace control of the for loop. -->
 
 You will need this specific
+
+|a | b|
+|c|
 line
    
 
