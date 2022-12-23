@@ -18,6 +18,25 @@ $content-width:    800px !default;
 $spacing-unit:     30px !default;
 $on-large:        800px !default;
 
+@mixin relative-font-size($ratio) {
+  font-size: #{$ratio}rem;
+}
+
+/**
+ * Size of the post-title
+ */
+
+.post-title,
+.post-content h1 {
+  @include relative-font-size(2.625);
+  letter-spacing: -1px;
+  line-height: 1.15;
+
+  @media screen and (min-width: $on-large) {
+    @include relative-font-size(2.625);
+  }
+}
+
 
 
 /**
