@@ -22,10 +22,10 @@ To uses the `_include` folder, one can write {% comment %}{% include big-cat.htm
 
 To use the `data` folder, one can write
 | a | b |
-<!-- Need whitespace control of the for loop. -->
 {% for animal in site.data.animal_list %} 
   | {{ animal.name }} | {{ animal.size }} |
 {%- endfor %}
+<!-- Need whitespace control of the for loop. -->
 
 You will need this specific
 line
