@@ -25,6 +25,7 @@ To use the `data` folder, one can write
   {% for animal in site.data.animal_list %} 
     A line
     | {{ animal.name }} | {{ animal.size }} |
+  <!--Stop producing a new line.-->
   {%- endfor %}
 line
 
