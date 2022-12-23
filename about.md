@@ -22,9 +22,9 @@ To uses the `_include` folder, one can write {% comment %}{% include big-cat.htm
 
 To use the `data` folder, one can write
   <!--Need white space control.-->
-  {%- for animal in site.data.animal_list %} 
+  {% for animal in site.data.animal_list %} 
     A line | {{ animal.name }} | {{ animal.size }} |
-  {% endfor -%}
+  {%- endfor %}
 line
 
 
