@@ -30,7 +30,7 @@ To use the `data` folder, one can write
 You will need this specific
 
 |a | b|
-|c|
+|c| d |
 line
    
 
