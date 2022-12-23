@@ -19,7 +19,7 @@ layout: page_light
 
 **2. 单个字母的读法**
 
-| 法语单词 |
+| 单词缩写 |
 {%- for word in site.data.wordlist_french_acronyms %} 
   | {{ word.French }} | 
 {%- endfor %}
