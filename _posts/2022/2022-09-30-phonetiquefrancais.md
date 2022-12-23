@@ -6,10 +6,11 @@ categories:
   - "法语启蒙"
 ---
 
-请读出以下单词
 
-一般来说：词尾辅音不发音，但词尾的r, l, f, c, q要发音。
+**1. 请读出以下单词**
 
+提醒：一般来说：词尾辅音不发音，但词尾的r, l, f, c, q要发音。
+```
 agneau
 amande
 amende
@@ -17,43 +18,43 @@ architecte
 attention
 au café
 au revoir
-Auchan    欧尚超市
+Auchan        欧尚超市
 beau
 bien
-bienvenue 欢迎
+bienvenue     欢迎
 bois
 boisson
-bon       好的
-bonjour   你好（白天）
-bonsoir   你好（晚上）
+bon           好的
+bonjour       你好（白天）
+bonsoir       你好（晚上）
 Boulogne
-carrefour 十字路口
-Carrefour 家乐福超市
-cent      百
+carrefour     十字路口
+Carrefour     家乐福超市
+cent          百
 chaise
 chanson
-chante(s) 唱
+chante(s)     唱
 chat
 château
 Châtelet
 chef
 chien
-Chine     中国
-Chinois   中国人
-chinois   中国的，中国人的
+Chine         中国
+Chinois       中国人
+chinois       中国的，中国人的
 chou
 cochon
 combien
-coucou    你好（亲近的人）
+coucou        你好（亲近的人）
 couloir
 cousin
 cousine
 dentiste
-don       捐赠
+don           捐赠
 donc
 de l'eau
 une carafe d'eau
-enchanté  很高兴
+enchanté      很高兴
 enfant
 entendu
 espagnol
@@ -61,46 +62,46 @@ famille
 femme
 fente
 fille
-font      （他们）做
-fou       疯的
-gant      手套（一只）
-gants     手套（一双或者更多）
+font         （他们）做
+fou           疯的
+gant          手套（一只）
+gants         手套（一双或者更多）
 gramme
 grand
 grande
 homme
 honte
-Hugo      雨果（男名）
+Hugo          雨果（男名）
 juillet
-Juliette  朱丽叶（女名）
+Juliette      朱丽叶（女名）
 lasagnes
-Laurent   洛朗（男名）
-lent      慢
-lentement 慢慢地
+Laurent       洛朗（男名）
+lent          慢
+lentement     慢慢地
 lien
-loi       法律
-long      长的
-lu        读了
+loi           法律
+long          长的
+lu            读了
 mais
 maison
 menton
-moi       我
-mon       我的
+moi           我
+mon           我的
 mouchoir
 mur
-mutuel    相互的
-mutuelle  医疗保险
+mutuel        相互的
+mutuelle      医疗保险
 nom
 noix
-nous      我们
-nu        裸的
+nous          我们
+nu            裸的
 numéro
-oie       鹅
+oie           鹅
 oncle
 orange
-pardon    不好意思
-parent    父母（一方）
-parents   父母
+pardon        不好意思
+parent        父母（一方）
+parents       父母
 poisson
 photo
 prends
@@ -114,49 +115,51 @@ quoi
 rendez-vous  约会，见面
 réseau
 rien
-roi       国王
+roi          国王
 rond
 ronde
 roue
-rue       路，街
-salut     嗨
+rue          路，街
+salut        嗨
 sang
-santé     健康
+santé        健康
 Seine
 seize
 sœur
-soi       自己
-soie      丝绸
+soi          自己
+soie         丝绸
 sommes
-son       他的/她的/它的
-sous      在……下面
-tante     父/母的姐妹
+son          他的/她的/它的
+sous         在……下面
+tante        父/母的姐妹
 temps
-tente     帐篷
-tiens     拿着
+tente        帐篷
+tiens        拿着
 tient
 thon
-toi       你
-ton       你的
+toi          你
+ton          你的
 tout
-tu        你
+tu           你
 veau
-vent      风
-vous      你们，您
-viens     来
+vent         风
+vous         你们，您
+viens        来
 vient
-vu        见了
+vu           见了
 
-单个字母的读法
+**2. 单个字母的读法**
 
-TGV
+```
+BNF
+BNP
+CDG
+LCL
+PDG
 RATP
 RER
 SNCF
 SG
-BNP
-LCL
-PDG
-CDG
+TGV
 UE
-BNF
+```
