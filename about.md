@@ -21,10 +21,12 @@ To uses the `_include` folder, one can write {% comment %}{% include big-cat.htm
     alt="face of a big tiger" >
 
 To use the `data` folder, one can write
-  <!--Need white space control.-->
+  {% comment %}
+    Need whitespace control.
+    The {%- endfor deletes the return/new line in the for loop.
+  {% endcomment %}
   {% for animal in site.data.animal_list %} 
     | {{ animal.name }} | {{ animal.size }} |
-  <!--Stop producing a new line.-->
   {%- endfor %}
 line
 
