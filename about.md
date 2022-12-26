@@ -36,7 +36,7 @@ You will need this specific
 |c| 
 
 You will need this specific
-| | |
+| a| as |
 | --- | --- |
 |a | b|
 |c| 
