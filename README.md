@@ -1,4 +1,4 @@
-The webversion is [here]({{ page.url }})
+The webversion is [here]({{ site.url }})
 
 # Extremely strange
 This is a line
