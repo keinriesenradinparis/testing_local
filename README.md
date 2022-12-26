@@ -1,3 +1,5 @@
+The webversion is [here]({{ page.url }})
+
 # Extremely strange
 This is a line
 
