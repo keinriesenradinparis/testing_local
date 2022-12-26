@@ -32,6 +32,17 @@ To use the `data` folder, one can write
 You need whitespace control of the for loop.
 
 You will need this specific
+|a | b|
+|c| 
+
+You will need this specific
+| | |
+| --- | --- |
+|a | b|
+|c| 
+
+
+You will need this specific
 
 |a | b|
 |c| 
