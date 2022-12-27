@@ -4,6 +4,13 @@ title: About me
 example: Example Text
 ---
 
+```
+  田中さんは北京に行ったことがありません。
+  田中先生没去过北京。
+```
+
+> asd 
+
 ## Who am I
 
 I am a financial analyst trying to establish my own blog where I would like to share personal notes across various themes.
