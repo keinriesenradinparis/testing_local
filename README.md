@@ -1,6 +1,3 @@
----
-title:"readme"
----
 The webversion is [here](https://keinriesenradinparis.github.io/testing_local/)
 
 # Extremely strange
