@@ -89,3 +89,7 @@ $on-large:        800px !default;
 th, td {
   padding-right: $spacing-unit; // or possibly $spacing-unit / 2
 }
+
+.overflow-wrapper {
+  overflow-x: auto;
+}
