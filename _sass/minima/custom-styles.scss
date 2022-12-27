@@ -6,17 +6,9 @@
  * Blockquotes
  */
 blockquote {
-  color: $brand-color;
-  border-left: 4px solid $border-color-01;
-  padding-left: $spacing-unit / 2;
-  @include relative-font-size(1.125);
-  font-style: italic;
-
-  > :last-child {
-    margin-bottom: 0;
-  }
-
+  font-style: normal;
+  
   i, em {
-    font-style: normal;
+    font-style: italic;
   }
 }
