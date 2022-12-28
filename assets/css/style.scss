@@ -2,9 +2,9 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
-@import "minima";
-//   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
-//   "minima/initialize";
+@import // "minima";
+  "minima-{{ site.minima.skin | default: 'classic' }}",
+  "minima/initialize";
 
 .overflow-wrapper {
   overflow-x: auto;
