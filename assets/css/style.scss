@@ -5,3 +5,7 @@
 @import "minima";
 //   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
 //   "minima/initialize";
+
+.overflow-wrapper {
+  overflow-x: auto;
+}
