@@ -5,6 +5,7 @@ date: "2022-12-25"
 categories:
   - "languages"
   - "japanese"
+layout: page
 ---
 
 This is a personal summary of Duolingo's Guidebook for learning Japanese by Chinese.
