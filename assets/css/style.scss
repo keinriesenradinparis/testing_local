@@ -3,7 +3,7 @@
 ---
 
 @import // "minima";
-  "/minima/skins/{{ site.minima.skin | default: 'classic' }}.scss",
+//   "/minima/skins/{{ site.minima.skin | default: 'classic' }}.scss",
   "minima/initialize";
 
 .overflow-wrapper {
