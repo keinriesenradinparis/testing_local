@@ -1076,6 +1076,7 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 注意啦，这样得来的动词，由于「る」之前的假名变到了「え段」，所以**可能态都是二类动词**。
 
 来看一下常用一类动词是如何变成可能态的吧！
+
 | ます形 | 可能态 |
 | --- | --- |
 | 行（い）きます | 行ける |
