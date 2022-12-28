@@ -2,10 +2,12 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
+@import "minima/custom-variables";
+@import "_sass/minima/custom-styles.scss";
 // This is required by Minima
 @import "minima";
-// @import "_sass/minima/custom-styles.scss";
-@import "minima/custom-variables";
+
+
 
 blockquote p{
   font-style: normal;
