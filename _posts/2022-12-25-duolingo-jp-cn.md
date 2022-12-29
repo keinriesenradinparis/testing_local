@@ -7,7 +7,7 @@ categories:
   - "japanese"
 ---
 
-This is a personal summary of Duolingo's Guidebook for learning Japanese by Chinese.
+1. This is a personal summary of Duolingo's Guidebook for learning Japanese by Chinese.
 
 {:toc}
 
