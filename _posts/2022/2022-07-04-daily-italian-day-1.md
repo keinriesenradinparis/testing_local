@@ -72,7 +72,7 @@ More vocabulary:
 | la città eterna | Roma |
 ```
 
-### Express preference
+## Express preference
 
 Do you like...?
 - Ti piace + IL NOME/INFINITO?
@@ -106,9 +106,8 @@ Certo!          Sure!
 Tantissimo!     Very much!
 È facile!       It is easy!
 ```
-* * *
 
-##### **Express feelings**
+## **Express feelings**
 
 I am + hot/cold/hungry/thirsty/sleepy.
 - Hai + ...?
