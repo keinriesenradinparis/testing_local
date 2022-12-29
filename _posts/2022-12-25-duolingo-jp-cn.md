@@ -7,13 +7,15 @@ categories:
   - "japanese"
 ---
 
-1. This is a personal summary of Duolingo's Guidebook for learning Japanese by Chinese.
+This is a personal summary of Duolingo's Guidebook for learning Japanese by Chinese.
 
-{:toc}
+
 
 ## 第3部分
+{:toc}
 
 ### 重点语句：与人打招呼
+{:toc}
 - すみません！请问！
 - こんにちは！你好！
 - ただいま。我回来了。
