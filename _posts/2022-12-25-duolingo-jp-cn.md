@@ -52,7 +52,7 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
   请开门。
 
 
-## 第4部分 [_^](#markdown-toc)
+## 第4部分 [ ^](#markdown-toc)
 
 ### 语法点：陈述、提问和否定表达
 用日语提问只需在陈述句的句尾加上「か」就可以了。为了构成否定句，需要将「ます」结尾的动词形式将「ます」变成「ません」，表达“我不是……”的时候可以把「です」换成
