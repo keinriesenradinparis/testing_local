@@ -74,7 +74,6 @@ permalink: /:year/:month/:day/:title:output_ext
   
 # plugins:
 # - jekyll-toc
-	
 # # TOC Settings
 # toc:
 #  min_level: 1
