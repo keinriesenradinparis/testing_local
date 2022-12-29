@@ -73,7 +73,7 @@ permalink: /:year/:month/:day/:title:output_ext
   
   
 plugins:
-	- jekyll-toc
+- jekyll-toc
 	
 # TOC Settings
 toc:
