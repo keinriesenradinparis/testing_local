@@ -9,7 +9,7 @@ categories:
 
 This is a personal summary of Duolingo's Guidebook for learning Japanese by Chinese.
 
-<div class="wrapper"><a class="site-title" rel="author" href="/testing_local/">Naive playground</a><nav class="site-nav">
+<div class="wrapper"><a class="site-title" rel="author" href="/testing_local/">Naive playground</a>
         <input type="checkbox" id="nav-trigger" class="nav-trigger" />
         <label for="nav-trigger">
           <span class="menu-icon">
@@ -18,9 +18,8 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
             </svg>
           </span>
         </label>
-
-        <div class="trigger"><a class="page-link" href="/testing_local/languages.html">Languages</a><a class="page-link" href="/testing_local/about.html">About me</a><a class="page-link" href="/testing_local/2022-07-03-voyages.html">Voyages</a></div>
-      </nav></div>
+<div class="trigger"><a class="page-link" href="/testing_local/languages.html">Languages</a><a class="page-link" href="/testing_local/about.html">About me</a><a class="page-link" href="/testing_local/2022-07-03-voyages.html">Voyages</a></div>
+      </div>
       
       
 <nav>
