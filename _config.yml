@@ -6,6 +6,8 @@ description: > # this means to ignore newlines until "show_excerpts:"
   Do you want a description?
 # show_excerpts: true
 markdown: kramdown
+kramdown:
+  parse_block_html: true
 
 # URL VARIABLES [optional!]
 #
