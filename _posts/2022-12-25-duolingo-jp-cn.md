@@ -11,7 +11,7 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 
 <div class="wrapper">
 <!--       <a class="site-title" rel="author" href="/testing_local/">Naive playground</a> -->
-  <nav class="site-nav">
+  <nav>
       <input type="checkbox" id="nav-tableofcontent-trigger" class="nav-trigger" />
       <label for="nav-trigger">
         <span class="menu-icon">
