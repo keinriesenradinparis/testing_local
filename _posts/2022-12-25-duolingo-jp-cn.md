@@ -8,9 +8,12 @@ categories:
 ---
 
 This is a personal summary of Duolingo's Guidebook for learning Japanese by Chinese.
+
 <nav>
   {:toc}
 </nav>
+
+
 ## 第3部分
 
 ### 重点语句：与人打招呼
