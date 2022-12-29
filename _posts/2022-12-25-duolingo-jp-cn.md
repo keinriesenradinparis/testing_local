@@ -44,8 +44,7 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
   游多少米？
 > ドアを開けてください。\
   请开门。
-
-<div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
+  
 ## 第4部分
 
 ### 语法点：陈述、提问和否定表达
