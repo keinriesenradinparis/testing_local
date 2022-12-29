@@ -9,7 +9,7 @@ categories:
 
 This is a personal summary of Duolingo's Guidebook for learning Japanese by Chinese.
 
-{% toc %}
+{:toc}
 
 ## 第3部分
 
