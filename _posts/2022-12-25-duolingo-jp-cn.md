@@ -9,15 +9,26 @@ categories:
 
 This is a personal summary of Duolingo's Guidebook for learning Japanese by Chinese.
 
-<nav>
-  * 目录
+<details markdown=block>
+  <summary markdown=span>Collapsed table of content</summary>
+  
+  * This is the auto-generated table of content, and this line is invisible.
   {:toc}
-</nav>
+</details>
 
+### 目录
+{:.no_toc}
+* This is the auto-generated table of content, and this line is invisible.
+{:toc}
+
+
+<div style="float: right;" font-size=5px markdown="block">
+  [Go to top^](#top)
+</div>
 
 ## 第3部分
 
-### 重点语句：与人打招呼
+### 重点语句：与人打招呼 
 - すみません！请问！
 - こんにちは！你好！
 - ただいま。我回来了。
@@ -52,7 +63,7 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
   请开门。
 
 
-## 第4部分 [ ^](#markdown-toc)
+## 第4部分
 
 ### 语法点：陈述、提问和否定表达
 用日语提问只需在陈述句的句尾加上「か」就可以了。为了构成否定句，需要将「ます」结尾的动词形式将「ます」变成「ません」，表达“我不是……”的时候可以把「です」换成
@@ -121,16 +132,6 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 
 ## 第5部分
 
-### 重点语句：询问饮食相关问题
-  それは何ですか？
-  那是什么？
-  それは水です。
-  那是水。
-  それをください。
-  请给我那个。
-
-
-
 ### 语法点：宾格助词「を」
 宾格也称受格，指接受动作行为的对象。在谈论接受动作行为的名词时，比如说“吃”东西或“喝”东西时，需要将「を」加在名词后面。
 > やさいを食べます。\
@@ -162,7 +163,7 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 ### 语法点：计时
 想要说出更准确的时间时，请留意发音，它可能会根据数字的不同而发生小小的变化。
 
-「時」读「じ」，而「分」的读音根据数字有细微变化：在一、三、四、六、八后「分」的读音是「ぷん」，在二、五、七、九后「分」的读音是「ふん」。
+「時」读「じ」，而「分」的读音根据数字有细微变化：在一、三、四、六、八后读音是「ぷん」，在二、五、七、九后读音是「ふん」。
 
 | 数字计时 | 汉字计时 |
 | --- | --- |
@@ -1346,10 +1347,6 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 
 > 朝ご飯を食べなかったので、おなかがぺこぺこです。\
   因为没吃早饭，肚子饿了。
-
-
-### TODO
-最后一个例子里，用了简体，为什么不用「て形」接续？
 
 ### 语法点：“不过……”
 「けど」连接两个句子，表示转折。
