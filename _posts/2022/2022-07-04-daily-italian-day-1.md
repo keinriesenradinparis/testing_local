@@ -112,6 +112,7 @@ Tantissimo!     Very much!
 I am + hot/cold/hungry/thirsty/sleepy.
 - Hai + ...?
 - Ho/Non ho + ...
+
 ```
 caldo   hot
 freddo  cold
@@ -149,6 +150,7 @@ What do you want to do?
 - Cosa vuoi fare?
   Vuoi + INFINITO?
 - Voglio/Non voglio + INFINITO.
+
 ```
 mangiare   to eat
 bere       to drink
@@ -167,8 +169,9 @@ Here, _voglio/vuoi_ is the verb _volere_ "want" conjugated in the first/second p
 
 What is this?
 - Cos'è questo/a?
-- Questo è + NOME MASCHILE.
+- Questo è + NOME MASCHILE.\
   Questa è + NOME FEMMINILE.
+  
 ```
 un bicchiere d'acqua  a glass of water
 un caffè(=espresso)   an expresso
