@@ -16,3 +16,7 @@ blockquote {
 table td {
   white-space: nowrap;
 }
+
+details {
+  margin-bottom: $spacing-unit / 2;
+}
