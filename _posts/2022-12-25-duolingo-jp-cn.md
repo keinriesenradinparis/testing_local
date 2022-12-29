@@ -25,6 +25,8 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
         </div>
       </nav>
 <nav>
+  
+  
   <h4>Table of Contents</h4>
   * this unordered seed list will be replaced by toc as unordered list
   {:toc}
