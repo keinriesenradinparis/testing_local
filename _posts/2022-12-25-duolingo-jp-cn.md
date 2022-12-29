@@ -10,7 +10,7 @@ categories:
 This is a personal summary of Duolingo's Guidebook for learning Japanese by Chinese.
 
 <div class="wrapper"><a class="site-title" rel="author" href="/testing_local/">Naive playground</a>
-        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <input type="checkbox" id="nav-tableofcontent-trigger" class="nav-trigger" />
         <label for="nav-trigger">
           <span class="menu-icon">
             <svg viewBox="0 0 18 15" width="18px" height="15px">
