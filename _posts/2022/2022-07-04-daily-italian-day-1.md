@@ -97,7 +97,6 @@ viaggiare        to travel
 parlare italiano
 studiare
 ```
-
 Here, instead of an active expression such as "I like...", we use _piacere a qualcuno_ "please someone" to tell that someone likes something.
 
 More vocabulary:
