@@ -47,9 +47,9 @@ Thanks!
 
 Where are you from?
 - Di dove sei?
-- Sono di + CITTÀ/IL PAESE.\
+- Sono di + CITTÀ/IL PAESE.
   > _di Parigi_, _dell'Italia_
-  
+
   Vengo da + CITTÀ/IL PAESE.
   > _da Roma, dalla Cina_
 
@@ -79,8 +79,8 @@ Do you like...?
   > _Ti piace la pasta?_
 
   > _Ti piace leggere?_
-- Sì, mi piace (molto).\
-  No, non mi piace.\
+- Sì, mi piace (molto).  
+  No, non mi piace.  
   Così così.
 
 Practice with the following words.
@@ -97,6 +97,7 @@ viaggiare        to travel
 parlare italiano
 studiare
 ```
+
 Here, instead of an active expression such as "I like...", we use _piacere a qualcuno_ "please someone" to tell that someone likes something.
 
 More vocabulary:
@@ -106,7 +107,7 @@ Tantissimo!     Very much!
 È facile!       It is easy!
 ```
 
-## **Express feelings**
+## Express feelings
 
 I am + hot/cold/hungry/thirsty/sleepy.
 - Hai + ...?
@@ -146,7 +147,7 @@ Ind.      Pres.   Impf.      Pass. rem. Fut. sem.
 ```
 
 What do you want to do?
-- Cosa vuoi fare?
+- Cosa vuoi fare?  
   Vuoi + INFINITO?
 - Voglio/Non voglio + INFINITO.
 
@@ -168,7 +169,7 @@ Here, _voglio/vuoi_ is the verb _volere_ "want" conjugated in the first/second p
 
 What is this?
 - Cos'è questo/a?
-- Questo è + NOME MASCHILE.\
+- Questo è + NOME MASCHILE.  
   Questa è + NOME FEMMINILE.
   
 ```
@@ -184,7 +185,7 @@ In Italian, there are two genders: masculine and feminine. Articles, adjectives 
 
 Can I have ..., please?
 - Posso avere..., per favore?
-- Ecco (a te).  (Here it is for you.)
+- Ecco (a te).  (Here it is for you.)\
   Puoi avere...
 
 Here, _posso/puoi_ is the verb _potere_ "can" conjugated in the first/second person singular in the present tense. _Ecco_ means "here (it is)".
@@ -201,7 +202,7 @@ Is that enough?
 - Va bene.  (Alright/That's fine.)
 
 Do you have...?
-- Hai...? (informal)
+- Hai...? (informal)  
   Ha...?  (formal)
-- Sì, ce l'ho.
+- Sì, ce l'ho.  
   No, non ce l'ho.
