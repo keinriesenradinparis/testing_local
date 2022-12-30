@@ -1,12 +1,9 @@
-.overflow-wrapper {
-  overflow-x: auto;
-}
-
 /**
  * Blockquotes
  */
 blockquote {
   font-style: normal;
+  @include relative-font-size(0.875);
   
 //   i, em {
 //     font-style: italic;
@@ -15,6 +12,10 @@ blockquote {
 
 table td {
   white-space: nowrap;
+}
+
+.overflow-wrapper {
+  overflow-x: auto;
 }
 
 details {
