@@ -11,8 +11,8 @@ layout: default
   <div class="post-content">
     {{ content }}
     
-    {% assign if_print_post_lists = {{ page.if_print_post_lists | default: true }} %}
-    {% if if_print_post_lists %}
+    {% assign page.if_print_post_lists = {{ page.if_print_post_lists | default: true }} %}
+    {% if page.if_print_post_lists %}
     {% comment %} 
        This filters out the posts within the given category associated with the page.
     {% endcomment %}  
