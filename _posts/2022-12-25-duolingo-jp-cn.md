@@ -13,7 +13,7 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
   <summary markdown=span>Collapsed table of content</summary>
   
   * This is the auto-generated table of content, and this line is invisible.
-  {:toc}
+<!--   {:toc} -->
 </details>
 
 ### 目录
