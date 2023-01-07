@@ -11,8 +11,6 @@ layout: default
   <div class="post-content">
     {{ content }}
     
-    {{ page.if_print_post_list }}
-    {{ page.if_print_post_list | default: true }}
     {% assign if_print_post_list = {{ page.if_print_post_list | default: true }} %}
     {{ if_print_post_list }}
     {% if if_print_post_list %}
