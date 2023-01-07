@@ -2,7 +2,7 @@
 # layout: page_light
 title: 法语启蒙（总结）
 page_category: "法语启蒙"
-print_post_list: false
+if_print_post_list: false
 ---
 
 {% comment %} 
