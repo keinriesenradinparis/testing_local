@@ -11,6 +11,7 @@ layout: default
   <div class="post-content">
     {{ content }}
     
+    {% if {{ page.print_posts | default: true }} %}
     {% comment %} 
        This filters out the posts within the given category associated with the page.
     {% endcomment %}  
@@ -23,6 +24,7 @@ layout: default
         Alternatively, one can write
         {% assign posts = site.posts | where:"categories", page.page_category %}
       {% endcomment %}
+    {% endif %}
     {% endif %}
     
     {% include print_posts.html content=posts %}
