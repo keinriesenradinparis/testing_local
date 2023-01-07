@@ -18,8 +18,8 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 
 <!-- ### 目录 -->
 <!-- {:.no_toc} -->
-* This is the auto-generated table of content, and this line is invisible.
-{:toc}
+<!-- * This is the auto-generated table of content, and this line is invisible. -->
+<!-- {:toc} -->
 
 
 <div style="float: right;" font-size=5px markdown="block">
