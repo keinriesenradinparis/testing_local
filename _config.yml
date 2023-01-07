@@ -55,7 +55,7 @@ defaults:
 header_pages:
 - _pages/languages.md
 - about.md
-- _pages/2022-07-03-voyages.md
+# - _pages/2022-07-03-voyages.md
 - basicfrenchsummary.md
 
 include:
