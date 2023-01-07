@@ -5,6 +5,11 @@ page_category: "法语启蒙"
 if_print_post_list: false
 ---
 
+Cahier audio:
+
+[05]({{ site.baseurl }}/assets/audio/05 Pista 5.mp3)
+
+
 {% comment %} 
    This filters out the posts within the given category associated with the page.
 {% endcomment %}
