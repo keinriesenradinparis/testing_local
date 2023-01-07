@@ -18,6 +18,7 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 
 ### 目录
 {:.no_toc}
+
 * This is the auto-generated table of content, and this line is invisible.
 {:toc}
 
@@ -62,6 +63,9 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 > ドアを開けてください。\
   请开门。
 
+<div style="float: right;" font-size=5px markdown="block">
+  [Go to top^](#top)
+</div>
 
 ## 第4部分
 
@@ -129,6 +133,9 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
   Yoku benkyо̄ shimasu.\
   经常学习。
 
+<div style="float: right;" font-size=5px markdown="block">
+  [Go to top^](#top)
+</div>
 
 ## 第5部分
 
@@ -750,6 +757,10 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 「々」表示重复前一个字，例如「時々（時時）」“有时”。
 > 時々一人で海に行きます。\
   有时一个人去海边。
+
+<div style="float: right;" font-size=5px markdown="block">
+  [Go to top^](#top)
+</div>
 
 ## 第21部分
 
