@@ -9,7 +9,7 @@ categories:
 
 ### Alphabet
 
-|||||||||
+|-|-|-|-|-|-|-|-|
 |-|-|-|-|-|-|-|-|
 |   | ก | ข | ฃ | ค | ฅ | ฆ | ง |
 |   | จ | ฉ |   | ช | ซ | ฌ | ญ | 
@@ -19,9 +19,9 @@ categories:
 |   |   |   |   | ย | ร | ล | ว | 
 |   | ศ | ษ | ส |
 |   | š | ṣ | s | 
-| อ |   | ห |           | ฬ | ฮ |
+| อ |   | ห |   |   |   | ฬ | ฮ |
 
-In Thai, all sibilants are all pronounced as /s/, never a retroflex nor palatalised sound.
+In Thai, all sibilants are pronounced as /s/, never a retroflex nor palatalised sound.
 
 ### Keyboard
 
