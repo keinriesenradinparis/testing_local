@@ -5,8 +5,6 @@ page_category: "法语启蒙"
 if_print_post_list: false
 ---
 
-asdlkj中文**加粗**
-
 ## Cahier 音频:
 
 - [05]({{ site.baseurl }}/assets/audio/05 Pista 5.mp3)
