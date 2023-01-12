@@ -10,6 +10,8 @@ categories:
 * Table of contents
 {:toc}
 
+中文**加粗**
+
 ## 文字
 
 ### 字母表
