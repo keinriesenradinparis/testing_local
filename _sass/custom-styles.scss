@@ -1,6 +1,9 @@
-/**
- * Blockquotes
- */
+$base-font-family: Helvetica, Arial, sans-serif, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", "Segoe UI Emoji", "Segoe UI Symbol", "Apple Color Emoji", roboto !default;
+
+body {
+  font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
+}
+
 blockquote {
   font-style: normal;
   @include relative-font-size(0.95);
