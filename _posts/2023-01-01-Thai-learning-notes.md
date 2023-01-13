@@ -157,7 +157,7 @@ A tips for those beginners in Thai. A good way to memorise the alphabet table is
 即使表达同个人称，也有好多不同的词，它们要在不同场合下使用。有兴趣的话可以阅读这篇论文：[《现代汉泰语人称代词对比》](https://repository.au.edu/server/api/core/bitstreams/93b041f8-7001-4401-9b27-81f72d29fc7f/content)。例如：
 - 表达“你/我”，泰语有
   > ผม ฉัน ชั้น หนู เค้า เรา ข้า กู มึง
-- 展开说说หนู“老鼠”。通常这是女性晚辈对长辈自称时的“我”（自谦）。但若是长辈对女性晚辈说หนู，那么这不是自谦，而是在说“你”。长辈是不会对晚辈用หนู来自我称呼的。此外，现在其实也有少数男生用หนู自谦，表示对对方的尊重，不过主流还是女性使用。
+- 展开说说หนู “老鼠”。通常这是女性晚辈对长辈自称时的“我”（自谦）。但若是长辈对女性晚辈说หนู，那么这不是自谦，而是在说“你”。长辈是不会对晚辈用หนู来自我称呼的。此外，现在其实也有少数男生用หนู自谦，表示对对方的尊重，不过主流还是女性使用。
 
 泰语中有很多小品词例如初学时最常用的
 > ครับ/ค่ะ คะ
@@ -175,7 +175,7 @@ A tips for those beginners in Thai. A good way to memorise the alphabet table is
 
 ### ไป的用法
 
-- ไป意思是“去”，反义词是มา“来”。
+- ไป意思是“去”，反义词是มา “来”。
   > ปุ้ยไปตลาดทุกสัปดาห์  
     （我的名字）-去-市场-每-星期  
     我每星期去市场。
@@ -265,6 +265,7 @@ A tips for those beginners in Thai. A good way to memorise the alphabet table is
   อิ่ม 饱  
   ง่วง 困  
   นอน 睡  
+  
 第二组
 > นั่ง 坐  
   ลุก 起来  
@@ -272,6 +273,7 @@ A tips for those beginners in Thai. A good way to memorise the alphabet table is
   เดิน 走  
   ไป 去  
   มา 来  
+
 第三组
 > เรียน 学  
   เขิยน 写  
@@ -279,6 +281,7 @@ A tips for those beginners in Thai. A good way to memorise the alphabet table is
   พุด 说  
   ฟัง 听  
   ทำงาน 工作  
+
 第四组
 > รัก 爱  
   ชอบ 喜欢  
@@ -298,8 +301,8 @@ A tips for those beginners in Thai. A good way to memorise the alphabet table is
   > เรา 我  
   > แก 你（熟人）  
     เธอ 你（不太熟的人）
-- 晚辈对长辈说หนู“鼠”，是“我”的谦称；  
-  长辈对晚辈说หนู“鼠”，是“你”的意思。
+- 晚辈对长辈说หนู “鼠”，是“我”的谦称；  
+  长辈对晚辈说หนู “鼠”，是“你”的意思。
 - 男女朋友之间会用
   > เค้า 我
   > ตัวเอง 你
