@@ -1,34 +1,35 @@
 ---
-# Resources: https://www.duolingo.com/guidebook/ja/
-title: "（用中文）学日语基础"
+title: "Duolingo用中文学日语-指南Guidebook"
 date: "2022-12-25"
 categories:
   - "languages"
   - "japanese"
 ---
 
-This is a personal summary of Duolingo's Guidebook for learning Japanese by Chinese.
+These are notes of what I have learnt from Duolingo's Guidebook for learning Japanese by Chinese (resources: <https://www.duolingo.com/guidebook/ja/>).
 
 <details markdown=block>
-  <summary markdown=span>Collapsed table of content</summary>
+  <summary markdown=span>**Collapsed table of content**</summary>
   
   * This is the auto-generated table of content, and this line is invisible.
   {:toc}
 </details>
 
-<!-- ### 目录 -->
-<!-- {:.no_toc} -->
-<!-- * This is the auto-generated table of content, and this line is invisible. -->
-<!-- {:toc} -->
+<!-- Only one toc could be generated. -->
+<!-- ### 目录
+{:.no_toc}
+* This is the auto-generated table of content, and this line is invisible.
+{:toc} -->
 
 
 <div style="float: right;" font-size=5px markdown="block">
   [Go to top^](#top)
 </div>
 
-## 第3部分
+## 零、
 
-### 重点语句：与人打招呼 
+### 与人打招呼 
+
 - すみません！请问！
 - こんにちは！你好！
 - ただいま。我回来了。
@@ -36,10 +37,7 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 - いただきます。我开动了。
 - ごちそうさまでした。我吃饱了。
 
-### 语法点：你叫什么名字？
-日语却忽略“我”或“他”之类的单词，人们基本上是通过上下文来理解句子里指的是谁。
-
-在日语中，动词位于**句尾**。 
+### 介绍名字
 
 介绍自己可以用「……です」，表示“是……”。
 > はじめまして、マリアです。\
@@ -49,26 +47,27 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 > こんにちは！マリアといいます。\
   你好！我叫玛丽亚。
 
+注意到：
+- 日语常常忽略“我”或“他”之类的单词，人们基本上是通过上下文来理解句子里指的是谁。
+- 在日语中，动词位于**句尾**。 
+
 ### 书写系统
+
 日文书写会同时使用平假名、片假名和日汉字。
 - 平假名是汉字草书演变过来的。
 - 片假名是汉字偏旁演变过来的。
 - 日汉字则是直接来自汉字，形态变化较少。汉字会根据其所在的单词变换发音，分为训读和音读。汉字是用来书写部分日语词汇的，训读就是只采用汉字的意思而用日语固有词的发音，与之相对的音读则是保留了汉字的意思兼读音。例如，“中”的发音在「田中」(Tanaka) 里和在「中国」(Chūgoku) 里是不一样的。
 
-### 语法点：外来语
-日语在古代从中国引进了汉语，近现代则从欧美引进了外来语。外来语一般用片假名表记，主要是人名、地名和从欧美语言引进的名词。如「アメリカ」、「コンビニ」和「コーヒー」都是外来语。来看一下其他例词吧！
+### 外来语
+
+日语在古代从中国引进了汉语，近现代则从欧美引进了外来语。外来语一般用片假名表记，主要是人名、地名和从欧美语言引进的名词。如「アメリカ」(america)、「コンビニ」(konbini) 和「コーヒー」(kōhī) 都是外来语。来看一下其他例词吧！
 > 何メートル泳ぎますか？\
   游多少米？
+  
 > ドアを開けてください。\
   请开门。
 
-<div style="float: right;" font-size=5px markdown="block">
-  [Go to top^](#top)
-</div>
-
-## 第4部分
-
-### 语法点：陈述、提问和否定表达
+### 陈述、提问和否定表达
 用日语提问只需在陈述句的句尾加上「か」就可以了。为了构成否定句，需要将「ます」结尾的动词形式将「ます」变成「ません」，表达“我不是……”的时候可以把「です」换成
 「ではありません」。
 > 「日本人」nihonjin：\
@@ -107,8 +106,8 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
   Ongaku wa amari kikimasen.\
   不怎么听音乐。
 
+### 格助词「と」
 
-### 语法点：格助词「と」和
 「……と」可以用来表达“和……”，表示并列或伴随。
 > 田中さんは日本語と英語が話せます。\
   田中先生会说日语和英语。
@@ -116,14 +115,21 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 > 父と母の間にねこがいます。\
   我爸爸和妈妈之间有猫。
 
-「や」也可以用来表达“和”，用于**部分**列举名词，表示还存在其他类似的事物，最后可以接上「など」“等等”（但通常不需要接）。 
+「や」也可以用来表达“和”，用于**部分列举**名词，表示还存在其他类似的事物，最后可以接上「など」“等等”（但通常不需要接）。 
 > 机の上に本やノートがあります。\
   桌上有书和笔记本。（可能还有别的）
   
 > 机の上に本とノートがあります。\
   桌上有书和笔记本。（没有别的了）
 
-### 语法点：します
+<div style="float: right;" font-size=5px markdown="block">
+  [Go to top^](#top)
+</div>
+
+## 一、
+
+### 名词作动词「します」
+
 在中文里，我们有“散步”、“学习”这样的词，既可作名词也可直接作动词，但日语中这样的名词需要加上「します」一起使用才能表示动作，其中「します」可以理解为“进行”某动作，没有具体的翻译。可以比较「します」的本义：“做”某事。
 > よくさんぽします。\
   经常散步。
@@ -132,13 +138,10 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
   Yoku benkyо̄ shimasu.\
   经常学习。
 
-<div style="float: right;" font-size=5px markdown="block">
-  [Go to top^](#top)
-</div>
+会发现这类名词通常是汉字词。
 
-## 第5部分
+### 宾格助词「を」
 
-### 语法点：宾格助词「を」
 宾格也称受格，指接受动作行为的对象。在谈论接受动作行为的名词时，比如说“吃”东西或“喝”东西时，需要将「を」加在名词后面。
 > やさいを食べます。\
   Yasai o tabemasu.\
@@ -160,13 +163,15 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
   Gohan wa tabemasen.\
   （我）不吃米饭。
 
-### 语法点：「敬語・けいご」
+### 敬语（けいご）
+
 日语许多词汇有敬语/平语之分。其中一类很明显的特征是在所尊敬的人的动作或所有物前加上「お」、也有加「ご」的，比如「おちゃ」“茶”、「お写真」“照片”、「お名前」“名字”、「ご家族」“家人”。许多日常用语里也能见到敬语。
 > お元気ですか？
 
 > お願（ねが）いします！
 
-### 语法点：计时
+### 表达时间
+
 想要说出更准确的时间时，请留意发音，它可能会根据数字的不同而发生小小的变化。
 
 「時」读「じ」，而「分」的读音根据数字有细微变化：在一、三、四、六、八后读音是「ぷん」，在二、五、七、九后读音是「ふん」。
@@ -183,9 +188,8 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 | 8:08 | 八時八分 (hachi‑ji hap‑pun) |
 | 9:09 | 九時九分 (ku‑ji kyū‑fun) |
 
-## 第6部分
+### 表时间格助词「に」、表目的地格助词「へ」
 
-### 语法点：时间助词「に」、目的地助词「へ」
 如果想表达时间，就将「に」放在时间的后面！
 > 七時におきます。\
   （我）7点起床。
@@ -194,7 +198,14 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 > 八時に学校へ行きます。\
   （我）8 点去学校。
 
-### 语法点：表达存在
+<div style="float: right;" font-size=5px markdown="block">
+  [Go to top^](#top)
+</div>
+
+## 二、
+
+### “有……”
+
 表示“存在/有”什么东西时，主语用主格助词「が」，动词的话非生物用「あります」，生物用「います」。
 > 家にまどがあります。\
   家里有窗户。
@@ -210,16 +221,13 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 > 家族は中国にいます。\
   家人在中国。
 
-比较
+### 住哪里？
 
-## 第7部分
-
-### 语法点：住哪里？
 表达“住”在哪里，需要将「住んでいます」(sunde imasu) 放在句尾，同时别忘了把「に」放在地点后面。
 > 東京に住んでいます。\
   我住在东京。
 
-### 语法点：去哪里？
+### 去哪里？
 
 表达“去哪里”时，可以将「に」放在目的地后面。
 > 京都に行きます。\
@@ -230,7 +238,8 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 
 前面学过表示目的地的助词「へ」。相比之下，「に」更强调**目的地**或**结果**，而「へ」更强调**方向**或**过程**。
 
-### 语法点：人称代词
+### 人称代词
+
 用日语表达“我的”，只要说「私の」就可以了。
  
 | 人称 | 所属 |
@@ -240,9 +249,8 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 | かのじょ (kanojo) “她” | かのじょの “她的” |
 | かれら (karera) “他们” | かれらの “他们的” |
 
-## 第8部分
+### 数数
 
-### 语法点：数数儿
 最常用的量词是以「つ」结尾。它的发音模式和之前表达时间用的数字**读法**完全不同。
  
 | 数字 | 计数单位「つ」 |
@@ -293,10 +301,8 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 
 其他数词（包括复合数词）只有音读而没有训读。
 
+### 喜欢什么？
 
-
-
-### 语法点：你喜欢什么？
 想说“我喜欢”水或“我喜欢”茶的话，用「が」来标记喜欢的事物，再用「好きです」(suki desu) 结尾。
 > おちゃが好きです。\
   Ocha ga suki desu.\
@@ -307,9 +313,8 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
   Yasai wa suki janai desu.\
   （我）不喜欢蔬菜。
 
-## 第9部分
+### 家庭成员的称呼
 
-### 语法点：家庭成员的称呼
 日语里谈论别人的家庭（或与自己的家庭成员交谈），和跟别人介绍自己的家人，用的是不同的称呼。
 
 | 跟别人提自己家 | 别人的家人 |
@@ -329,7 +334,14 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 
 跟别人介绍自己的家人时，无需再加上「私の」，例如「父」就是指“**我的**父亲”。
 
-### 语法点：过去式
+<div style="float: right;" font-size=5px markdown="block">
+  [Go to top^](#top)
+</div>
+
+## 三、
+
+### 过去式
+
 过去式只需改变动词的词尾。
 
 | 现在 | 过去 |
@@ -348,22 +360,21 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
   勉強しませんでした。\
   （我）没学习。
 
-## 第10部分
-
-
 ### 星期的表达
+
 大家可能对此都有印象。以下是日语的星期一到星期日。
-- 星期一：月曜日（げつようび）
-- 星期二：火曜日（かようび）
-- 星期三：水曜日（すいようび）
-- 星期四：木曜日（もくようび）
-- 星期五：金曜日（きんようび）
-- 星期六：土曜日（どようび）
-- 星期日：日曜日（にちようび）
+> 星期一：月曜日（げつようび）  
+> 星期二：火曜日（かようび）  
+> 星期三：水曜日（すいようび）  
+> 星期四：木曜日（もくようび）  
+> 星期五：金曜日（きんようび）  
+> 星期六：土曜日（どようび）  
+> 星期日：日曜日（にちようび）
 
 用太阳系中的行星“月火水木金土日”来命名星期的理由，和古代埃及的星象占卜是有关系的。古代埃及的星象占卜是按太阳系中存在的星球，按离地球从远到近的顺序：即土星、木星、火星、太阳、金星、水星、月亮的顺序排列来占卜的。我们所熟知的文明都是以这些行星相应的神祇来命名星期的。
 
-### 语法点：从哪到哪
+### 从哪到哪
+
 「から」表示起源、来源。注意日语里**助词后置**的现象，因此「から」要放在名词后面。
 > 中国から\
   从中国
@@ -380,12 +391,9 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
   Asa kara yoru made kaishani imasu.\
   从早上到晚上在公司。
 
+### 表达方位（静态、动态）
 
-  
-### 表达方位
-
-### 语法点：方位
-在动词前加「に」来表示东西的位置，加「で」表示动作发生的地点。
+在动词前加「に」来表示东西的**静态**位置，加「で」表示**动作发生**的地点。
 > いすはテーブルの隣にあります。\
   Isu wa tēburu no tonari ni arimasu.\
   椅子在桌子旁边。
@@ -396,9 +404,8 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 
 常用的方位词有：「上」、「下」、「左」、「右」、「隣」、「中」、「間」、「外」、「向（む）かい」“对面”、「側（そば）」“旁边”、「角（かど）」、「横（よこ）」“旁边”、「近（ちか）く」“附近”、「前（まえ）」。
 
-## 第11部分
+### 数人的量词
 
-### 语法点：数人的量词
 数人时我们经常用「人」来表示“个”，发音是にん，但“一个人”和“两个人”有特殊发音，分别是 hitori 和 futari。
 > あねが一人います。\
   Ane ga hitori imasu.\
@@ -413,10 +420,8 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
   Hitori de gakkō ni ikimasu.\
   一个人去学校。
 
+### 工具格助词「で」
 
-## 第12部分
-
-### 语法点：工具格助词「で」
 「で」出现在交通工具的后面表示出行方式，但后面的动词不是「乗ります」而是「行きます」或者「来ます」。
 > タクシーで行きます。\
   Takushī de ikimasu.\
@@ -434,7 +439,8 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 > これは日本語で何と言いますか？\
   这个用日语怎么说？
 
-### 语法点：形容词否定形式
+### 形容词的否定形式
+
 形容词变否定形式时要把词尾的「い」变成「くない」。
 > 「遠い」(tōi)\
   遠くないです。\
@@ -449,10 +455,8 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
   Konshū wa isogashikuarimasen.\
   这周不忙。
 
+### 颜色
 
-## 第13部分
-
-### 语法点：颜色
 如果颜色词以「色」(iro) 结尾，像「むらさき色」和「オレンジ色」，就要在颜色和名词之间加上「の」。
 > 彼女はピンク色のスカートが好きです。\
   Kanojo wa pinku‑iro no sukāto ga suki desu.\
@@ -469,7 +473,8 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 
 这类形容词还有「赤い」”红色的”、「白い」“白色的”、「くろい」“黑色的”。
 
-### 语法点：提议
+### 提议
+
 想提议的时候，我们只要把动词词尾的「ます」换成「ましょう」就可以了！
 > いっしょにれんしゅうしましょう。\
   Isshoni renshūshimashō. \
@@ -484,10 +489,14 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
   Raishū wa hashirimashōka?\
   下周跑步吧？
 
+<div style="float: right;" font-size=5px markdown="block">
+  [Go to top^](#top)
+</div>
 
-## 第14部分
+## 四、
 
-### 语法点：想要什么
+### 想要什么
+
 回顾如何表达喜欢一件事物：用「が」来标记喜欢的事物，再加上动词「好きです」。
 
 表达“想要”什么东西的方法是类似的，用「が」来标记想要的东西，再加上「欲しいです」。
@@ -500,9 +509,8 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
   Murasaki‑iro no sukāto wa hoshikunai desu.\
   不想要紫色的裙子。
 
-## 第15部分
+### 谈论天气冷暖
 
-### 重点语句：谈论天气冷暖
 - 夕方は涼しいですか？\
   傍晚凉爽吗？
 - 夜は暑くないです。\
@@ -517,7 +525,8 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 - 昨日は風が強くふきました。\
   昨天风刮的很大。
 
-### 重点语句：哪边？
+### 哪边？
+
 “这边”和“那边”是根据说话者或听话者跟事物的距离远近不同来选择用词。
 
 | 距离 | 指示词（正式） | （非正式） |
@@ -534,7 +543,8 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
   Omise wa achira desu.\
   商店在那边。
 
-### 语法点：副词
+### 副词
+
 把形容词词尾的「い」换成「く」就变成了副词，比如「強（つよ）い」变成「強く」，「弱（よわ）い」变成「弱く」。
 > 風が強いです。\
   风很大。\
@@ -543,15 +553,13 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
   風が強くふきます。\
   风刮得很大。
 
-## 第16部分
-
-### 语法点
+### 询问意见
 
 询问别人的意见可以用「いかが」，这是一种礼貌的表达方式。
 > これはいかがですか？\
   这个怎么样？
 
-### 语法点：工具格助词「で」
+### 工具格助词「で」
 
 除了“使用”交通工具，表达其他所用工具或是手段也可以用「で」。
 > おはしですしを食べます。\
@@ -564,11 +572,8 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 > カードで支払います。
   用卡支付。
 
-## 第17部分
+### “大”和“小”作定语时的变化
 
-### 重点语句：指路
-
-### 语法点：大和小
 当「大きい」(okī)和「小さい」(chīsai) 出现在名词前时，要变成「大きな」和「小さな」。
 > あちらのコンビニは小さいです。\
   那边的便利店很小。
@@ -576,7 +581,7 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 > あちらに小さなコンビニがあります。\
   那边有家小便利店。
 
-### 语法点：授受动词“送”和“得到”
+### 授受动词“送”和“得到”
 
 日语用「あげます」、「くれます」表示“送”，用「もらいます」表示“得到”。
 
@@ -598,10 +603,14 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 > 地球は太陽から光をもらいます。\
   地球从太阳得到光。
 
+<div style="float: right;" font-size=5px markdown="block">
+  [Go to top^](#top)
+</div>
 
-## 第18-19部分
+## 五、
 
-### 语法点：日期和天数
+### 日期和天数
+
 日语日期里的数字和数数时一样，有独特的发音。
 
 | 月 | 日 |
@@ -625,8 +634,7 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 
 天数和日期的表达是一样的，但发音有例外：当表示天数时，「一日」的发音是「いちにち」。
 
-
-### 语法点：四种动词形态
+### 四种动词形态
 
 | ます形 | て形 | 基本形  | ない形 | 行位 |
 | --- | --- | ---  | --- | --- |
@@ -671,9 +679,7 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 | 会（あ）います | 会って | 会う | 会わない | わ行 |
 | でき（出で来）ます “能够” | できて | できる | できない | 二类 |
 
-
-
-### 语法点：动词「て形」
+### 动词「て形」
 
 我们经常需要用到动词的「て形」。
 | ます形 | て形 |
@@ -749,21 +755,14 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 > テストの時は、きょうかしょを見てはいけません。\
   测试的时候，不能看教科书。
 
+### 省略重复字：「々」
 
-## 第20部分
-
-### 杂谈
 「々」表示重复前一个字，例如「時々（時時）」“有时”。
 > 時々一人で海に行きます。\
   有时一个人去海边。
 
-<div style="float: right;" font-size=5px markdown="block">
-  [Go to top^](#top)
-</div>
+### 表达原因
 
-## 第21部分
-
-### 语法点：表达原因
 「から」除了表示起源、来源，还可以表示原因。
 > おもしろいから日本語を勉強しています。\
   因为有意思所以正在学习日语。
@@ -771,7 +770,8 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 > こわかったから、父を呼びました。\
   因为恐怖，所以叫我爸爸了。
 
-### 语法点：用形容词表示过去的状态
+### 用形容词表示过去的状态
+
 描述过去事情的状态，把形容词词尾的「い」换成
 「かった」就可以了。
 > 毎日とても楽しいです。\
@@ -784,7 +784,8 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
   昨日の映画はとてもこわかったです。\
   昨天的电影非常恐怖。
 
-### 语法点：只有在这里
+### 只有在这里
+
 要强调在某个地方，可以用「では」。比如强调“在日本”，就用「日本では」。
 > 日本では、げんかんでくつをぬぎます。
   在日本，在玄关脱鞋。
@@ -792,12 +793,8 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 > この駅では降りません。
   不在这个车站下车。
 
+### 什么也……
 
-## 第22部分
-
-
-
-### 语法点：什么也……
 在「だれ」“谁”、「何」“什么”、「どこ」“哪里”这样的疑问词后加上「も」来表示完全否定的语气，句尾的动词要用否定形式「ません」。「どこ」加上「も」需要插入表示地点的助词「に」，变成「どこにも」。
 > この村にはだれもいません。\
   这个村子里谁也不在。
@@ -811,7 +808,8 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 > 昨日はどこにも行きませんでした。\
   昨天哪里也没去。
 
-### 语法点：比较级和最高级
+### 比较级和最高级
+
 「より」跟在比较的对象后面，「のほうが」跟在更喜欢的东西后面。有时不一定要提比较的对象，只说更喜欢什么也可以。
 > スカートよりズボンのほうが好きです。\
   和裙子相比，更喜欢裤子
@@ -836,9 +834,14 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 > どれが一番おいしいかな。\
   哪个最好吃呢。
 
-## 第23部分
+<div style="float: right;" font-size=5px markdown="block">
+  [Go to top^](#top)
+</div>
+
+## 六、
 
 ### 重点语句：谈论擅长和不擅长的事情
+
 表达“擅长”或“不擅长”某件事情，如果事情用的是名词的话，就加上主格助词「が」，再加「上手（じょうず）」“擅长”，最后用动词「です」。
 > 私はサッカーがじょうずではありません。\
   我不擅长足球。
@@ -847,7 +850,8 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 > 弟は泳ぐのがへたです。\
   我弟弟不擅长游泳。
 
-### 语法点：动词「基本形」
+### 动词「基本形」
+
 动词除了「ます形」和「て形」，还有一种重要形式叫「基本形」，用于口语、非正式场合，也用于书面语。查字典时动词词条用的就是「基本形」，也是所谓的「动词原形」。
 
 | ます形 | て形 | 基本形 |
@@ -860,7 +864,8 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 
 如果听到有人跟你谈话时使用基本形，证明对方很喜欢你，和你很不见外。
 
-### 语法点：请别……
+### 请别……
+
 告诉别人不要做某事，动词加上「ないで」就可以了（实际上是「ない形」加上助词「で」）。再加上「ください」会更客气。
 > 見ないでください。\
   请别看
@@ -871,7 +876,8 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 > 毎日散歩するのをやめないでください。\
   请别停止每天散步。
 
-### 语法点：动词的名词化
+### 动词的名词化
+
 如果我们要把一个动作当作名词来看待，那么就要将其名词化，方法是取动词的「简体」（见下文）然后加上「の」。
 > 姉はピアノをひくのがじょうずです。\
   我姐姐擅长弹钢琴。
@@ -880,9 +886,7 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 > 最もこわいのが津波です。\
   最可怕的是海啸。
 
-## 第25部分
-
-### 语法点：想要……
+### 想要……
 
 表示想要某个东西，就在「欲（ほ）しい」前加上东西；表示想要**别人**做某件事，在「ほしい」前加上动词「て形」。不想要对方做某事时可以说「ないでほしい」。
 > すぐに帰ってほしいです。\
@@ -905,8 +909,7 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 > 病院に行きたくないです。\
   不想去医院。
 
-
-### 语法点：动词「た形」
+### 动词「た形」
 
 动词「た形」的词形变化和「て形」是一样的，把「て」或「で」变成「た」或「だ」就可以了。
 
@@ -937,10 +940,8 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 > わたしは夏休みにテニスをしたり泳いだりしました。\
   我暑假时打打网球、游游泳。
 
+### “叔叔”和“爷爷”的发音区别
 
-## 第26部分
-
-### 语法点：叔叔和爷爷
 注意长音和短音会导致意思完全不一样，比如下面的例子中，长短音决定了辈份。
 
 | 长音 | 短音 |
@@ -948,9 +949,8 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 | おじいさん “爷爷” | おじさん “叔叔” |
 | おばあさん “奶奶” |おばさん “阿姨” |
 
-## 第27部分
+### 量词：描述人或动物的数量
 
-### 语法点：描述人或动物的数量
 数动物用量词「匹（ひき）」“只”。
 
 | 数字 | 计数单位「つ」 | 量词“只” |
@@ -968,22 +968,27 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 
 「つ」类似于汉语的量词“个”，当你不知道用什么量词的时候直接用「つ」就可以了。
 
-- 生徒は6人しかいません。\
+> 生徒は6人しかいません。\
   学生只有6个人。
-- あの島には鹿が2頭だけいます。\
+
+> あの島には鹿が2頭だけいます。\
   在那个岛只有2头鹿。
-- 野生動物の数が減っています。\
+
+> 野生動物の数が減っています。\
   野生动物的数量正在减少。
-- ゾウは何頭いますか？\
+
+> ゾウは何頭いますか？\
   有多少头大象？
-- 4羽のカラスが水を飲んでいます。\
+
+> 4羽のカラスが水を飲んでいます。\
   4只乌鸦在喝水。
-- 3匹の猫が家の前で待っています。\
+
+> 3匹の猫が家の前で待っています。\
   3只猫在家前面等着。
 
-  鳥が二羽います 
-  二羽の鳥がいます 
-
+下面两句话意思相同：
+> 鳥が二羽います。\
+  二羽の鳥がいます。 
 
 数词和量词搭配，究竟选音读还是训读呢？理想情况下是：若量词没有对应的汉字或是汉字训读，那么数词也训读（复合数词没有训读，那么只好取音读）；若量词是音读，那么数词也音读。例如，计数单位「つ」没有汉字、表示日期或天数的「日（か）」是训读，那么前面就用训读的数字。但实际情况大大简化，许多量词虽然本身是训读，但前面的数词只有正好是「一」、「二」时才会训读。因此数词音读的情况比较多，只有少数情况需要训读。
 
@@ -1015,9 +1020,14 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 
 </div>
 
-## 第28-29部分
+<div style="float: right;" font-size=5px markdown="block">
+  [Go to top^](#top)
+</div>
 
-### 语法点：游泳
+## 七、
+
+### “游泳”的两种说法
+
 日语有两种方式来说游泳，「水泳（すいえい）」是名词，表示体育项目，而「泳ぎます」是动词，表示游泳这一动作。 
 > 私は水泳がいちばん好きです。
   我最喜欢游泳。
@@ -1025,11 +1035,12 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 > 毎週泳ぎます。
   每周游泳。
 
+### 动词的分类和形态变化
 
-### 语法点：动词的分类和形态变化
 日语动词一共可分为三种：一类动词、二类动词和特殊动词。所有动词的「基本形」都以「う段」假名结尾，也就是以「う、く、す、つ、ぬ、ふ、む、ゆ、る」之一结尾。其中一类动词数量最多。
 
-#### 二类动词
+#### 二类动词词形变化
+
 二类动词以「る」结尾，且「る」之前的发音在
 「い段」或「え段」上，例如：「見る」和「食べる」。
 
@@ -1065,7 +1076,6 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 | 読（よ）みます | 読む | 読んで | 読んだ | 読まない | ま行 |
 | 乗（の）ります | 乗る | 乗って | 乗った | 乗らない | ら行 |
 
-
 > 私はお金を払います。\
   我付钱。\
   お金を払う前に食べないでください。\
@@ -1093,7 +1103,7 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
   二人で一緒に待ったほうがいいです。\
   最好两个人一起等。
 
-#### 特殊动词
+#### 特殊变化动词
 有些动词则比较特殊，有自己独特的形态变化方式。
 
 | ます形 | 基本形 | て形  | た形 | ない形 | 行位 |
@@ -1102,12 +1112,14 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 | 来(き)ます | 来（く）る | 来（き）て | 来（き）た | 来（こ）ない | 似二类 |
 | します | する | して | した | しない | 似さ行 |
 
+<div style="float: right;" font-size=5px markdown="block">
+  [Go to top^](#top)
+</div>
 
+## 八、
 
+### 可能态
 
-## 第30-31部分
-
-### 语法点：可能态
 中文中，表示能力或可能性直接用“能”、“会”就可以，但日语一般要通过动词的词性变化来实现，例如动词的「可能态」。「ます」前面的「い段」假名换成「え段」假名，再加上「る」就变成可能态了。
 注意啦，这样得来的动词，由于「る」之前的假名变到了「え段」，所以**可能态都是二类动词**。
 
@@ -1157,11 +1169,10 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 > 妹は一人で服が着られます。\
   我妹妹能一个人穿衣服。
 
-会注意到本来该用宾格助词「を」的地方都用了主格助词「が」，这是因为可能态的含义准确地说为“能够是……**的**”，有点像是描述一种状态。
+会注意到本来该用宾格助词「を」的地方都用了主格助词「が」，这是因为可能态的含义准确地说为“能够是……**的**”，有点像是描述一种状态的形容词。
 
+### 能……
 
-
-### 语法点：“能……”
 表示能力或可能，除了用动词可能态，还可以用「简体」加上「ことができます」。两个的意思一样，只是正式场合中「简体」加「ことができます」用得更多一些。表示不能，只要将「できます」换成「できません」就可以了。
 > 新幹線に乗ることができます。\
   能坐新干线。
@@ -1182,9 +1193,14 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 > その人は医者かもしれません。\
   那个人可能是医生。
 
-## 第32部分
+<div style="float: right;" font-size=5px markdown="block">
+  [Go to top^](#top)
+</div>
 
-### 语法点：简体
+## 九、
+
+### 动词的「简体」
+
 中文中，对长辈或不认识的人会说“您”、“请”之类的词来表达恭敬的语气，对家人朋友则用较随便的语气。日语也因说话对象和场合不同而分成两种文体——敬体和简体，以「です」或「ます」结尾的句子都是敬体句；以动词「基本形」等等（但非「ます形」）或是形容词直接结尾的是简体句，用于非正式、随便的场合，和家人朋友以及上级对下级说话时都可以用，来简洁地表达意思。
 > 北海道に行く。\
   北海道。
@@ -1210,9 +1226,8 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 > 彼はいいえと言いました。\
   他说了不。
 
-## 第33部分
+### 简体句过去式
 
-### 语法点：简体句过去式
 动词「た形」可以直接结句构成简体句，表示过去发生的动作或状态。
 > 友だちが私の家に来た。\
   朋友来我家了。
@@ -1220,7 +1235,8 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 > 昨日は一日中家で掃除した。\
   昨天在家打扫了一整天。
 
-### 语法点：简体句的否定形式
+### 简体句的否定形式
+
 简体句中，否定现在或将来用「ない形」，否定过去则将「ない」换成「なかった」。
 
 | 基本形 | 现在否定形 | 过去否定形 |
@@ -1241,9 +1257,8 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 > 高橋さんは上海に行かなかった。
   高桥小姐没去上海。
 
-## 第34部分
+### 形容词的形态变化
 
-### 语法点：形容词的形态变化
 中文形容词没有时态变化，日语则“有”。表示现在、过去和否定的形容词都会发生相应的形变哦！
 
 日语形容词可分为两类，「い形容词」和「な形容词」。
@@ -1282,7 +1297,8 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
   昨日、きょうしつはきれいではなかった。\
   昨天，教室不干净。
 
-### 重点语句：谈论帮助他人
+### 谈论帮助他人
+
 还记得不，日语用「あげます」表示我、我们“送”（好）东西给别人，用「くれます」表示别人“送”给自己（好）东西，用「もらいます」表示从别人那里“得到”东西。东西后面要加助词「を」。
 这三个词也有各自的变形。
 
@@ -1315,13 +1331,13 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
   > 妻に毎朝起こしてもらいたい。\
     想让我妻子每天早上叫我起床。
 
-
 当我们帮助社会身份比自己低的人的时候，例如帮孩子或宠物，要用「や（遣）る」“给”。
 > 私は娘に花を買ってやった。
 
 > 本田は娘に花を買ってやった。
 
-### 语法点：表达请求
+### 表达请求
+
 表达请求可以用「いただ（頂）く」，它是「もらう」“让”的谦语，表示“请”对方做什么事情。「敬语」是抬高别人的身份，「谦语」则是降低自己的身份。区别在于：动词跟随主语，需要改变动词而表达尊敬、礼貌；“让”别人做什么事时，主语是“我”，那么就需要**降低**而不是抬高动作施行者的身份，所以用谦语；相反，如果是对方“帮”我做什么，那么主语是“对方”，所以就要**抬高**动作施行者的身份，所以用敬语。
 > 花を買っていただけませんか？\
   可以请您给我买花吗？
@@ -1334,10 +1350,14 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 > いただきます。\
   我开动了。
 
+<div style="float: right;" font-size=5px markdown="block">
+  [Go to top^](#top)
+</div>
 
-## 第35部分
+## 十、
 
-### 语法点：表原因助词「で」
+### 表原因助词「で」
+
 名词后面加上「で」可以表示原因。
 > 雨で服が濡れている。\
   因为雨衣服湿了。
@@ -1358,7 +1378,8 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 > 朝ご飯を食べなかったので、おなかがぺこぺこです。\
   因为没吃早饭，肚子饿了。
 
-### 语法点：“不过……”
+### 不过……
+
 「けど」连接两个句子，表示转折。
 > そのコンビニは近いけど、小さいです。\
   那个便利店虽然很近，不过很小。
@@ -1366,9 +1387,8 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 > 外は寒いけど、部屋の中は暖かいです。\
   虽然外面很冷，不过房间里很暖和。
 
-## 第36部分
+### 餐馆礼貌用语
 
-### 语法点：有礼貌的说法
 去餐馆吃饭，会听到一些非常有礼貌、和平时不一样的日语。比如「少々」“稍微”、「召し上がる」“吃/喝”。
 > 少々お待ちください。\
   请稍等。
@@ -1376,8 +1396,8 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 > 店内で召し上がりますか？\
   在店里吃吗？
 
+### 状态的变化：“使……”
 
-### 语法点：状态的变化，“使……”
 形容词只能表示某种状态而不能表示变化，如果想表示状态变化，把形容词词尾的「い」换成「く」再加上「する」就可以了。
 > 太陽は部屋を明るくします。\
   太阳让房间明亮起来。
@@ -1385,9 +1405,8 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 > 彼はいつもパーティーをおもしろくします。\
   他总是让派对有趣起来。
 
-## 第37部分
+### 名词变动词：「する」
 
-### 语法点：名词变动词
 中文里有些词既可以是名词也可以是动词，但在日语中这样的名词需要加上「する」才可以变成动词。日语中这样的词很多，主要作为书面语使用，词源上看通常来自汉语（？）。
 
 比如「開発」是名词，动词要说「開発する」。
@@ -1414,10 +1433,7 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 
 和其他短语连用的时候也是类似，如果不用「ことが」，只需要取动词的名词部分就可以了。
 
-
-## 第38部分
-
-### 语法点：感觉好像
+### 感觉好像……
 
 名词加「の」或动词「形」后加「よう（様）」“样子”表示**主观**推测，凭感觉进行推测的情况，意思是“感觉……”、“好像……”。
 > 明日は雨のようです。\
@@ -1436,7 +1452,6 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 
 > 鈴木さんはアメリカへ行くらしい。\
   铃木先生好像要去美国。
-
 
 动词「ます形」加上「そう」通常用来表达基于自己的观察得到的结论。
 > 先生はとても忙しそうです。\
@@ -1457,9 +1472,7 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 > 古いみたいです。\
   看上去很旧。
 
-## 第39部分
-
-### 语法点：ば
+### ば
 
 「ば」接在某些动词后面，表示**假定**条件，意思是如果前面一句成立，就会出现后面一句的结果。常见的搭配有「あれば」、「すれば」、「行けば」、「飲めば」、「降れば」等等，观察到它们都是可能态。
 > お金があれば、あの家を買います。\
@@ -1475,7 +1488,8 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 > 自転車で行けばよかったです。
   如果骑自行车去了就好了。
 
-### 重点语句：说明可能发生的事情
+### 说明可能发生的事情
+
 「と」表达一定条件下的客观结果。
 > タイヤは古いと、危ないです。\
   轮胎旧的话，会危险。
@@ -1509,7 +1523,8 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 > それでもいいです。\
   就算那个也可以。
 
-### 语法点：“为了……”
+### 为了……
+
 名词加「の」或动词「基本形」加上「た（為）めに」表示“为了……”。
 > 日本語を勉強するために日本に来ました。\
   为了学日语来日本了。
@@ -1517,10 +1532,13 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 > 国家の為に死ぬ。\
   为了国家而死。
 
+<div style="float: right;" font-size=5px markdown="block">
+  [Go to top^](#top)
+</div>
 
-## 第40部分
+## 十一、
 
-### 语法点：动词对
+### 动词对：自动/他动
 
 「入る」和「入れる」都有“放”的意思。
 - 「入る」强调放入的状态，放进的东西后面要跟「が」。
@@ -1530,7 +1548,7 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
   > 鍋に水を入れてください。\
     请把水放进锅里。
 
-### 语法点：形容词て形
+### 形容词「て形」
 
 「て」可以连接并列的两个形容词，表示“既……又……” 。前面的形容词要把词尾的「い」变成「く」再加上「て」。
 > この豆乳はおいしくて飲みやすい。\
@@ -1539,10 +1557,7 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 > 彼は背が高くてかっこいいです。\
   他个子很高很酷。
 
-
-## 41
-
-### 语法点：“太……了”
+### 太……了
 
 表示程度“过于”、“太……了”，「い形容词」去掉「い」加上「すぎる」，而「な形容词」直接加上「すぎる」。
 > デパートの服は高すぎます。\
@@ -1551,10 +1566,7 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 > この場合は子供には危険すぎます。\
   这种情况对孩子来说太危险了。
 
-
-## 42
-
-### 语法点：“下起雨来了”
+### “下起雨来了”
 动词也可以连用，前一个动词ます形去掉ます加上另一个动词
 「出（だ）す」构成一个新动词，表示动作的开始，意思是“……起来”。
 > 散歩の途中で雨が降り出しました。\
@@ -1563,7 +1575,7 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 > 赤ちゃんは泣き出しました。\
   婴儿哭起来了。
 
-### 语法点：动词对
+### 动词对：自动/他动
 
 「落（お）ちる」和「落（お）とす」都是“掉”的意思。
 - 「落ちる」表示东西**自己掉下**，东西后面跟「が」或者「は」。
@@ -1591,11 +1603,10 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 | 決（き）める | 決（き）まる |
 | 出（だ）す | 出（で​）る |
 
+及物动词、不及物动词也分别称作“他动词”、“自动词”。
 
+### 尽可能……
 
-## 43
-
-### 语法点：“尽可能……”
 「できるだけ」加上形容词或副词表示“尽可能/尽量”怎么样。
 > できるだけはやくここへ来てください。
   请尽量早点来这里。
@@ -1606,8 +1617,9 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 > 私はできるだけ多くの時間が必要です。
   我需要尽可能多的时间。
 
-### 语法点：进行时态
-动词「て形」加上「いる」表示动作正在进行、动作的结果、状态的持续、习惯等。「いる」有自己的时态变化，其中「ます形」是「います」。
+### 动词进行时态
+
+动词「て形」加上「いる」表示动作正在进行、动作的结果、状态的持续、习惯等。「いる」有自己的时态变化，其中「ます形」是「います」、过去式即「た形」是「いた」等等。
 > この席は空いていますか？\
   这个座位空着吗？
 
@@ -1617,7 +1629,8 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 > いつも必死に勉強しています。\
   总是拼命学习。
 
-### 语法点：“只有”
+### 只有……
+
 名词加上「しかありません」意思是“只有”，表示除此之外没有其他，强调不足，含有不满或遗憾的语气。
 > この町には中学校しかありません。\
   这个城镇只有中学。
@@ -1632,9 +1645,14 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 > 見ているだけです。\
   只是在看。
 
-## 45
+<div style="float: right;" font-size=5px markdown="block">
+  [Go to top^](#top)
+</div>
 
-### 语法点：轻微的命令
+## 十二、
+
+### 轻微的命令
+
 动词「ます形」去掉「ます」加上「なさい」表示轻微的命令，只用于肯定句中，但比「ください」要严厉一些，一般是老师对学生、父母对孩子或上级对下级使用。
 > 静かにしなさい。\
   安静点！
@@ -1642,7 +1660,8 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 > 書類を片付けなさい！\
   收拾下文件！
 
-### 语法点：しまう
+### 「しまう」
+
 动词「て形」加上「しまう」，表示动作完成或者结束了，常含有后悔或遗憾的语气。
 > 昨日は会社で寝てしまいました。\
   昨天在公司睡着了。
@@ -1650,10 +1669,8 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 > 上司の話を忘れてしまいました。\
   把上司的话忘了。
 
+### 推测事情的必然结果
 
-## 46
-
-### 语法点：推测事情的必然结果
 「はず」用来推测事情必然产生的结果，或得出理所当然的结论，意思是“应该”、“理应”。
 > 私たちはその本を読むはずです。\
   我们应该读那本书。
@@ -1682,9 +1699,8 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 > 学校に行ったほうがいい。
   你应该去学校。
 
-## 47
+### 为了……
 
-### 语法点：“为了……”
 「ように」表示目的，前面的动作或状态可以是动词的「基本形」也可以是「否定形」。
 > 忘れないように、ノートに書いた。\
   为了不忘记，写笔记上了。
@@ -1692,7 +1708,8 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 > みんなに聞こえるように、大きな声で話して。\
   为了能让大家听到，大声说。
 
-### 语法点：动词「使役形」
+### 动词「使役形」
+
 日语用动词的「使役形」来表示“使”或“让”。
 - 一类动词：基本形词尾的「う段」假名变成「あ段」假名（也就是动词的「未然形」）再加上「せる」
 - 二类动词：基本形去掉「る」（也就是动词的「未然形」）加上「させる」
@@ -1719,10 +1736,8 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 > 上司は自分で言いたくないので、私に言わせた。\
   因为上司自己不想说，所以让我说了。
 
+### 某个……
 
-## 48
-
-### 语法点：“某个……”
 疑问词加「か」构成的短语表示不确定，比如「いつか」表示不确定的什么时候、「どこか」表示不确定的什么地方。
 > いつか日本に行きたい。
   想什么时候去日本。
@@ -1733,9 +1748,8 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 > 週末はどこかに行きますか？\
   周末要去哪里吗？
 
-## 49
+### 表达他人的想法
 
-### 语法点：表达他人的想法
 日语用「たい」来表示“我想”、“你想”，表示第三人称的她想时则要用「たがる」。
 > 姉ははやくけっこんしたがっている。\
   我姐姐想快点结婚。
@@ -1743,7 +1757,8 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 > 本田さんは科学者になりたがっています。\
   本田先生想成为科学家。
 
-### 语法点：“要是……”
+### 要是……
+
 「だったら」接在名词后面表示条件。要是出现前面名词描述的条件，就会出现后面的情况。
 > 暇だったら、小説を読みます。\
   要是有空，就看小说。
@@ -1751,9 +1766,14 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 > 日曜日だったら、家族と買い物できる。\
   要是是星期天，就能和家人购物。
 
-## 50-51
+<div style="float: right;" font-size=5px markdown="block">
+  [Go to top^](#top)
+</div>
 
-### 语法点：「には」
+## 十三、
+
+### 「には」
+
 人称词后面加には，后面的句子一般是针对前面的主题进行评价或解说。
 > 私たちには信仰の自由があります。\
   我们有信仰的自由。
@@ -1761,8 +1781,8 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 > 彼には神の声が聞こえます。\
   他能听到神的声音。
 
+### 动词辨析
 
-### 语法点：动词辨析
 「眠（ねむ）れる」和「寝（ね）る」都是表示睡眠的词。
 - 「寝る」强调躺着的状态。
   > 寝る前にテレビを2時間見ました。\
@@ -1771,18 +1791,18 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
   > 子供がうるさいので、眠れない。\
     因为孩子很吵，所以睡不着。
 
-### 语法点：动词对
+### 动词对：自动/他动
+
 「治る」和「治す」都有“治好”的意思，和动词对「落ちる」、「落とす」的区别及用法相近，以「す」结尾的词前面要用宾格助词「を」。
 - 「治る」强调自然发生的状态恢复。
   > このかぜは自然に治ると思います。\
     觉得这个感冒能自然治好。
-- 治す」则强调人为动作把状态恢复到之前。
+- 「治す」则强调人为动作把状态恢复到之前。
   > その医者は私の病気を治してくれました。\
     那个医生给我治好了病。
 
-## 52
+### 习惯了……
 
-### 语法点：表示“习惯了……”
 「慣れる」之前要用に来表示习惯的对象。
 > 彼はこの仕事に慣れています。\
   他习惯这个工作。
@@ -1790,10 +1810,8 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 > もう日本の生活に慣れてましたか？\
   已经习惯日本的生活了吗？
 
+### 提议
 
-## 53
-
-### 语法点：提议
 提议用的也是名词加「する」形成的动词「提案する」。表示提案时，提议的对象后面要用「に」（意思是“向”某人提某事），而内容后面要用「を」。
 > 明日父に提案する。\
   明天跟我爸爸提议。
@@ -1801,9 +1819,14 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 > 新しい制度を提案した。\
   提议了新的制度。
 
-## 54
+<div style="float: right;" font-size=5px markdown="block">
+  [Go to top^](#top)
+</div>
 
-### 语法点：并列列举
+## 十四、
+
+### 并列列举
+
 「し」表示累加，强调列举的的事物或理由有很多。「……し，……し」意思是“既……又……”、“也……也……”。名词后面的助词通常会变成「も」。
 > ここでは映画も見られるし、スポーツもできる。\
   这里也能看电影，也能做运动。
@@ -1811,7 +1834,8 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 > その小説はおもしろいし、読みやすいし、おすすめだ！\
   那个小说也很有趣，也很好读，推荐！
 
-### 语法点：「あなた」和「君」
+### 「あなた」和「君」
+
 「あなた」和「君（きみ）」都是“你”。
 实际生活中很少用「あなた」，只有在不知道对方姓名时用，而不用于熟人。一般称呼对方时，以对方的姓加「さん」，避免使用「あなた」。
 「君」是比「あなた」更口语化的称呼，常用于上司对属下或熟人间。
@@ -1821,9 +1845,8 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 > 君と一緒にいると楽しい。\
   要是和你在一起就很开心。
 
-## 55
+### 表示身份或立场：「として」
 
-### 语法点：「として」
 「として」意思是“作为……”，表示以某种身份、立场。可以拆成助词「と」加「する」的「て形」来理解。
 > 彼はアメリカで医者として働いています。\
   他作为医生在美国工作。
@@ -1831,7 +1854,8 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 > 京都は古い町として有名です。\
   京都作为古老的城镇很有名。
 
-### 语法点：被动态
+### 动词「被动态」
+
 强调结果或受害时常用动词的「被动态」来表示。先来学习动词如何变成被动吧！
 - 一类动词：基本形词尾从「う段」变成「あ段」再加上「れる」。
 - 二类动词：基本形词尾的る换成られる。
@@ -1860,9 +1884,8 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 
 表示现在的被动状态时通常会用被动态的「进行时态」，也就是「て形」加上「いる」的结构，这样以来结尾一定是「～れている」的结构或相关活用。
 
-## 56
+### 结果状态的持续「てある」
 
-### 语法点：结果状态的持续「てある」
 日语中有些动词「て形」可以加「ある」，表示动作结果状态的持续。
 > 地図は本だなの上に置いてある。\
   地图放在书架上了。 （书还在）
@@ -1870,9 +1893,13 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 > 作り方はその紙に書いてある。
   做法写在那张纸上了。（现在还看得到）
 
-## 57
+<div style="float: right;" font-size=5px markdown="block">
+  [Go to top^](#top)
+</div>
 
-### 语法点：使役被动
+## 十五、
+
+### 使役被动
 「使役被动」顾名思义就是将「使役形」变成「被动态」。使役形都是二类动词，所以只要只要把使役形结尾的「る」换成「られる」就可以了。
 
 | 基本形 | 未然形 | 使役形 | 使役被动 |
@@ -1892,7 +1919,7 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 > 今日は10時間働かせられた。\
   今天让我工作了10个小时。
 
-### 语法点：なくてもいい
+### なくてもいい
 动词「ない形」的「ない」变成「なくてもいい」（因为连用时「い」要变成「く」）表示许可，意思是“不做”某事“也可以”、“不做”某事“也没关系”。
 > 明日は会社に来なくてもいい。\
   明天不来公司也可以。
@@ -1900,9 +1927,8 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 > 無理に翻訳しなくてもいい。\
   不勉强翻译也可以。
 
-## 58
+### 用这个怎么样
 
-### 语法点：用这个怎么样
 「～たら/だら」衍生出固定用法「～たらどうですか」，它由动词「た形」加上「らどうですか」构成，表示提建议，意思是“做……怎么样？”，和「たほうがいいです」相比，语气比较轻。
 > これを使ったらどうですか？\
   用这个怎么样？
@@ -1913,9 +1939,8 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 > かさを持って行ったらどうですか？\
   带着伞去怎么样？
 
-## 59
+### 输赢
 
-### 语法点：输赢
 日语用「負（ま）ける」和「勝（か​）つ」表示输给谁或赢了谁，输或赢的对象后面要用「に」。
 > パンダはねずみに負けました。\
   熊猫输给了老鼠。
@@ -1923,7 +1948,8 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 > 一度も彼に勝ったことがありません。
   一次也没赢过他。
 
-### 语法点：正在做的事情
+### 正在做的事情
+
 「～ているところ」时动词「て形」加上「いるところ」构成固定用法，表示“正在做”某事。强调目前正在做某事，而不能做其他事，或希望对方稍等。
 > 電話が来た時、私は資料をコピーしているところだった。\
   来电话时，我正在复印资料。
@@ -1931,9 +1957,8 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 > ご飯を作っているところだ。\
   正在做饭。
 
-## 60
+### 做……去
 
-### 语法点：
 「～ていく」是动词「て形」加上「い（行）く」构成固定用法，表示这个动作远离说话人所在地，向对方或其他的方向移动，相当于做着某事“去”了。
 > 手紙を持っていきます。\
   带着信去。
@@ -1941,6 +1966,9 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 > 父は犬を公園に連れていきました。\
   我爸爸带着狗到公园去了。
 
+<div style="float: right;" font-size=5px markdown="block">
+  [Go to top^](#top)
+</div>
 
 ## 附
 
@@ -1948,7 +1976,7 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 
 我们学过动词的名词化，专门提过以「〜の」构成的方式，也见过很多结构含有「〜こと」“……的事情”，它也是一种名词化的方式。它们的用法有什么异同呢？
 
-资料来源：<https://nihon5-bunka.net/difference-no-koto/>.
+资料来源：<https://nihon5-bunka.net/difference-no-koto/>
 
 基本的には冒頭の例文のように置き換えが可能な場合が多いですが、カジュアルな場面での会話では「〜の」が使われやすい傾向にあります。
 
@@ -2010,4 +2038,11 @@ This is a personal summary of Duolingo's Guidebook for learning Japanese by Chin
 - 嗜好：「〜のが好きです」、「嫌いです」
 - 能力：「〜のが上手です」、「下手です」
 
- 
+### 表达否定的「ない」和「なし」的区别
+
+资料来源：<https://ja.hinative.com/questions/1981876>
+
+「ない」と「なし」はどう違いますか？説明が難しい場合は、例文を教えて下さい。
+
+「ない」は形容詞（または助動詞）で、「なし」は名詞です。また、「なし」は「ない」と比べて主観的に使われる傾向があります。例：「不正はなくそう」よりも「不正はなしにしよう」の方が、より話し手の意見が反映される。
+
