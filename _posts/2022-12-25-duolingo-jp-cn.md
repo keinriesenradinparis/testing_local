@@ -122,6 +122,23 @@ These are notes of what I have learnt from Duolingo's Guidebook for learning Jap
 > 机の上に本とノートがあります。\
   桌上有书和笔记本。（没有别的了）
 
+### 语气词「ね」和「よ」
+
+「ね」和「よ」是口语中常用的句尾语气词，很难翻译。
+
+「ね」“……对吧？”表示寻求对方的同意。
+> いい天気 (てんき) ですね。  
+> 是个好天气，对吧？
+
+「よ」“”对一件不确定的事情给予确认的回复，并强调自己所说的是真的。
+> お元気 (げんき) ですか？  
+> 元気 (げんき) ですよ。
+>
+> 你还好吗？  
+> 我很好喔！
+
+这里的回答者强调自己“很好”，虽然可能最近身体并不怎么好。
+
 <div style="float: right;" font-size=5px markdown="block">
   [Go to top^](#top)
 </div>
@@ -1965,6 +1982,25 @@ These are notes of what I have learnt from Duolingo's Guidebook for learning Jap
 
 > 父は犬を公園に連れていきました。\
   我爸爸带着狗到公园去了。
+
+### 形容词变抽象名词
+
+「～さ」和「～み」可以用来将形容词转化为相应的抽象名词。
+- 如果形容词所表达的程度可以被客观描述，那么用「さ」。这也适用于な形容词。
+- 反之，如果无法被客观描述，例如感受或喜好，那么用「み」。
+
+| 形容词 | 抽象名词 |
+| - | - |
+| 大きい・big | 大きさ・size |
+| 長い・long | 長さ・length |
+| 高い・tall| 高さ・height |
+| 重い・heavy	| 重さ・weight |
+| 便利・convenient	| 便利さ・convenience |
+| きれい	| きれいさ・prettiness |
+| 痛い・painful	| 痛み・pain |
+| 悲しい・sad	| 悲しみ・sadness |
+| 甘い・sweet	| 甘み・sweetness |
+| うまい・tasty	| うまみ・tastines |
 
 <div style="float: right;" font-size=5px markdown="block">
   [Go to top^](#top)
