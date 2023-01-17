@@ -121,12 +121,6 @@ A tips for those beginners in Thai. A good way to memorise the alphabet table is
 
 น่า和หน้า读音相同但意思不同。
 
-asd
-
-  
-
-  \
-
 น่า放在动词前面，是“可，好，令人，值得，想要”的意思。
 > น่ากิน （看起来）好吃的  
 > น่าตื่นเต้น 令人激动的  
