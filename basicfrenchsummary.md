@@ -5,7 +5,13 @@ page_category: "法语启蒙"
 if_print_post_list: false
 ---
 
-## Cahier 音频:
+## 启蒙20
+
+[课程大纲]({{ site.baseurl }}/2023/01/18/法语启蒙20-大纲.md)
+
+## 零基础
+
+### Cahier 音频:
 
 - [05]({{ site.baseurl }}/assets/audio/05 Pista 5.mp3)
 - [06]({{ site.baseurl }}/assets/audio/06 Pista 6.mp3)
@@ -16,7 +22,7 @@ if_print_post_list: false
 - [34]({{ site.baseurl }}/assets/audio/34 Pista 34.mp3)
 
 
-## 最新：
+### 课程总结
 
 {% comment %} 
    This filters out the posts within the given category associated with the page.
