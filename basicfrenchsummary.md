@@ -42,10 +42,10 @@ if_print_post_list: false
    This filters out the posts within the given category associated with the page.
 {% endcomment %}
 {% if site.paginate %}
-   {% assign posts = paginator.posts | where:"categories", "语法" %}
+   {% assign posts = paginator.posts | where:"title", "语法" %}
 {% else %}
-   <!--   {% assign posts = site.posts | where_exp:"post", "post.categories contains page_category" %} -->
-   {% assign posts = site.posts | where:"title", "语法" %}
+     {% assign posts = site.posts | where_exp:"post", "post.title contains '语法'" %}
+<!--    {% assign posts = site.posts | where:"title", "语法" %} -->
    Posts containing 语法 are {{ posts }}
 {% endif %}
 
