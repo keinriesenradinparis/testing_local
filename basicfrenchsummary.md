@@ -48,11 +48,11 @@ if_print_post_list: false
 <!--    {% assign posts = site.posts | where:"title", "语法" %} -->
 {% endif %}
 
-{% assign posts = site.categories."french" %}
-
-Now posts are {{ posts }}.
-
 {% include print_posts.html content=posts %}
+
+Test:
+
+{% include print_posts.html content=site.categories."法语启蒙" %}
 
 Or we can
 
