@@ -52,7 +52,7 @@ if_print_post_list: false
 
 Test:
 
-{% include print_posts.html content=site.categories."french" %}
+{% include print_posts.html content=site.categories.french %}
 
 Or we can
 
