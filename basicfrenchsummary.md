@@ -30,6 +30,7 @@ if_print_post_list: false
 {% if site.paginate %}
    {% assign posts = paginator.posts | where:"categories", page.page_category %}
 {% else %}
+   page.page_category
    <!--   {% assign posts = site.posts | where_exp:"post", "post.categories contains page_category" %} -->
    {% assign posts = site.posts | where:"categories", page.page_category %}
 {% endif %}
