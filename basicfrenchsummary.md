@@ -51,8 +51,8 @@ if_print_post_list: false
 {% include print_posts.html content=posts %}
 
 Test:
-
-{% include print_posts.html content=site.categories.french %}
+{% assign posts = site.categories.french %}
+{% include print_posts.html content=posts %}
 
 Or we can
 
