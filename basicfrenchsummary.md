@@ -7,7 +7,7 @@ if_print_post_list: false
 
 ## 启蒙20
 
-[课程大纲]({{ site.baseurl }}/2023/01/18/法语启蒙20-大纲.md)
+[课程大纲]({{ site.baseurl }}/2023/01/18/法语启蒙20-大纲.html)
 
 ## 零基础
 
