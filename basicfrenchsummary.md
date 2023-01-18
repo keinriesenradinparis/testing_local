@@ -52,6 +52,7 @@ if_print_post_list: false
 
 Test:
 {% assign posts = site.categories.french %}
-{% include print_posts.html content=site.categories.法语启蒙 %}
+{% assign CATEGORY = "法语启蒙" %}
+{% include print_posts.html content=site.categories.CATEGORY %}
 
 
