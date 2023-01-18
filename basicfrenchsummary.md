@@ -56,6 +56,6 @@ Test:
 
 Or we can
 
-{% include print_posts.html content=site.categories.page_category %}
+{% include print_posts.html content=site.categories.{{ page_category }} %}
 
 
