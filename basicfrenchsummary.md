@@ -49,6 +49,10 @@ if_print_post_list: false
    Posts containing 语法 are {{ posts }}
 {% endif %}
 
+{% assign posts = site.categories."法语启蒙" %}
+
+Now posts are {{ posts }}.
+
 {% include print_posts.html content=posts %}
 
 
