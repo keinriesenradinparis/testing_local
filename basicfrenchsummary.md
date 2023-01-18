@@ -36,3 +36,20 @@ if_print_post_list: false
 {% endif %}
 
 {% include print_posts.html content=posts %}
+
+
+
+{% comment %} 
+   This filters out the posts within the given category associated with the page.
+{% endcomment %}
+{% if site.paginate %}
+   {% assign posts = paginator.posts | where:"categories", "语法" %}
+{% else %}
+   <!--   {% assign posts = site.posts | where_exp:"post", "post.categories contains page_category" %} -->
+   {% assign posts = site.posts | where:"categories", "语法" %}
+{% endif %}
+
+{% include print_posts.html content=posts %}
+
+
+
