@@ -44,7 +44,7 @@ if_print_post_list: false
 {% if site.paginate %}
    {% assign posts = paginator.posts | where:"title", "语法" %}
 {% else %}
-     {% assign posts = site.posts | where_exp:"post", "post.title contains page.page_category" %}
+     {% assign posts = site.posts | where_exp:"post", "post.title contains '语法'" %}
 <!--    {% assign posts = site.posts | where:"title", "语法" %} -->
 {% endif %}
 
