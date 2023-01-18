@@ -46,6 +46,7 @@ if_print_post_list: false
 {% else %}
    <!--   {% assign posts = site.posts | where_exp:"post", "post.categories contains page_category" %} -->
    {% assign posts = site.posts | where:"title", "语法" %}
+   {{ posts }}
 {% endif %}
 
 {% include print_posts.html content=posts %}
