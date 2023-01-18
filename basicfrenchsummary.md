@@ -30,7 +30,6 @@ if_print_post_list: false
 {% if site.paginate %}
    {% assign posts = paginator.posts | where:"categories", page.page_category %}
 {% else %}
-   {{ page.categories }}
    <!--   {% assign posts = site.posts | where_exp:"post", "post.categories contains page_category" %} -->
    {% assign posts = site.posts | where:"categories", page.page_category %}
 {% endif %}
@@ -46,7 +45,7 @@ if_print_post_list: false
    {% assign posts = paginator.posts | where:"categories", "语法" %}
 {% else %}
    <!--   {% assign posts = site.posts | where_exp:"post", "post.categories contains page_category" %} -->
-   {% assign posts = site.posts | where:"categories", "语法" %}
+   {% assign posts = site.posts | where:"title", "语法" %}
 {% endif %}
 
 {% include print_posts.html content=posts %}
