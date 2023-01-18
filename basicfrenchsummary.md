@@ -46,7 +46,6 @@ if_print_post_list: false
 {% else %}
      {% assign posts = site.posts | where_exp:"post", "post.title contains '语法'" %}
 <!--    {% assign posts = site.posts | where:"title", "语法" %} -->
-   Posts containing 语法 are {{ posts }}
 {% endif %}
 
 {% assign posts = site.categories."法语启蒙" %}
