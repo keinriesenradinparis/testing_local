@@ -36,13 +36,17 @@ if_print_post_list: false
 
 {% include print_posts.html content=posts %}
 
+Test1:
+
+{% assign posts = site.posts | where_exp:"post", "post.title contains 法语启蒙" %}
+{% include print_posts.html content=posts %}
 
 
-Test:
+Test2:
 
-Categories are {{ site.categories."法语启蒙" }}
+{% assign posts = site.categories."法语启蒙" }}
 <!-- {% assign posts = site.categories.french %} -->
 <!-- {% assign CATEGORY = "%E6%B3%95%E8%AF%AD%E5%90%AF%E8%92%99" %} -->
-<!-- {% include print_posts.html content=site.categories.CATEGORY %} -->
+{% include print_posts.html content=posts %}
 
 
