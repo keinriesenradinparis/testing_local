@@ -36,9 +36,9 @@ if_print_post_list: false
 
 {% include print_posts.html content=posts %}
 
-Test1:
+Test0:
 
-{% assign posts = site.posts | where_exp:"post", "post.title contains '20'" %}
+{% assign posts = site.posts | where_exp:"post", "post.tags contains 'NdC0'" %}
 {% include print_posts.html content=posts %}
 
 
