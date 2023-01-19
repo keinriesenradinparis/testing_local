@@ -50,9 +50,19 @@ Test2:
 {% include print_posts.html content=posts %}
 
 Test7:
-{% assign TAG = 'NdC0' }
-{% assign posts = site.tags.TAG }}
+{% assign TAG = "NdC0" }
+{% assign posts = site.tags.TAG %}
 {% include print_posts.html content=posts %}
 Next
 {% include print_posts.html content=site.tags.TAG %}
 
+<!-- Need to delete numbers in the tag name -->
+
+Test8:
+
+{% for tag in site.tags %}
+   {% if tag[0] == "NdC0" %}
+      Print tag[0]
+      
+      {% include print_posts.html content=tag %}
+{% endfor %}
