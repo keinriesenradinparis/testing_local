@@ -7,10 +7,10 @@
     {%- for post in posts -%}
       <li>
         <span class="post-meta">{{ post.date | date: date_format }}</span>
+        <p>
         
-        <span>
           <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-        </span>
+        </p>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}
