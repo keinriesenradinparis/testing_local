@@ -51,7 +51,7 @@ Test3:
 {% assign posts = site.tags["NdC0"] %}
 {% include print_posts.html content=posts %}
 Next
-{% include print_posts.html content=site.tags["NdC0"] %}
+<!-- {% include print_posts.html content=site.tags["NdC0"] %} -->
 
 <!-- Need to delete numbers in the tag name -->
 
