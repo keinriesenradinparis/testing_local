@@ -42,17 +42,16 @@ Test0:
 {% include print_posts.html content=posts %}
 
 
-Test2:
+Test1:
 
 {% assign posts = site.categories['法语启蒙'] %}
 {% include print_posts.html content=posts %}
 
-Test4:
-{% assign TAG = 'NdC0' %}
-{% assign posts = site.tags[TAG] %}
+Test3:
+{% assign posts = site.tags["NdC0"] %}
 {% include print_posts.html content=posts %}
 Next
-{% include print_posts.html content=site.tags.TAG %}
+{% include print_posts.html content=site.tags["NdC0"] %}
 
 <!-- Need to delete numbers in the tag name -->
 
