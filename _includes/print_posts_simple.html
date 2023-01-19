@@ -9,7 +9,7 @@
         <span class="post-meta">{{ post.date | date: date_format }}</span>
         <p>
 
-          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+          <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
         </p>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
