@@ -14,6 +14,7 @@ if_print_post_list: false
 ## 零基础
 
 ### Cahier 音频:
+
 - [05]({{ site.baseurl }}/assets/audio/05 Pista 5.mp3)
 - [06]({{ site.baseurl }}/assets/audio/06 Pista 6.mp3)
 - [11]({{ site.baseurl }}/assets/audio/11 Pista 11.mp3)
@@ -22,20 +23,7 @@ if_print_post_list: false
 - [26]({{ site.baseurl }}/assets/audio/26 Pista 26.mp3)
 - [34]({{ site.baseurl }}/assets/audio/34 Pista 34.mp3)
 
-### 课程总结
-{% comment %} 
-   This filters out the posts within the given category associated with the page.
-{% endcomment %}
-{% if site.paginate %}
-   {% assign posts = paginator.posts | where:"categories", page.page_category %}
-{% else %}
-   <!--   {% assign posts = site.posts | where_exp:"post", "post.categories contains page_category" %} -->
-   {% assign posts = site.posts | where:"categories", page.page_category %}
-{% endif %}
-{% include print_posts.html content=posts %}
-
-
-Test0:
+### 知识点总结
 
 {% assign posts = site.posts | where:"tags", "NdC0" %}
 {% include print_posts.html content=posts %}
