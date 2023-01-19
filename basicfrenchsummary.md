@@ -62,8 +62,6 @@ Test8:
 
 {% for tag in site.tags %}
    {% if tag[0] == "NdC0" %}
-      Print tag[0]
-      
       {% include print_posts.html content=tag %}
     {% endif %}
 {% endfor %}
