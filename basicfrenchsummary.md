@@ -41,18 +41,14 @@ if_print_post_list: false
 {% comment %} 
    This filters out the posts within the given category associated with the page.
 {% endcomment %}
-{% if site.paginate %}
-   {% assign posts = paginator.posts | where:"title", "语法" %}
-{% else %}
-     {% assign posts = site.posts | where_exp:"post", "post.title contains '语法'" %}
+{% assign posts = site.posts | where_exp:"post", "post.title contains '语法'" %}
 <!--    {% assign posts = site.posts | where:"title", "语法" %} -->
-{% endif %}
 
 {% include print_posts.html content=posts %}
 
 Test:
 {% assign posts = site.categories.french %}
 {% assign CATEGORY = "法语启蒙" %}
-{% include print_posts.html content=site.categories.CATEGORY %}
+{% include print_posts.html content=site.categories[CATEGORY] %}
 
 
