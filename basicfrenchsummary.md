@@ -51,5 +51,5 @@ Test2:
 
 Test3:
 
-{% include print_posts.html content=site.tags."NdC0" %}
+{% include print_posts.html content=site.tags.'NdC0' %}
 
