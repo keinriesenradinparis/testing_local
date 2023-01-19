@@ -39,7 +39,7 @@ Test2:
 {% include print_posts.html content=posts %}
 
 Test4:
-{% assign TAG = 'NdC0' %}
+{% assign TAG = "NdC0" %}
 {% assign posts = site.tags[TAG] %}
 {% include print_posts.html content=posts %}
   
