@@ -42,13 +42,13 @@ Test1:
 {% include print_posts.html content=posts %}
 
 
-Test2:
+Test3:
 
 {% assign posts = site.categories.'法语启蒙' %}
 {% include print_posts.html content=posts %}
 
 Test7:
-{% assign TAG = "NdC0" %}
+{% assign TAG = 'NdC0' %}
 {% assign posts = site.tags.TAG %}
 {% include print_posts.html content=posts %}
 Next
