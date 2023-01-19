@@ -41,7 +41,7 @@ if_print_post_list: false
 {% comment %} 
    This filters out the posts within the given category associated with the page.
 {% endcomment %}
-{% assign posts = site.posts | where_exp:"post", "post.title contains '法'" %}
+{% assign posts = site.posts | where_exp:"post", "post.title contains '会话'" %}
 <!--    {% assign posts = site.posts | where:"title", "语法" %} -->
 
 {% include print_posts.html content=posts %}
