@@ -12,6 +12,7 @@ if_print_post_list: false
 {% include print_posts.html content=posts %}
 
 ## 零基础
+
 ### Cahier 音频:
 - [05]({{ site.baseurl }}/assets/audio/05 Pista 5.mp3)
 - [06]({{ site.baseurl }}/assets/audio/06 Pista 6.mp3)
@@ -20,6 +21,7 @@ if_print_post_list: false
 - [23]({{ site.baseurl }}/assets/audio/23 Pista 23.mp3)
 - [26]({{ site.baseurl }}/assets/audio/26 Pista 26.mp3)
 - [34]({{ site.baseurl }}/assets/audio/34 Pista 34.mp3)
+
 ### 课程总结
 {% comment %} 
    This filters out the posts within the given category associated with the page.
