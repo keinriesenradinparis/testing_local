@@ -48,7 +48,7 @@ if_print_post_list: false
 
 Test:
 {% assign posts = site.categories.french %}
-{% assign CATEGORY = "法语启蒙" %}
+{% assign CATEGORY = "%E6%B3%95%E8%AF%AD%E5%90%AF%E8%92%99" %}
 {% include print_posts.html content=site.categories.CATEGORY %}
 
 
