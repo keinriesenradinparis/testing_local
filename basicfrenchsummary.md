@@ -28,5 +28,3 @@ if_print_post_list: false
 
 {% assign posts = site.posts | where:"tags", "NdC0" %}
 {% include print_posts_simple.html content=posts %}
-
-##### This is h5
