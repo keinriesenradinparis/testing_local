@@ -10,7 +10,7 @@ if_print_post_list: false
 <!-- [课程大纲]({{ site.baseurl }}/2023/01/18/法语启蒙20-大纲.html) -->
 
 {% assign posts = site.tags["NdC20"] %}
-{% include print_posts.html content=posts %}
+{% include print_posts_simple.html content=posts %}
 
 ## 零基础
 
@@ -27,4 +27,4 @@ if_print_post_list: false
 ### 知识点总结
 
 {% assign posts = site.posts | where:"tags", "NdC0" %}
-{% include print_posts.html content=posts %}
+{% include print_posts_simple.html content=posts %}
