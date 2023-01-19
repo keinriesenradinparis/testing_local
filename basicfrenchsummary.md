@@ -1,6 +1,6 @@
 ---
 # layout: page_light
-title: 法语启蒙（总结）
+title: 法语启蒙
 page_category: "法语启蒙"
 if_print_post_list: false
 ---
