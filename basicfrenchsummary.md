@@ -5,9 +5,8 @@ page_category: "法语启蒙"
 if_print_post_list: false
 ---
 
-* * *
-
 ## 启蒙20
+---
 
 <!-- [课程大纲]({{ site.baseurl }}/2023/01/18/法语启蒙20-大纲.html) -->
 
@@ -17,6 +16,7 @@ if_print_post_list: false
 * * *
 
 ## 零基础
+---
 
 ### Cahier 音频:
 
