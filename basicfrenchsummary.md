@@ -45,8 +45,6 @@ Test1:
 Test2:
 
 {% assign posts = site.categories.'法语启蒙' %}
-<!-- {% assign posts = site.categories.french %} -->
-<!-- {% assign CATEGORY = "%E6%B3%95%E8%AF%AD%E5%90%AF%E8%92%99" %} -->
 {% include print_posts.html content=posts %}
 
 Test7:
