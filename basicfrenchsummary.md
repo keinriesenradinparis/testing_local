@@ -65,4 +65,5 @@ Test8:
       Print tag[0]
       
       {% include print_posts.html content=tag %}
+    {% endif %}
 {% endfor %}
