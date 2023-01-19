@@ -37,23 +37,5 @@ if_print_post_list: false
 
 Test0:
 
-{% assign posts = site.posts | where_exp:"post", "post.tags contains 'NdC0'" %}
-{% include print_posts.html content=posts %}
-
-Test1:
-
-{% assign posts = site.categories["法语启蒙"] %}
-{% include print_posts.html content=posts %}
-
-Test2:
-
-{% assign posts = site.tags["NdC0"] %}
-{% include print_posts.html content=posts %}
-  
-Test3:
-{% for tag in site.tags %}
-   {% if tag[0] == "NdC0" %}
-      {% assign posts = tag[1] %}
-    {% endif %}
-{% endfor %}
+{% assign posts = site.posts | where:"tags", "NdC0" %}
 {% include print_posts.html content=posts %}
