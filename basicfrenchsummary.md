@@ -47,8 +47,10 @@ if_print_post_list: false
 {% include print_posts.html content=posts %}
 
 Test:
-{% assign posts = site.categories.french %}
-{% assign CATEGORY = "%E6%B3%95%E8%AF%AD%E5%90%AF%E8%92%99" %}
-{% include print_posts.html content=site.categories.CATEGORY %}
+
+Categories are {{ site.categories }}
+<!-- {% assign posts = site.categories.french %} -->
+<!-- {% assign CATEGORY = "%E6%B3%95%E8%AF%AD%E5%90%AF%E8%92%99" %} -->
+<!-- {% include print_posts.html content=site.categories.CATEGORY %} -->
 
 
