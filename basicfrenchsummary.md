@@ -35,7 +35,7 @@ Test0:
 
 Test2:
 
-{% assign posts = site.categories['法语启蒙'] %}
+{% assign posts = site.categories["法语启蒙"] %}
 {% include print_posts.html content=posts %}
 
 Test4:
