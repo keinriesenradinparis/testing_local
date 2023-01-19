@@ -50,6 +50,7 @@ Test2:
 {% include print_posts.html content=posts %}
 
 Test4:
+
 {% assign posts = site.tags.NdC0 }}
 {% include print_posts.html content=posts %}
 
