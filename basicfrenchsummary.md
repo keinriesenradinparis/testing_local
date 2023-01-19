@@ -5,7 +5,12 @@ page_category: "法语启蒙"
 if_print_post_list: false
 ---
 ## 启蒙20
-[课程大纲]({{ site.baseurl }}/2023/01/18/法语启蒙20-大纲.html)
+
+<!-- [课程大纲]({{ site.baseurl }}/2023/01/18/法语启蒙20-大纲.html) -->
+
+{% assign posts = site.tags["NdC20"] %}
+{% include print_posts.html content=posts %}
+
 ## 零基础
 ### Cahier 音频:
 - [05]({{ site.baseurl }}/assets/audio/05 Pista 5.mp3)
@@ -42,7 +47,6 @@ Test2:
 
 {% assign posts = site.tags["NdC0"] %}
 {% include print_posts.html content=posts %}
-{% include print_posts.html content=site.tags["NdC0"] %}
   
 Test3:
 {% for tag in site.tags %}
