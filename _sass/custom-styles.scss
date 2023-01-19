@@ -19,3 +19,17 @@ table td {
 details {
   margin-bottom: $spacing-unit / 2;
 }
+
+
+.post-content {
+  h4 {
+    @include relative-font-size(1.25);
+  }
+
+  h5 {
+    @include relative-font-size(1.125);
+  }
+  h6 {
+    @include relative-font-size(1.0625);
+  }
+}
