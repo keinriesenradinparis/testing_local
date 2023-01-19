@@ -42,14 +42,14 @@ Test1:
 {% include print_posts.html content=posts %}
 
 
-Test3:
+Test2:
 
-{% assign posts = site.categories.'法语启蒙' %}
+{% assign posts = site.categories['法语启蒙'] %}
 {% include print_posts.html content=posts %}
 
-Test7:
+Test4:
 {% assign TAG = 'NdC0' %}
-{% assign posts = site.tags.TAG %}
+{% assign posts = site.tags[TAG] %}
 {% include print_posts.html content=posts %}
 Next
 {% include print_posts.html content=site.tags.TAG %}
@@ -60,7 +60,7 @@ Test8:
 
 {% for tag in site.tags %}
    {% if tag[0] == "NdC0" %}
-      {% assign posts = tag %}
+      {% assign posts = tag[1] %}
     {% endif %}
 {% endfor %}
 
