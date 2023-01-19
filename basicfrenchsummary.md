@@ -34,7 +34,9 @@ if_print_post_list: false
    {% assign posts = site.posts | where:"categories", page.page_category %}
 {% endif %}
 
-{% include print_posts.html content=site.tags."NdC0" %}
+{% include print_posts.html content=posts %}
+
+
 
 Test:
 
