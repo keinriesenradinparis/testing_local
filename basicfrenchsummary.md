@@ -49,8 +49,10 @@ Test2:
 <!-- {% assign CATEGORY = "%E6%B3%95%E8%AF%AD%E5%90%AF%E8%92%99" %} -->
 {% include print_posts.html content=posts %}
 
-Test5:
-
-{% assign posts = site.tags.NdC0 }}
+Test6:
+{% assign TAG = "NdC0" }
+{% assign posts = site.tags.TAG }}
 {% include print_posts.html content=posts %}
+Next
+{% include print_posts.html content=site.tags.TAG %}
 
