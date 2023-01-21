@@ -1,5 +1,5 @@
 ---
-title: "Duolingo用中文学日语-指南Guidebook"
+title: "（用中文）学日语"
 date: "2022-12-25"
 categories:
   - "languages"
