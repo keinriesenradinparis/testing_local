@@ -14,7 +14,21 @@ if_print_post_list: false
 
 ## 零基础
 
-### Cahier 音频:
+### 讲义
+
+- [01]({{ site.baseurl }}/assets/pdf/01-compl.pdf)
+- [02]({{ site.baseurl }}/assets/pdf/02-compl.pdf)
+- [03]({{ site.baseurl }}/assets/pdf/03-compl.pdf)
+- [05]({{ site.baseurl }}/assets/pdf/05-compl.pdf)
+- [06]({{ site.baseurl }}/assets/pdf/06-compl.pdf)
+- [07]({{ site.baseurl }}/assets/pdf/07.pdf)
+- [09]({{ site.baseurl }}/assets/pdf/09.pdf)
+- [10]({{ site.baseurl }}/assets/pdf/10.pdf)
+- [11]({{ site.baseurl }}/assets/pdf/11.pdf)
+- [12]({{ site.baseurl }}/assets/pdf/12-compl.pdf)
+- [13]({{ site.baseurl }}/assets/pdf/13.pdf)
+
+### Cahier 音频
 
 - [05]({{ site.baseurl }}/assets/audio/05 Pista 5.mp3)
 - [06]({{ site.baseurl }}/assets/audio/06 Pista 6.mp3)
