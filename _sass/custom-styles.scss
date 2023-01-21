@@ -26,12 +26,13 @@ details {
     @include relative-font-size(1.25);
   }
 
-  h5 {
-    @include relative-font-size(1.125);
-  }
-  h6 {
-    @include relative-font-size(1.0625);
-  }
+//   h5 {
+//     @include relative-font-size(1.125);
+//   }
+  
+//   h6 {
+//     @include relative-font-size(1.0625);
+//   }
 }
 
 .post-content h2, h3, h4, h5, h6 {
