@@ -46,6 +46,6 @@ if_print_post_list: false
 
 ## 其他资料
 
-B站[【上海外国语大学】新公共法语初级 李沁 吴贤良（全167讲）】](https://www.bilibili.com/video/BV1PB4y1D7vM/?p=161&share_source=copy_web&vd_source=43529df20df3a0b08d03bb2469f02a25)
+B站[【上海外国语大学】新公共法语初级 李沁 吴贤良（全167讲）】](https://www.bilibili.com/video/BV1PB4y1D7vM/?p=161&share_source=copy_web&vd_source=43529df20df3a0b08d03bb2469f02a25)，全长九个多小时
 
 公共法语（老版）上册音频：[第1-20课]({{ site.baseurl }}/assets/audio/gonggongfayushang1.zip)，[第21-36课]({{ site.baseurl }}/assets/audio/gonggongfayushang2.zip)
