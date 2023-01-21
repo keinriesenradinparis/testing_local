@@ -42,3 +42,10 @@ if_print_post_list: false
 
 {% assign posts = site.posts | where:"tags", "零基础" %}
 {% include print_posts_simple.html content=posts %}
+
+
+## 其他资料
+
+B站[【上海外国语大学】新公共法语初级 李沁 吴贤良（全167讲）】](https://www.bilibili.com/video/BV1PB4y1D7vM/?p=161&share_source=copy_web&vd_source=43529df20df3a0b08d03bb2469f02a25)
+
+[公共法语（老版）上册音频]({{ site.baseurl }}/assets/audio/gonggongfayushang.zip)
