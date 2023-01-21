@@ -16,16 +16,16 @@ if_print_post_list: false
 
 ### 讲义
 
-- [01]({{ site.baseurl }}/assets/doc/NdC6/01-compl.pdf)
-- [02]({{ site.baseurl }}/assets/doc/NdC6/02-compl.pdf)
-- [03]({{ site.baseurl }}/assets/doc/NdC6/03-compl.pdf)
-- [05]({{ site.baseurl }}/assets/doc/NdC6/05-compl.pdf)
-- [06]({{ site.baseurl }}/assets/doc/NdC6/06-compl.pdf)
+- [01]({{ site.baseurl }}/assets/doc/NdC6/01 - compl.pdf)
+- [02]({{ site.baseurl }}/assets/doc/NdC6/02 - compl.pdf)
+- [03]({{ site.baseurl }}/assets/doc/NdC6/03 - compl.pdf)
+- [05]({{ site.baseurl }}/assets/doc/NdC6/05 - compl.pdf)
+- [06]({{ site.baseurl }}/assets/doc/NdC6/06 - compl.pdf)
 - [07]({{ site.baseurl }}/assets/doc/NdC6/07.pdf)
 - [09]({{ site.baseurl }}/assets/doc/NdC6/09.pdf)
 - [10]({{ site.baseurl }}/assets/doc/NdC6/10.pdf)
 - [11]({{ site.baseurl }}/assets/doc/NdC6/11.pdf)
-- [12]({{ site.baseurl }}/assets/doc/NdC6/12-compl.pdf)
+- [12]({{ site.baseurl }}/assets/doc/NdC6/12 - compl.pdf)
 - [13]({{ site.baseurl }}/assets/doc/NdC6/13.pdf)
 
 ### Cahier 音频
