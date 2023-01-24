@@ -5,7 +5,7 @@ This is a line
 
 And any text with no empty lines between will become a paragraph.
 
-Font: *Italic* or **Bold** or ***Bold and italic***, and `highlight`.
+Font: *Italic* or **Bold** or ***Bold and italic***, and `highlight`, and ~~delete~~.
 
 ## Header two
 
