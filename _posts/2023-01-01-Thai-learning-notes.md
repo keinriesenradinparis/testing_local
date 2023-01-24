@@ -586,9 +586,6 @@ A tips for those beginners in Thai. A good way to memorise the alphabet table is
 พฤศจิกายน (November) 十一月  
 ธันวาคม (December) 十二月  
 
-
-知道了来龙去脉，大家以后一定要写对这些单词哦！
-
 ### 年份
 
 泰国日历有两个体系：
