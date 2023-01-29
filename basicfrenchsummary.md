@@ -5,7 +5,7 @@ page_category: "法语启蒙"
 if_print_post_list: false
 ---
 
-* Table of contents
+1. Table of contents
 {:toc}
 
 ## 启蒙20
