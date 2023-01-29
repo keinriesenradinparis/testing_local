@@ -49,7 +49,9 @@ if_print_post_list: false
 
 ## 其他资料
 
-[Youtube播放列表](https://youtube.com/playlist?list=PLnxpDVDl4Y1xZ7czO8H_hfXayVfgPxZyP)
+[TV5MONDE](https://apprendre.tv5monde.com/fr)上有许多法语学习资源，适应不同能力水平的学生（有些可能更适合老师上课时使用）。
+
+[Youtube播放列表](https://youtube.com/playlist?list=PLnxpDVDl4Y1xZ7czO8H_hfXayVfgPxZyP)：一些视听资源
 
 B站：
 - [【上海外国语大学】新公共法语初级 李沁 吴贤良（全167讲）](https://www.bilibili.com/video/BV1PB4y1D7vM/?vd_source=60491a3e04ba343eaf8d68615b495223)，全长九个多小时
