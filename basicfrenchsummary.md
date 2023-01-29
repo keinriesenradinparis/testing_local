@@ -53,6 +53,6 @@ if_print_post_list: false
 
 B站：
 - [【上海外国语大学】新公共法语初级 李沁 吴贤良（全167讲）](https://www.bilibili.com/video/BV1PB4y1D7vM/?vd_source=60491a3e04ba343eaf8d68615b495223)，全长九个多小时
-- [【中法字幕】 巴巴爸爸 清晰版 全集](https://www.bilibili.com/video/BV1Rs411875w/?vd_source=60491a3e04ba343eaf8d68615b495223))
+- [【中法字幕】 巴巴爸爸 清晰版 全集](https://www.bilibili.com/video/BV1Rs411875w/?vd_source=60491a3e04ba343eaf8d68615b495223)
 
 公共法语（老版）上册音频：[第1-20课压缩包]({{ site.baseurl }}/assets/audio/gonggongfayushang1.zip)，[第21-36课压缩包]({{ site.baseurl }}/assets/audio/gonggongfayushang2.zip)
