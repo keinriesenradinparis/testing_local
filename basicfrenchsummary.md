@@ -5,8 +5,14 @@ page_category: "法语启蒙"
 if_print_post_list: false
 ---
 
+**目录:**
 * Table of contents
 {:toc}
+
+<p align="center">
+* * *
+</p>
+
 
 ## 启蒙20
 
@@ -14,6 +20,11 @@ if_print_post_list: false
 
 {% assign posts = site.tags["启蒙20"] %}
 {% include print_posts_simple.html content=posts %}
+
+<p align="center">
+* * *
+</p>
+
 
 ## 零基础
 
@@ -46,6 +57,9 @@ if_print_post_list: false
 {% assign posts = site.posts | where:"tags", "零基础" %}
 {% include print_posts_simple.html content=posts %}
 
+<p align="center">
+* * *
+</p>
 
 ## 其他资料
 
