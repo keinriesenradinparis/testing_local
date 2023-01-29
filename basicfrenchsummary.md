@@ -14,7 +14,7 @@ This is[^1] HTML
 
 
 [^1]: asdfg
-{:id: #id-of-this}
+{:a: #id-of-this}
 
 Link to [?](#id-of-this).
 
