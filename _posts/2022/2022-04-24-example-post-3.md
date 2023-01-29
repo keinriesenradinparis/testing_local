@@ -5,4 +5,5 @@ categories:
   - "blog"
 tags: 
   - "music"
+permalink: /hidden/
 ---
