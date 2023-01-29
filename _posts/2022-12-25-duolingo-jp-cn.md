@@ -1,5 +1,5 @@
 ---
-title: "（用中文）学日语"
+title: "日语笔记"
 date: "2022-12-25"
 categories:
   - "languages"
