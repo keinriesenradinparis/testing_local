@@ -9,9 +9,9 @@ if_print_post_list: false
 * Table of contents
 {:toc}
 
-<p align="center">
+<h2 align="center">
 * * *
-</p>
+</h2>
 
 
 ## 启蒙20
