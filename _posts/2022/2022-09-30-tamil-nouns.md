@@ -7,7 +7,7 @@ categories:
 ---
 
 Cases வேற்றுமை and case markers:
-1. Nominative case முதல் வேற்றுமை (எழுவாய் வேற்றுமை Nominative case): -$\empty$
+1. Nominative case முதல் வேற்றுமை (எழுவாய் வேற்றுமை Nominative case): -
 2. Accusative case இரண்டாம் வேற்றுமை: -ஐ
 3. Instrumental case மூன்றாம் வேற்றுமை: -ஆல்(=-ஆன்), -ஓடு=-உடன்=(-ஒடு), …
 4. Dative case நான்காம் வேற்றுமை: -(உ/அ)க்கு
