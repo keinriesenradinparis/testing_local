@@ -18,12 +18,13 @@ Cases வேற்றுமை and case markers:
 
 (Cases are listed in the numeral order: the first case, the second case, … , the eighth case.)
 
-Nouns undergo certain changes in ending when joining directly with suffixes, as in **bolded** text below.
+Nouns undergo certain changes in ending when joining directly with suffixes, as in **bolded** and ~~deleted~~ text below.
 
 <div class="overflow-wrapper" markdown="block" style="strong {color: red!important;}">
 
 Case Number  | Case Name  | Case ending | -C | -C | -ay | -i | -ī | -ai | -u (in general) | -CCu | CVCu | CVVCu with C hard | -CVV | -m |
-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|| |	|	Examples👉 |	dog |	book |	dog |	tiger |	fire |	hand |	door |	salt |	middle |	house |	father |	tree |
+|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
+| |	|	Examples👉 |	dog |	book |	dog |	tiger |	fire |	hand |	door |	salt |	middle |	house |	father |	tree |
 1 |	Nominative |	- |	கால்<br>kāl |	நூல்<br>nūl |	நாய்<br>nāy |	புலி<br>puli |	தீ<br>tī |	கை<br>kai |	கதவு<br>katavu |	உப்பு<br>uppu |	நடு<br>naṭu |	வீடு<br>vīṭu |	அப்பா<br>appā |	மரம்<br>maram |
 2 |	Accusative |	-ai |	காலை<br>kālai |	நூலை<br>nūlai |	நாயை<br>nāyai |	புலியை<br>puli**y**ai |	தீயை<br>tī**y**ai |	கையை<br>kai**y**ai |	கதவை<br>katav~~u~~ai |	உப்பை<br>upp~~u~~ai |	நடுவை<br>naṭu**v**ai |	வீட்டை<br>vī**ṭṭ**~~u~~ai |	அப்பாவை<br>appā**v**ai |	மரத்தை<br>mar**att**~~u~~ai |
 3 |	Sociative 1 |	-ōṭu |	காலோடு<br>kālōṭu |	நூலோடு<br>nūlōṭu |	நாயோடு<br>nāyōṭu |	புலியோடு<br>puli**y**ōṭu |	தீயோடு<br>tī**y**ōṭu |	கையோடு<br>kai**y**ōṭu |	கதவோடு<br>katav~~u~~ōṭu |	உப்போடு<br>upp~~u~~ōṭu |	நடுவோடு<br>naṭu**v**ōṭu |	வீட்டோடு<br>vī**ṭṭ**~~u~~ōṭu |	அப்பாவோடு<br>appā**v**ōṭu |	மரத்தோடு<br>mar**att**~~u~~ōṭu |
