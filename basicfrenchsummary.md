@@ -10,7 +10,7 @@ if_print_post_list: false
 
 ## 启蒙20
 
-This is [^1] HTML
+This is[^1] HTML
 
 
 [^1]: asdfg
