@@ -14,7 +14,7 @@ This is[^1] HTML
 
 
 [^1]: asdfg
-{: #id-of-this-paragraph}
+{:id: #id-of-this-paragraph}
 
 Link to [?](#id-of-this-paragraph).
 
