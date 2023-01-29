@@ -10,13 +10,14 @@ if_print_post_list: false
 
 ## 启蒙20
 
-This is [^1] HTML
+This is[^1] HTML
 
 
 [^1]: asdfg
 
 *[comment]: this is comment and will not be showed.
-*[HTML]: something hhh
+*[HTML]: this is for the author, a comment that explains the abbreviation "HTML".
+
 
 
 <!-- [课程大纲]({{ site.baseurl }}/2023/01/18/法语启蒙20-大纲.html) -->
