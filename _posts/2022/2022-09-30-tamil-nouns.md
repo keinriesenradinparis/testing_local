@@ -20,7 +20,7 @@ Cases வேற்றுமை and case markers:
 
 Nouns undergo certain changes in ending when joining directly with suffixes, as in **bolded** and ~~deleted~~ text below.
 
-<div class="overflow-wrapper" markdown="block" style="strong {color: red!important;}">
+<div class="overflow-wrapper" markdown="block">
 
 Case Number  | Case Name  | Case ending | -C | -C | -ay | -i | -ī | -ai | -u (in general) | -CCu | CVCu | CVVCu with C hard | -CVV | -m |
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
