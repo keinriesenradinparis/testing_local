@@ -22,7 +22,7 @@ if_print_post_list: false
 {% include print_posts_simple.html content=posts %}
 
 <h2 align="center">
-* * *
+* &nbsp; * &nbsp; *
 </h2>
 
 
