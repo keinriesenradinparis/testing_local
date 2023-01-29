@@ -15,6 +15,7 @@ This is [^1] HTML
 
 [^1]: asdfg
 
+*[comment]: this is comment and will not be showed.
 *[HTML]: something hhh
 
 
