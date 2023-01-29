@@ -5,7 +5,7 @@ page_category: "法语启蒙"
 if_print_post_list: false
 ---
 
-**目录:**
+目录:
 * Table of contents
 {:toc}
 
@@ -21,9 +21,9 @@ if_print_post_list: false
 {% assign posts = site.tags["启蒙20"] %}
 {% include print_posts_simple.html content=posts %}
 
-<p align="center">
+<h2 align="center">
 * * *
-</p>
+</h2>
 
 
 ## 零基础
