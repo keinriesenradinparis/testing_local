@@ -10,7 +10,7 @@ if_print_post_list: false
 {:toc}
 
 <h2 align="center">
-* * *
+* &nbsp; * &nbsp; *
 </h2>
 
 
@@ -57,9 +57,9 @@ if_print_post_list: false
 {% assign posts = site.posts | where:"tags", "零基础" %}
 {% include print_posts_simple.html content=posts %}
 
-<p align="center">
-* * *
-</p>
+<h2 align="center">
+* &nbsp; * &nbsp; *
+</h2>
 
 ## 其他资料
 
