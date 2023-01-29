@@ -5,26 +5,10 @@ page_category: "法语启蒙"
 if_print_post_list: false
 ---
 
-1. Table of contents
+* Table of contents
 {:toc}
 
 ## 启蒙20
-
-This is[^1] HTML
-
-
-[^1]: asdfg
-{:a: #id-of-this}
-
-Link to [?](#id-of-this).
-
-*[comment]: this is comment and will not be showed.
-
-*[HTML]: 
-  this is for the author, a comment that explains the abbreviation "HTML".  
-  ASD
-
-
 
 <!-- [课程大纲]({{ site.baseurl }}/2023/01/18/法语启蒙20-大纲.html) -->
 
@@ -33,7 +17,7 @@ Link to [?](#id-of-this).
 
 ## 零基础
 
-### 讲义
+### 讲义 PDF
 
 - [01]({{ site.baseurl }}/assets/doc/NdCS6/01 - compl.pdf)
 - [02]({{ site.baseurl }}/assets/doc/NdCS6/02 - compl.pdf)
@@ -47,7 +31,7 @@ Link to [?](#id-of-this).
 - [12]({{ site.baseurl }}/assets/doc/NdCS6/12 - compl.pdf)
 - [13]({{ site.baseurl }}/assets/doc/NdCS6/13.pdf)
 
-### Cahier 音频
+### Cahier 音频 MP3
 
 - [05]({{ site.baseurl }}/assets/audio/05 Pista 5.mp3)
 - [06]({{ site.baseurl }}/assets/audio/06 Pista 6.mp3)
@@ -67,4 +51,4 @@ Link to [?](#id-of-this).
 
 B站[【【上海外国语大学】新公共法语初级 李沁 吴贤良（全167讲）】](https://www.bilibili.com/video/BV1PB4y1D7vM/)，全长九个多小时
 
-公共法语（老版）上册音频：[第1-20课]({{ site.baseurl }}/assets/audio/gonggongfayushang1.zip)，[第21-36课]({{ site.baseurl }}/assets/audio/gonggongfayushang2.zip)
+公共法语（老版）上册音频：[第1-20课压缩包]({{ site.baseurl }}/assets/audio/gonggongfayushang1.zip)，[第21-36课压缩包]({{ site.baseurl }}/assets/audio/gonggongfayushang2.zip)
