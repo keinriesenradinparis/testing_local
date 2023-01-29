@@ -6,5 +6,4 @@ categories:
 tags: 
   - "music"
 permalink: /hidden/
-published: false
 ---
