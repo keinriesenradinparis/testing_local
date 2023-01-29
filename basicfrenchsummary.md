@@ -14,6 +14,9 @@ This is[^1] HTML
 
 
 [^1]: asdfg
+{: #id-of-this-paragraph}
+
+Link to [?](#id-of-this-paragraph).
 
 *[comment]: this is comment and will not be showed.
 *[HTML]: this is for the author, a comment that explains the abbreviation "HTML".
