@@ -36,7 +36,7 @@ Traditional Thai keyboard:
 
 ![Thai keyboard with Shift]({{ site.baseurl }}/assets/img/thai-kedmanee-keyboard-2-shift.png)
 
-## 2022.12
+## 2022.12-2023.01
 
 ### 泰语新年祝福
 
@@ -58,9 +58,9 @@ Traditional Thai keyboard:
 ขอให้สุขภาพแข็งแรง
 - แข็งแรง “strong”
 
-## 2023.01
+### Tips
 
-A tips for those beginners in Thai. A good way to memorise the alphabet table is to learn the Thai keyboard at the same time. I would suggest Kedmanee rather than Pattachote because the former is more similar to the Lao keyboard (as you may or may not know, Lao is sort of a dialect of Thai-Lao languages, which diverges from Thai especially in vocabulary, cf. Malay and the “artificial” language Indonesian: Malay has more English loanwords while Indonesian has more Dutch loanwords).
+A tip for those beginners in Thai. A good way to memorise the alphabet table is to learn the Thai keyboard at the same time. I would suggest Kedmanee rather than Pattachote because the former is more similar to the Lao keyboard (as you may or may not know, Lao is sort of a dialect of Thai-Lao languages, which diverges from Thai especially in vocabulary, cf. Malay and the “artificial” language Indonesian: Malay has more English loanwords while Indonesian has more Dutch loanwords).
 
 ### 曼谷全名
 
