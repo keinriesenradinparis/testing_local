@@ -32,24 +32,9 @@ In Thai, all sibilants are pronounced as /s/, never a retroflex nor palatalised 
 
 Traditional Thai keyboard:
 
-![Thai keyboard](/assets/img/thai-kedmanee-keyboard-1.png)
+![Thai keyboard]({{ site.baseurl }}/assets/img/thai-kedmanee-keyboard-1.png)
 
-![Thai keyboard with Shift](/assets/img/thai-kedmanee-keyboard-2-shift.png)
-
-Here is the alphabet table with the traditional Thai keyboard position indicated (e.g. left parenthesis means that the letter should be found with `shift` and on the left part of the keyboard).
-
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-|   | ก | ข | ฃ | ค | ฅ)|(ฆ | ง |
-|   | จ |(ฉ |   | ช | ซ)|(ฌ | ญ)| 
-|(ฎ |(ฏ | ฐ)|   |(ฑ |   | ฒ)| ณ)|
-| ด | ต | ถ |   | ท |   |(ธ | น |
-| บ | ป | ผ | ฝ | พ | ฟ | ภ | ม |
-|   |   |   |   | ย | ร | ล | ว | 
-|   | ศ)| ษ)| ส |
-| อ |   | ห |           | ฬ)|(ฮ |
-
-You can pratice it by typing each column of the table and each line of the table, etc.
+![Thai keyboard with Shift]({{ site.baseurl }}/assets/img/thai-kedmanee-keyboard-2-shift.png)
 
 ## 2022.12
 
