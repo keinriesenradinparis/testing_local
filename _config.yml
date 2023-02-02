@@ -1,7 +1,7 @@
 # Site settings
 title: Naive playground
 author: Rhythmszk
-email: your-email@domain.com
+email: fdzkzhou@163.com
 description: > # this means to ignore newlines until "show_excerpts:"
   Do you want a description?
 # show_excerpts: true
@@ -23,7 +23,7 @@ kramdown:
 # baseurl is your github repository's name prefixed with a /
 # baseurl: /testing_local
 # location of code, the full url to your github repository
-# source-code: https://github.com/thecdil/bootstrap-template
+source-code: https://github.com/thecdil/bootstrap-template
 
 
 # Build settings
