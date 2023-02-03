@@ -55,12 +55,14 @@ if_print_post_list: false
 ### 语音：字母组合
 
 - 鼻音：on, an/en, in, (un)  
-  不读鼻音：onne, anne, enne, ine, une
+  不读鼻音：onne, anne, enne, ine, une, (um)
 - 两个或更多元音字母：ou, oi, ai/ei, au/eau/aux/eaux, eu/œu
 - 鼻音：in/ain/ein, ien, oin  
   不读鼻音：aine, eine, ienne, oine
 - 辅音：ç, j, gn, qu, ch, gu
 - 开口大小：o, é, è/ê, -ez，单音节-es
+- 末尾辅音不发音（c,f,l,r 例外）
+- y=i+i
 
 ### 知识点总结
 
