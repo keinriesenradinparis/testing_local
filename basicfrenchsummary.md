@@ -52,6 +52,16 @@ if_print_post_list: false
 - [26]({{ site.baseurl }}/assets/audio/26 Pista 26.mp3)
 - [34]({{ site.baseurl }}/assets/audio/34 Pista 34.mp3)
 
+### 语音：字母组合
+
+- 鼻音：on, an/en, in, (un)  
+  不读鼻音：onne, anne, enne, ine, une
+- 两个或更多元音字母：ou, oi, ai/ei, au/eau/aux/eaux, eu/œu
+- 鼻音：in/ain/ein, ien, oin  
+  不读鼻音：aine, eine, ienne, oine
+- 辅音：ç, j, gn, qu, ch, gu
+- 开口大小：o, é, è/ê, -ez，单音节-es
+
 ### 知识点总结
 
 {% assign posts = site.posts | where:"tags", "零基础" %}
