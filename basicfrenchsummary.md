@@ -16,6 +16,8 @@ if_print_post_list: false
 
 ## 启蒙20
 
+### 基本信息
+
 时间：每周六16h00-17h30，2月11日—6月3日，共14次课
 - 放假：4月8日，5月6日，5月20日
 
@@ -36,6 +38,10 @@ if_print_post_list: false
 - 主题：① 购物，买菜；② 交通；③ 描述经常发生的/过去的事件。
 
 欢迎随时反馈补充！
+
+### 材料
+
+- [第一课讲义]({{ site.baseurl }}/assets/doc/NdCS7/01 - compl.pdf), 听力[33]({{ site.baseurl }}/assets/audio/33 Pista 33.mp3), [34]({{ site.baseurl }}/assets/audio/34 Pista 34.mp3)
 
 
 <!-- [课程大纲]({{ site.baseurl }}/2023/01/18/法语启蒙20-大纲.html) -->
