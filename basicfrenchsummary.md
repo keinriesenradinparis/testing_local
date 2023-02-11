@@ -14,7 +14,7 @@ if_print_post_list: false
 </h2>
 
 
-## 启蒙20
+## **启蒙20**
 
 02/2023 - 06/2023
 
@@ -60,12 +60,7 @@ if_print_post_list: false
 * &nbsp; * &nbsp; *
 </h2>
 
-<h2 align="center">
-* &nbsp; * &nbsp; *
-</h2>
-
-
-## 零基础 
+## **零基础** 
 
 10/2022 - 01/2023
 
@@ -114,7 +109,7 @@ if_print_post_list: false
 * &nbsp; * &nbsp; *
 </h2>
 
-## 其他资料
+## **其他资料**
 
 [TV5MONDE](https://apprendre.tv5monde.com/fr)上有许多法语学习资源，适应不同能力水平的学生（更适合老师上课时使用）。
 
