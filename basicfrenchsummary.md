@@ -54,6 +54,12 @@ if_print_post_list: false
 
 动词需要了解 être, avoir, faire, aller 以及其他所有 -er 规则动词的变位，见[此页面]({{ site.baseurl }}/2022/12/16/法语简单动词变位.html)。
 
+轻松活泼的法语语法入门教学：[法语语法轻松学](https://youtube.com/playlist?list=PLwlSKU27SNZpaSDnLC3yXhhAJ7YX6dTuk)，17个短视频。
+
+<h2 align="center">
+* &nbsp; * &nbsp; *
+</h2>
+
 <h2 align="center">
 * &nbsp; * &nbsp; *
 </h2>
