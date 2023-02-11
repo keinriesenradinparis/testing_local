@@ -54,7 +54,7 @@ if_print_post_list: false
 
 动词需要了解 être, avoir, faire, aller 以及其他所有 -er 规则动词的变位，见[此页面]({{ site.baseurl }}/2022/12/16/法语简单动词变位.html)。
 
-轻松活泼的法语语法入门教学：[法语语法轻松学](https://youtube.com/playlist?list=PLwlSKU27SNZpaSDnLC3yXhhAJ7YX6dTuk)，17个短视频。
+轻松活泼的语法入门教学：[法语语法轻松学](https://youtube.com/playlist?list=PLwlSKU27SNZpaSDnLC3yXhhAJ7YX6dTuk)，17个短视频。
 
 <h2 align="center">
 * &nbsp; * &nbsp; *
@@ -118,7 +118,10 @@ if_print_post_list: false
 
 [TV5MONDE](https://apprendre.tv5monde.com/fr)上有许多法语学习资源，适应不同能力水平的学生（更适合老师上课时使用）。
 
-[Youtube播放列表](https://youtube.com/playlist?list=PLnxpDVDl4Y1xZ7czO8H_hfXayVfgPxZyP)：一些视听资源
+Youtube:
+- [私藏播放列表](https://youtube.com/playlist?list=PLnxpDVDl4Y1xZ7czO8H_hfXayVfgPxZyP)：一些视听资源
+- [法语语法轻松学](https://youtube.com/playlist?list=PLwlSKU27SNZpaSDnLC3yXhhAJ7YX6dTuk)，17个短视频，轻松活泼入门语法。
+- [【大神法语】你好法语A1系列](https://youtube.com/playlist?list=PLjTeU0MOrjTI9HYuxGFm8t8s1sgs426zc)的前9个视频：语音入门（含音标）。
 
 B站：
 - [【上海外国语大学】新公共法语初级 李沁 吴贤良（全167讲）](https://www.bilibili.com/video/BV1PB4y1D7vM/?vd_source=60491a3e04ba343eaf8d68615b495223)，全长九个多小时
