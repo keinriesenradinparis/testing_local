@@ -52,7 +52,7 @@ if_print_post_list: false
 - 末尾辅音不发音（c,f,l,r 例外）
 - y 相当于一个 i 或者 i+i
 
-学过英语音标、平时在家、比较有空的人可以观看：[【大神法语】你好法语A1系列](https://youtube.com/playlist?list=PLjTeU0MOrjTI9HYuxGFm8t8s1sgs426zc)。
+学过英语音标、平时在家、比较有空的人可以观看：[【大神法语】你好法语A1系列](https://youtube.com/playlist?list=PLjTeU0MOrjTI9HYuxGFm8t8s1sgs426zc)的前9个视频。
 
 动词需要了解 être, avoir, faire, aller 以及其他所有 -er 规则动词的变位，见[此页面]({{ site.baseurl }}/2022/12/16/法语简单动词变位.html)。
 
