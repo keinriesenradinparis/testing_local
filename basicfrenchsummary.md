@@ -41,7 +41,7 @@ if_print_post_list: false
 
 ### 材料
 
-- [第一课讲义]({{ site.baseurl }}/assets/doc/NdCS7/01 - compl.pdf), 听力[33]({{ site.baseurl }}/assets/audio/33 Pista 33.mp3), [34]({{ site.baseurl }}/assets/audio/34 Pista 34.mp3)
+- [第一课讲义]({{ site.baseurl }}/assets/doc/NdCS7/01 - compl.pdf)；听力音频 [33]({{ site.baseurl }}/assets/audio/33 Pista 33.mp3), [34]({{ site.baseurl }}/assets/audio/34 Pista 34.mp3)
 
 
 <!-- [课程大纲]({{ site.baseurl }}/2023/01/18/法语启蒙20-大纲.html) -->
