@@ -26,8 +26,6 @@ if_print_post_list: false
   - 巩固语音、学习实用句型、语法入门，补充以法国文化与生活。
   - 主题：① 购物，买菜；② 交通；③ 描述经常发生的/过去的事件。
 
-欢迎随时反馈补充！
-
 ### 材料
 
 - [第一课讲义]({{ site.baseurl }}/assets/doc/NdCS7/01 - compl.pdf)；
