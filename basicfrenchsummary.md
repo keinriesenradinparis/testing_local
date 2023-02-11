@@ -28,7 +28,7 @@ if_print_post_list: false
 
 ### 材料
 
-- [第一课讲义]({{ site.baseurl }}/assets/doc/NdCS7/01 - compl.pdf)；
+- [第一课讲义]({{ site.baseurl }}/assets/doc/NdCS7/01.pdf)；
   听力音频 [33]({{ site.baseurl }}/assets/audio/33 Pista 33.mp3), [34]({{ site.baseurl }}/assets/audio/34 Pista 34.mp3)
 
 
