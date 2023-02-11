@@ -14,23 +14,12 @@ if_print_post_list: false
 </h2>
 
 
-## 启蒙20
+## 启蒙20 02/2023-06/2023
 
 ### 基本信息
 
 时间：每周六16h00-17h30，2月11日—6月3日，共14次课
 - 放假：4月8日，5月6日，5月20日
-
-作业：将发布于微信群，大家自行完成课前作业/课后作业的小练习题。
-- 课前预习小作业每周三发布，请于课前完成
-- 课后作业每周日发布，请于次周六上午12点之前完成。
-- 请大家留出充足的时间做作业，以保证作业质量。
-
-退款：
-- **条件：①【全勤】②【课后作业全部完成】**
-- 以下情况不计旷课：有医生病假条或行政手续RDV预约证明。
-- 作业可以超时补交，也算作提交，但不保证得到批改。
-- 课前作业不计入退款条件，但能提高课堂听课效率，建议认真对待。
 
 课程内容：
 - 参考教材：Texto 1、你好法语 A1（无需购买）
@@ -41,7 +30,8 @@ if_print_post_list: false
 
 ### 材料
 
-- [第一课讲义]({{ site.baseurl }}/assets/doc/NdCS7/01 - compl.pdf)；听力音频 [33]({{ site.baseurl }}/assets/audio/33 Pista 33.mp3), [34]({{ site.baseurl }}/assets/audio/34 Pista 34.mp3)
+- [第一课讲义]({{ site.baseurl }}/assets/doc/NdCS7/01 - compl.pdf)；
+  听力音频 [33]({{ site.baseurl }}/assets/audio/33 Pista 33.mp3), [34]({{ site.baseurl }}/assets/audio/34 Pista 34.mp3)
 
 
 <!-- [课程大纲]({{ site.baseurl }}/2023/01/18/法语启蒙20-大纲.html) -->
@@ -54,31 +44,31 @@ if_print_post_list: false
 </h2>
 
 
-## 零基础
+## 零基础 10/2022 - 01/2023
 
 ### 讲义 PDF
 
-- [01]({{ site.baseurl }}/assets/doc/NdCS6/01 - compl.pdf)
-- [02]({{ site.baseurl }}/assets/doc/NdCS6/02 - compl.pdf)
-- [03]({{ site.baseurl }}/assets/doc/NdCS6/03 - compl.pdf)
-- [05]({{ site.baseurl }}/assets/doc/NdCS6/05 - compl.pdf)
-- [06]({{ site.baseurl }}/assets/doc/NdCS6/06 - compl.pdf)
-- [07]({{ site.baseurl }}/assets/doc/NdCS6/07.pdf)
-- [09]({{ site.baseurl }}/assets/doc/NdCS6/09.pdf)
-- [10]({{ site.baseurl }}/assets/doc/NdCS6/10.pdf)
-- [11]({{ site.baseurl }}/assets/doc/NdCS6/11.pdf)
-- [12]({{ site.baseurl }}/assets/doc/NdCS6/12 - compl.pdf)
-- [13]({{ site.baseurl }}/assets/doc/NdCS6/13.pdf)
+[01]({{ site.baseurl }}/assets/doc/NdCS6/01 - compl.pdf),
+[02]({{ site.baseurl }}/assets/doc/NdCS6/02 - compl.pdf),
+[03]({{ site.baseurl }}/assets/doc/NdCS6/03 - compl.pdf),
+[05]({{ site.baseurl }}/assets/doc/NdCS6/05 - compl.pdf),
+[06]({{ site.baseurl }}/assets/doc/NdCS6/06 - compl.pdf),
+[07]({{ site.baseurl }}/assets/doc/NdCS6/07.pdf),
+[09]({{ site.baseurl }}/assets/doc/NdCS6/09.pdf),
+[10]({{ site.baseurl }}/assets/doc/NdCS6/10.pdf),
+[11]({{ site.baseurl }}/assets/doc/NdCS6/11.pdf),
+[12]({{ site.baseurl }}/assets/doc/NdCS6/12 - compl.pdf),
+[13]({{ site.baseurl }}/assets/doc/NdCS6/13.pdf)
 
 ### Cahier 音频 MP3
 
-- [05]({{ site.baseurl }}/assets/audio/05 Pista 5.mp3)
-- [06]({{ site.baseurl }}/assets/audio/06 Pista 6.mp3)
-- [11]({{ site.baseurl }}/assets/audio/11 Pista 11.mp3)
-- [12]({{ site.baseurl }}/assets/audio/12 Pista 12.mp3)
-- [23]({{ site.baseurl }}/assets/audio/23 Pista 23.mp3)
-- [26]({{ site.baseurl }}/assets/audio/26 Pista 26.mp3)
-- [34]({{ site.baseurl }}/assets/audio/34 Pista 34.mp3)
+[05]({{ site.baseurl }}/assets/audio/05 Pista 5.mp3),
+[06]({{ site.baseurl }}/assets/audio/06 Pista 6.mp3),
+[11]({{ site.baseurl }}/assets/audio/11 Pista 11.mp3),
+[12]({{ site.baseurl }}/assets/audio/12 Pista 12.mp3),
+[23]({{ site.baseurl }}/assets/audio/23 Pista 23.mp3),
+[26]({{ site.baseurl }}/assets/audio/26 Pista 26.mp3),
+[34]({{ site.baseurl }}/assets/audio/34 Pista 34.mp3)
 
 ### 语音：字母组合
 
@@ -90,7 +80,7 @@ if_print_post_list: false
 - 辅音：ç, j, gn, qu, ch, gu
 - 开口大小：o, é, è/ê, -ez，单音节-es
 - 末尾辅音不发音（c,f,l,r 例外）
-- y=i+i
+- y 相当于一个 i 或者 i+i
 
 ### 知识点总结
 
@@ -103,7 +93,7 @@ if_print_post_list: false
 
 ## 其他资料
 
-[TV5MONDE](https://apprendre.tv5monde.com/fr)上有许多法语学习资源，适应不同能力水平的学生（有些可能更适合老师上课时使用）。
+[TV5MONDE](https://apprendre.tv5monde.com/fr)上有许多法语学习资源，适应不同能力水平的学生（更适合老师上课时使用）。
 
 [Youtube播放列表](https://youtube.com/playlist?list=PLnxpDVDl4Y1xZ7czO8H_hfXayVfgPxZyP)：一些视听资源
 
