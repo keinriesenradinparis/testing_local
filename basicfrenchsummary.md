@@ -36,8 +36,8 @@ if_print_post_list: false
 
 <!-- [课程大纲]({{ site.baseurl }}/2023/01/18/法语启蒙20-大纲.html) -->
 
-{% assign posts = site.tags["启蒙20"] %}
-{% include print_posts_simple.html content=posts %}
+<!-- {% assign posts = site.tags["启蒙20"] %}
+{% include print_posts_simple.html content=posts %} -->
 
 <h2 align="center">
 * &nbsp; * &nbsp; *
