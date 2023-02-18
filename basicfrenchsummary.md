@@ -18,7 +18,7 @@ if_print_post_list: false
 
 02/2023 - 06/2023
 
-### <details markdown=block>
+<details markdown=block>
   <summary markdown=span>基本信息</summary>
   
   - 时间：每周六16h00-17h30，2月11日—6月3日，共14次课（假期：4月8日，5月6日，5月20日）。
