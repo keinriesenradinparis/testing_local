@@ -41,16 +41,19 @@ if_print_post_list: false
 
 ### 补充材料
 
-语音上需要了解的字母组合：
-- 鼻音：on, an/en, in, (un)  
-  不读鼻音：onne, anne, enne, ine, une, (um)
-- 两个或更多元音字母：ou, oi, ai/ei, au/eau/aux/eaux, eu/œu
-- 鼻音：in/ain/ein, ien, oin  
-  不读鼻音：aine, eine, ienne, oine
-- 辅音：ç, j, gn, qu, ch, gu
-- 开口大小：o, é, è/ê, -ez，单音节-es
-- 末尾辅音不发音（c,f,l,r 例外）
-- y 相当于一个 i 或者 i+i
+<details markdown=block>
+  <summary markdown=span>语音上需要了解的字母组合：</summary>
+  
+  - 鼻音：on, an/en, in, (un)  
+    不读鼻音：onne, anne, enne, ine, une, (um)
+  - 两个或更多元音字母：ou, oi, ai/ei, au/eau/aux/eaux, eu/œu
+  - 鼻音：in/ain/ein, ien, oin  
+    不读鼻音：aine, eine, ienne, oine
+  - 辅音：ç, j, gn, qu, ch, gu
+  - 开口大小：o, é, è/ê, -ez，单音节-es
+  - 末尾辅音不发音（c,f,l,r 例外）
+  - y 相当于一个 i 或者 i+i
+</details>
 
 学过英语音标、平时在家、比较有空的人可以观看：[【大神法语】你好法语A1系列](https://youtube.com/playlist?list=PLjTeU0MOrjTI9HYuxGFm8t8s1sgs426zc)的前9个视频。
 
