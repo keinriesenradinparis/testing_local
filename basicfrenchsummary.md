@@ -35,6 +35,7 @@ if_print_post_list: false
 - [第二课讲义]({{ site.baseurl }}/assets/doc/NdCS7/02-03.pdf)；  
   视频：[Achats](https://youtu.be/gq0ZTbmylb4)；  
   服装词汇：
+  - [词汇+语音+小练习](https://www.francaisfacile.com/exercices/exercice-francais-2/exercice-francais-47411.php)（点击correction自动批改）
   - <https://youtu.be/SFRhBEqDJ24>（语速较慢）
   - <https://youtu.be/2cz-FkExHwg>（语速较慢）
   - <https://youtu.be/pfb9DJmaFT4>（语速正常）
