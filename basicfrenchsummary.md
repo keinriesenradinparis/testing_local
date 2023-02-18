@@ -31,9 +31,9 @@ if_print_post_list: false
 ### 材料
 
 - [第一课讲义]({{ site.baseurl }}/assets/doc/NdCS7/01.pdf)；
-  听力音频 MP3：[33.mp3]({{ site.baseurl }}/assets/audio/33 Pista 33.mp3), [34.mp3]({{ site.baseurl }}/assets/audio/34 Pista 34.mp3)
-- [第二课讲义]({{ site.baseurl }}/assets/doc/NdCS7/01.pdf)；
-  视频：<https://youtu.be/gq0ZTbmylb4>
+  听力音频 MP3：[33]({{ site.baseurl }}/assets/audio/33 Pista 33.mp3), [34]({{ site.baseurl }}/assets/audio/34 Pista 34.mp3)
+- [第二课讲义]({{ site.baseurl }}/assets/doc/NdCS7/02.pdf)；
+  视频：[Achats](https://youtu.be/gq0ZTbmylb4)
 
 
 <!-- [课程大纲]({{ site.baseurl }}/2023/01/18/法语启蒙20-大纲.html) -->
