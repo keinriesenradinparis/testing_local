@@ -32,7 +32,7 @@ if_print_post_list: false
 
 - [第一课讲义]({{ site.baseurl }}/assets/doc/NdCS7/01.pdf)；  
   听力音频 MP3：[33]({{ site.baseurl }}/assets/audio/33 Pista 33.mp3), [34]({{ site.baseurl }}/assets/audio/34 Pista 34.mp3)
-- [第二课讲义]({{ site.baseurl }}/assets/doc/NdCS7/02.pdf)；  
+- [第二课讲义]({{ site.baseurl }}/assets/doc/NdCS7/02-03.pdf)；  
   视频：[Achats](https://youtu.be/gq0ZTbmylb4)；  
   服装词汇：
   - <https://youtu.be/SFRhBEqDJ24>（语速较慢）
