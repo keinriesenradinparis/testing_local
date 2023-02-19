@@ -16,8 +16,6 @@ if_print_post_list: false
 
 ## **启蒙20**
 
-02/2023 - 06/2023
-
 <details markdown=block>
   <summary markdown=span>基本信息</summary>
   
