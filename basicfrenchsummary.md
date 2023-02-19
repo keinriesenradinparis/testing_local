@@ -73,8 +73,6 @@ if_print_post_list: false
 
 ## **零基础** 
 
-<p>10/2022 - 01/2023</p>
-
 ### 讲义 PDF
 
 [01]({{ site.baseurl }}/assets/doc/NdCS6/01 - compl.pdf),
