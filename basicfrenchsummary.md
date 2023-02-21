@@ -120,8 +120,7 @@ if_print_post_list: false
 
 ## **启蒙50** 
 
-### 讲义 PDF
-
+讲义 PDF：
 [01]({{ site.baseurl }}/assets/doc/NdCS5/01.pdf),
 [02]({{ site.baseurl }}/assets/doc/NdCS5/02.pdf),
 [03]({{ site.baseurl }}/assets/doc/NdCS5/03.pdf),
