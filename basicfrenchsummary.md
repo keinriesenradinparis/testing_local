@@ -118,6 +118,23 @@ if_print_post_list: false
 * &nbsp; * &nbsp; *
 </h2>
 
+## **启蒙50** 
+
+### 讲义 PDF
+
+[01]({{ site.baseurl }}/assets/doc/NdCS5/01.pdf),
+[02]({{ site.baseurl }}/assets/doc/NdCS5/02.pdf),
+[03]({{ site.baseurl }}/assets/doc/NdCS5/03.pdf),
+[04]({{ site.baseurl }}/assets/doc/NdCS5/04.pdf),
+[05]({{ site.baseurl }}/assets/doc/NdCS5/05v2.pdf),
+[06]({{ site.baseurl }}/assets/doc/NdCS5/06.pdf),
+[07]({{ site.baseurl }}/assets/doc/NdCS5/07.pdf),
+[11]({{ site.baseurl }}/assets/doc/NdCS5/11.pdf),
+[12]({{ site.baseurl }}/assets/doc/NdCS5/12v2.pdf),
+[13]({{ site.baseurl }}/assets/doc/NdCS5/13v2.pdf),
+[14]({{ site.baseurl }}/assets/doc/NdCS5/14.pdf)
+
+
 ## **其他资料**
 
 [TV5MONDE](https://apprendre.tv5monde.com/fr)上有许多法语学习资源，适应不同能力水平的学生（更适合老师上课时使用）。
