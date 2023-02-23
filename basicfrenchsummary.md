@@ -13,8 +13,6 @@ if_print_post_list: false
 * &nbsp; * &nbsp; *
 </h2>
 
-[asd](#讲义 PDF)
-
 ## **启蒙20**
 
 <details markdown=block>
