@@ -29,7 +29,7 @@ if_print_post_list: false
 
 - [第一课讲义]({{ site.baseurl }}/assets/doc/NdCS7/01.pdf)；  
   听力音频 MP3：[33]({{ site.baseurl }}/assets/audio/33 Pista 33.mp3), [34]({{ site.baseurl }}/assets/audio/34 Pista 34.mp3)
-- [第二课讲义]({{ site.baseurl }}/assets/doc/NdCS7/02-03.pdf)；  
+- [第二、第三课讲义]({{ site.baseurl }}/assets/doc/NdCS7/02-03.pdf)；  
   视频：[Achats](https://youtu.be/gq0ZTbmylb4)；  
   服装词汇：
   - [词汇+音频+小练习](https://www.francaisfacile.com/exercices/exercice-francais-2/exercice-francais-47411.php)（点击correction自动批改）
@@ -38,6 +38,8 @@ if_print_post_list: false
   - <https://youtu.be/pfb9DJmaFT4>（语速正常）  
   
   [买鞋子](https://youtu.be/C4RqX4Jp3es)
+
+  听力音频 MP3：[39]({{ site.baseurl }}/assets/audio/39 Pista 39.mp3)
 
 <!-- [课程大纲]({{ site.baseurl }}/2023/01/18/法语启蒙20-大纲.html) -->
 
