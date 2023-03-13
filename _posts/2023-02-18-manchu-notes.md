@@ -21,7 +21,7 @@ categories:
 
 ### 满文书写
 
-[字母表手写笔记.pdf]({{ site.baseurl }}/assets/doc/满文字母笔记-2023-02-05.pdf）（参考乌拉熙春所著《满语读本》）
+[字母表手写笔记.pdf]({{ site.baseurl }}/assets/doc/满文字母笔记-2023-02-05.pdf)（参考乌拉熙春所著《满语读本》）
 
 ### 字母表
 
