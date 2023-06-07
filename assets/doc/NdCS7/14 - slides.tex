@@ -1,0 +1,279 @@
+\documentclass[french, aspectratio=169, 14pt, handout]{beamer}
+% [handout] mode ignores the step by step presentation
+% [aspectratio=169]
+
+% \usepackage{lmodern} % make sure the following line does not produce blurry texts
+\usepackage[T1]{fontenc} % encode non English letters properly
+% \usepackage[utf8]{inputenc}
+% \usepackage{babel}
+\usepackage{CJKutf8}
+
+
+\setbeamertemplate{navigation symbols}{} % gets rid of navigation symbols at the bottom
+\setbeamertemplate{itemize item}{$\circ$} % change default item/subitem/subsubitem symbols
+%\setbeamersize{text margin left=5pt,text margin right=5pt}
+\setbeamertemplate{itemize subitem}{$\circ$}
+
+% overlay specification
+%\setbeamercovered{transparent}
+% \beamerdefaultoverlayspecification{<+->}
+
+\usepackage{amsmath, amssymb}
+%\usepackage{amsmath,amssymb,amsthm,amscd,tikz-cd,xfrac,faktor} % Need to add [fragile] after \begin{frame} to ensure that tikz-cd works
+%\usepackage{mathrsfs}
+%\usepackage[all]{xy}
+\usepackage{setspace}
+\usepackage[normalem]{ulem} % strikethrough line
+\newcommand{\red}[1]{\textcolor{red}{#1}} % something more static than \alert
+\newcommand{\blue}[1]{\textcolor{blue}{#1}} % something more static than \alert
+
+
+\title[NdCS7-14]{C'est remboursable ?} % The short title appears at the bottom of every slide, the full title is only on the title page
+
+\author{Séance 14} % Your name
+
+\date{\today} % Date, can be changed to a custom date
+
+
+\begin{document}
+
+\begin{CJK*}{UTF8}{gkai}
+% fonts: gbsn/gkai
+
+\begin{frame}
+\titlepage % Print the title page as the first slide
+\end{frame}
+
+\begin{frame}{上周作业}
+\begin{itemize}
+	\item 拼写及读音：lav\red{er}，过去分词~\alt<+(1)->{lav\red{é}}{[lavé/lave]}， \pause 现在时~il/elle lav\red{e} \pause \\ 读音：laver = lavé $\neq$ lave \pause
+    \item[]
+    \item avoir + 过去分词
+    \item 过去分词本身具有“已经……的”的含义，像个形容词， \pause \\ \red{助动词是~être 时，和主语进行性、数搭配}。
+\end{itemize}
+\end{frame}
+
+\begin{frame}{位移动词的助动词：不及物用~être，及物用~avoir}
+动作有受体时为“及物”，无受体时为“不及物”。 \pause
+\begin{itemize}
+    \item sortir \\
+	他们-出去了。出去的是“他们”。\red{Ils} sont sorti\red{s}. \\
+    他们-拿出了-一些设备。出来的是“设备”。\\ \hspace{170px} Ils ont sorti quelques appareils… \pause
+    \item passer \\
+    他们-经过了。经过的是“他们”。\red{Ils} sont passé\red{s}. \\
+    他们-度过了-一小时。度过的是“1h”。Ils ont passé 1h… \pause
+    \item 词典里分别标记为： \\
+    verbe intransitif (v. intr.) 不及物动词 \\
+    verbe transitif (v. tr.) 及物动词
+\end{itemize}
+\end{frame}
+
+\begin{frame}{自反动词/代动词}
+当动作的受体是主语或是主语的一部分时，为“自反动词”。 \pause
+\begin{itemize}
+    \item laver 洗，se laver 洗自己=洗澡 \\
+	她洗了件衬衫。洗了的不是“她”。Elle a lavé une chemise. \\
+	她洗澡。洗了的是“她自己”。Elle \red{s'}est lavé\red{e}. \pause
+    \item 词典里分别标记为： \\
+    verbe transitif (v. tr.) 及物\\
+    verbe pronominal (v. pron.) 自反动词/代词式动词 \pause
+\end{itemize}
+过去分词：\blue{如果“已经……的”东西在动词前，才需搭配。} \pause
+\begin{itemize}
+    \item 她洗了手。洗了的是“手”。Elle s'est lavé les mains.
+\end{itemize}
+\end{frame}
+
+\begin{frame}{否定词~pas 的位置}
+\begin{itemize}
+	\item （词典中）动词原形：ne pas faire qqch.  \pause
+	\item \red{变位后}：否定词~pas 紧接\red{变位的动词}\red{之后}。\pause
+	\item ne pas oublier (忘记) le ticket \pause \\
+	现在时：\alt<+(1)->{Vous \only<+(1)->{n'}oubliez \red{pas}}{Vous oubliez} le ticket.  \pause \\
+	过去时：\alt<+(1)->{Vous \only<+(1)->{n'}avez \red{pas} oublié}{Vous avez oublié} le ticket.  \pause
+	\item ne pas se comprendre 不互相理解 \pause \\
+	现在时：\alt<+(1)->{Ils \only<+(1)->{ne} se comprennent \red{pas}}{Ils se comprennent}.  \pause \\
+	过去时：\alt<+(1)->{Ils \only<+(1)->{ne} se sont \red{pas} compris}{Ils se sont compris}.  \pause
+	\item 口语中，ne 经常省略。
+\end{itemize}
+\end{frame}
+
+\begin{frame}[c]{I. Révision \& nouveau vocabulaire 复习和新词汇}
+\begin{itemize}
+	\item Faire des achats 购物（颜色、服装） \\ \visible<+(1)>{\blue{——名词和形容词的性、数配合，quel/quelle/quels/quelles}}
+	\item Au marché 在集市（食品名称、店名） \\ \visible<+(1)>{\blue{——冠词（定冠词、不定冠词、部分冠词，冠词的缩合）}}
+	\item Le transport 交通（交通工具）\\ Se diriger 找路（直走、左转、右转、走哪条路） \\ \visible<+(1)>{\blue{——à+le=au，à+les=aux（à l' 和~à la 不变），命令式}}
+	\item Le dimanche matin 周日的上午（日常动作） \\ \visible<+(1)>{\blue{——自反动词的现在时}}
+	\item Le passé 过去（描述过去发生的事） \\ \visible<+(1)>{\blue{—— le passé composé 复合过去时}}
+\end{itemize}
+\end{frame}
+
+\begin{frame}{1. Je voudrais + 名词/动词原形}
+用于礼貌地表达「我想要」。
+\begin{itemize}
+    \item 我想要一根法棍。 Je voudrais une baguette. \pause \\
+    我想要\red{一些}土豆。 \pause Je voudrais \pause \red{des} patates. \pause \\
+    我想要\red{一些}肉。 \pause Je voudrais \pause \red{de la} viande.  \pause \\
+    \item 我想要~800 克番茄。 \pause Je voudrais \pause \red{800 grammes} \pause \red{de} \pause tomates. \pause \\
+    再多一点。\pause Un peu plus. \pause \\
+    再少一点。\pause Un peu moins. \pause \\
+    可以了！\pause C’est bon/ça va. \pause
+    \item 我想要一件套衫。 \pause Je voudrais un pull.  \pause \\
+    我想要一件\visible<.(3)->{蓝色}衬衫。 \pause Je voudrais \red{une} chemise \pause bleu\pause{\red{e}}.  \pause
+	\item 我想\red{买}一件套衫。 \pause Je voudrais \pause \red{acheter} \pause un pull. 
+\end{itemize}
+\end{frame}
+
+\begin{frame}{2. il y a + 时长，「(多久)以前」}
+\begin{itemize}
+	\item 买~acheter $\rightarrow$ 买了~\pause avoir acheté，变位变~avoir。\pause  \\
+	我三天前买了这件套衫。 \pause \\ J'ai acheté \pause ce pull \pause \red{il y a} \pause 3 jours.  \pause \\
+	我们一周前买了这件套衫。\pause \\ Nous avons acheté \pause ce pull \pause \red{il y a} \pause une semaine.  \pause
+	\item 完成~finir $\rightarrow$ 完成了~\pause avoir fini \pause \\
+	Alexandre 两小时前做完了作业。 \pause \\ Alexandre a fini \pause \alert<+(1)>{les} devoirs \pause \red{il y a} \pause  2 heures.  \pause \\
+	她\alert<.(5)->{还}\alert<.(3)->{没}做完作业。\pause \\ Elle \only<.(6)->{n'}a \visible<.(3)->{\alt<.(5)->{\red{pas encore}}{\red{pas}}} fini les devoirs.
+\end{itemize}
+\end{frame}
+
+\begin{frame}{3. 冠词：圈出正确的选项。}
+\begin{itemize}
+	\item 您有\red{您的}票吗？ Vous avez votre ticket ?  \pause \\
+	\hspace{80px} Vous avez \alt<+(1)->{\red{le}}{[le/un/du]} ticket ?  \pause \\
+	我有\red{我的}票。 J'ai mon ticket.  \pause \\
+	\hspace{70px} J’ai \alt<+(1)->{\red{le}}{[le/un/du]} ticket.  \pause
+	\item 您有银行卡吗？ Vous avez \alt<+(1)->{\red{une/la}}{[la/une/de la]} carte bleue ? \pause 意思不同，取决于问“卡是否存在”还是“有没有某张特定的卡”。 \pause \\
+	我有张银行卡。 J’ai \alt<+(1)->{\red{une}}{[la/une/de la]} carte bleue.  \pause \\
+    我有\red{我的}银行卡（有并且带了）。 J'ai ma carte bleue.  \pause \\
+    \hspace{180px} J’ai \alt<+(1)->{\red{la}}{[la/une/de la]} carte bleue. \pause \\
+	我\visible<+(1)->{\red{没}}有\red{我的}银行卡\visible<.(1)->{（没带）}。 \alt<+(2)->{Je \red{n'}ai}{J'ai} \visible<+->{\red{pas}} ma/la carte bleue. 
+\end{itemize}
+\end{frame}
+
+\begin{frame}{3. 冠词：圈出正确的选项。}
+\begin{itemize}
+	\item 您有钱吗？Vous avez \alt<+(1)->{\red{de l'}}{[le/un/du/de l’]} argent (m.) ? \pause \\
+	您有零钱吗？ Vous avez \alt<+(1)->{\red{de la}}{[la/une/de la]} monnaie (f.)? \pause \\
+	您有硬币吗？Vous avez \alt<+(1)->{\red{des}}{[les/des]} pièces (f. pl.)?
+\end{itemize}
+\end{frame}
+
+\begin{frame}{4. perdre 「丢失」，过去分词~perdu}
+\begin{itemize}
+	\item 我昨天丢了票。Hier, \pause j'ai perdu \pause \red{mon/le} ticket.  \pause
+	\item 我左转了，我右转了， \pause \alt<+(1)->{J'ai tourné à gauche/à droite, }{tourner à gauche/à droite} \pause \\
+	然后我迷路了（丢了自己）。puis/après, je \alt<+(1)->{\alt<+(1)->{\red{me suis perdu}}{[m'être perdu]}}{[se perdre].}.	\pause \\
+	\hspace{155px} (si je suis \red{女的}) je \red{me} suis perdu\red{e}. \pause
+	\item 你们迷路了吗？ Vous \alt<+(1)->{\alt<+(1)->{\red{vous êtes perdus}}{[vous être perdu]}}{[se perdre]} ? \pause \\
+	\hspace{60px} Vous \red{vous} êtes perdu\red{es} ? (si vous êtes \red{toutes 女的})
+\end{itemize}
+\end{frame}
+
+\begin{frame}{5. garder 保留，保存（东西）}
+\begin{itemize}
+	\item 保留好您的小票！ Gard\red{ez} votre ticket.  \pause
+	\item 我保留了小票。 J'ai gardé mon ticket.  \pause
+	\item 我们没保留小票。 Nous \only<+(1)->{\red{n'}}avons \red{pas} gardé le ticket/les tickets. 
+\end{itemize}
+\end{frame}
+
+\begin{frame}{6. oublier 忘记（+ 名词）}
+\begin{itemize}
+    \item 忘了~avoir oublié \pause
+    \item 昨天，我忘了我的包。 \pause \\ Hier, j'ai oublié mon sac. \pause
+	\item \red{不要忘了}包！ \pause \\ \alt<+(1)->{\red{N'oublie pas}}{\red{oublie\sout{s} pas}} ton sac.  \pause \\
+	\red{不要忘了}您的小票！ \pause \\ \red{N'oubliez pas} \pause votre ticket.  \pause
+\end{itemize}
+\end{frame}
+
+\begin{frame}{6. oublier 忘记（+ de+动词原形）}
+\begin{itemize}
+	\item 今天上午，我忘了运动。 \pause \\ Ce matin, j'ai oublié \pause \red{de} \pause \red{faire} du sport. \pause
+	\item 不要忘了运动！\\ N'oublie pas/N'oubliez pas \pause \red{de} \pause \red{faire} du sport !  \pause \\ 
+	不要忘了保留小票！\\ N'oublie pas/N'oubliez pas \pause \red{de} \pause \red{garder} votre ticket. 
+\end{itemize}
+\end{frame}
+
+\begin{frame}{7. 最近将来时：aller + 动词原形}
+\begin{itemize}
+	\item 还不错，OK，可以的，行的。
+	\visible<+(1)->{$\rightarrow$  会OK的，会行的。} \\
+	Ça va.  \visible<+(1)->{$\rightarrow$}  \visible<+(1)->{Ça va aller.}  \\
+	Ça marche.  \visible<+(1)->{$\rightarrow$} \visible<+(1)->{Ça va marcher}.
+\end{itemize}
+\end{frame}
+
+\begin{frame}{8. pouvoir + 动词原形，表示「可以……」}
+\begin{itemize}
+	\item 我可以吗？（想做某件事、征求他人同意时） \pause \\ Je peux ? \pause
+	\item 我可以帮您吗？ \pause \\ Je peux \pause vous aider ? \pause
+	\item 我可以试试（试穿/试用）它吗？ \pause \\ Je peux \pause l’essayer ? \pause
+	\item[]
+	\item 您可以直走然后右转。 \pause \\ Vous pouvez \pause continuer tout droit, puis \pause tourner à droite.
+\end{itemize}
+\end{frame}
+
+\begin{frame}{8. pouvoir + 动词原形，表示「可以……」}
+\begin{itemize}
+	\item 您可以早点儿起床吗？ \\ Vous pouvez \visible<+(1)->{\alt<+(1)->{\red{vous} lever}{se lever}} plus tôt ?  \pause
+	\item 咱不能工作却不休息。	\pause \\ On \alt<+(4)->{ne peut}{peut} \visible<+->{\red{pas}} \visible<+->{travailler} sans \visible<+->{se reposer}. \pause
+	\item 可以吗？行？ \\
+	Ça va ?  $\rightarrow$  \pause Ça peut aller ? \pause \\
+	Ça marche ? $\rightarrow$ \pause Ça peut marcher ? 
+\end{itemize}
+\end{frame}
+
+\begin{frame}{9. 退款/换货}
+\begin{itemize}
+	\item \alert<+>{我可以}给您退款。 \\ \visible<.(1)->{Je peux} vous rembourser.  \pause
+	\item \alert<+>{您可以}换成另一件套衫。 \\ \visible<.(1)->{Vous pouvez} changer pour un autre pull.  \pause
+	\item[]
+	\item \red{退款：rembourser} \pause \\
+	\item \red{换：échanger/changer}
+\end{itemize}
+\end{frame}
+
+\begin{frame}{9. 退款/换货}
+\begin{itemize}
+	\item \red{退款（动词）：rembourser} \pause \\
+	退款（名词）：rembourse\red{ment} (m.) \pause \\
+	可退款的：rembours\red{able} \pause \\
+	（人）获得退款（被给予退款）：être rembours\red{é}.  \pause \\
+	分词如同形容词，要性数配合：\hspace{0px} Il est rembours\red{é}.  \pause \\
+	\hspace{200px} Elle est rembours\red{ée}.  \pause \\
+	\hspace{200px} Ils sont rembours\red{és.}  \pause \\
+	\hspace{190px} Elles sont rembours\red{ées.}
+\end{itemize}
+\end{frame}
+
+\begin{frame}{9. 退款/换货}
+\begin{itemize}
+    \item % 把~A 换成~B：échanger/changer A contre/pour B \pause \\
+	把这件衬衫\red{换掉}：\pause \red{changer} cette chemise \pause \\
+	\red{换成}那边的衬衫：\pause \red{changer pour} la chemise là-bas \pause \\
+	\hspace{160px} \red{pour} 表示目的 \pause \\
+	\item 交换：échange (m.) \pause
+	\item 可换的：échange\red{able} \pause
+	\item[]
+	\item 可退换的：\pause rembousable et échangeable
+\end{itemize}
+\end{frame}
+
+\begin{frame}{II. Dans une grande surface 在一家大商场}
+\begin{itemize}
+	\item J'ai acheté ce pull \alert<+>{il y a deux jours}, mais il est vraiment \alert<+>{trop} petit. Est-ce que \alert<+>{je peux le changer} ?
+	\item Oui, madame, vous avez votre \alert<+>{ticket de caisse} ?
+	\item Ah non, \alert<+>{je ne sais pas} où il est, \alert<+>{je crois} que \alert<+>{je l’ai perdu} ! \pause
+	\item Madame, \alert<+>{on ne peut pas changer} un article \alt<+>{\red{sans} (没有)}{sans} le ticket de caisse.  \pause
+	\item J’ai peut-être encore le \alert<+>{ticket de carte bleue}. Est-ce que \alert<+>{ça peut aller} ? \pause
+	\item D’accord, ça pourra aller...  \pause Mais \alert<+>{n'oubliez pas de garder} votre ticket de caisse, \alt<+>{\red{si} (如果)}{si} vous \alert<+>{souhaitez} \alert<+>{faire un échange} ou \alert<+>{être remboursée} !  \\
+	\visible<.(-2)>{souhaiter + 动词原形 「想要做某事」}
+\end{itemize}
+\end{frame}
+
+\begin{frame}{}
+\huge{\centerline{C'est terminé. Bonnes vacances !}}
+\end{frame}
+
+\end{CJK*}
+
+\end{document}

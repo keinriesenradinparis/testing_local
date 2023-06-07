@@ -1,0 +1,26 @@
+// Placeholder to allow overriding predefined variables smoothly.
+
+// // Enlarge the base font size
+// // The default of Minima is 16px
+// $base-font-size:   20px !default;
+
+
+/**
+ * Blockquotes
+ */
+blockquote p {
+  font-style: normal;
+  
+//   i, em {
+//     font-style: italic;
+//   }
+}
+
+
+table {
+  whitespace: nowrap;
+}
+
+td, th {
+  white-space: nowrap;
+}

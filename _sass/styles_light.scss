@@ -1,0 +1,109 @@
+/**
+ * Initialisation of variables
+ */
+
+$content-width:    800px !default;
+$spacing-unit:     30px !default;
+$on-large:        800px !default;
+
+$base-font-size:   30px !default;
+$base-line-height: 1.5 !default;
+$base-font-weight: 400 !default;
+
+@mixin relative-font-size($ratio) {
+  font-size: #{$ratio}rem;
+}
+
+
+/**
+ * Basic font size
+ */
+
+html {
+  font-size: $base-font-size;
+}
+
+body {
+  font: $base-font-weight #{$base-font-size}/#{$base-line-height} "Times New Roman";
+//   font-size: $base-font-size;
+}
+
+
+
+/**
+ * Size of the post-title
+ */
+
+// post-title h1's font is not by default fixed, so give it the common "default" value
+.post-title,
+.post-content h1 {
+  @include relative-font-size(2.625);
+  letter-spacing: -1px;
+  line-height: 1.15;
+
+  @media screen and (min-width: $on-large) {
+    @include relative-font-size(2.625);
+  }
+}
+
+
+
+/**
+ * Wrapper
+ */
+
+.wrapper {  
+  max-width: calc(#{$content-width} - (#{$spacing-unit}));
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: $spacing-unit / 2;
+  padding-left: $spacing-unit / 2;
+  @extend %clearfix;
+
+  @media screen and (min-width: $on-large) {
+    max-width: calc(#{$content-width} - (#{$spacing-unit} * 2));
+    padding-right: $spacing-unit;
+    padding-left: $spacing-unit;
+  }
+}
+
+
+
+/**
+ * Alignment
+ */
+
+.wrapper {
+  text-align: justify;
+  //   overflow-wrap: break-word;
+}
+
+.page-content{
+  text-align: justify;
+}
+
+.post-content{
+  text-align: justify;
+}
+
+
+
+/**
+ * Clearfix
+ */
+
+%clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+
+/**
+ * Tables
+ */
+
+th, td {
+  padding-right: $spacing-unit; // or possibly $spacing-unit / 2
+}

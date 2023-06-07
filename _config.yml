@@ -1,0 +1,88 @@
+# Site settings
+title: Naive playground
+author: Rhythmszk
+email: fdzkzhou@163.com
+description: > # this means to ignore newlines until "show_excerpts:"
+  No description.
+# show_excerpts: true
+markdown: kramdown
+kramdown:
+  parse_block_html: true
+  parse_inline_html: true
+  toc_levels: 2..3
+
+# URL VARIABLES [optional!]
+#
+# Optional if using GitHub Pages! If building manually, these must be set correctly.
+#
+# use url for the domain, e.g. https://thecdil.github.io
+# on gh-pages follow the pattern: https://username.github.io
+# url: https://keinriesenradinparis.github.io
+# use baseurl to add subsection of the domain, e.g. /timelinejs-template
+# on gh-pages this is a / followed by the name of the repository
+# baseurl is your github repository's name prefixed with a /
+# baseurl: /testing_local
+# location of code, the full url to your github repository
+# source-code: https://github.com/thecdil/bootstrap-template
+
+
+# Build settings
+theme: minima
+# minima:
+#   skin: dark
+# remote_theme: jekyll/minima # Alternative way
+# Other themes:
+# amitmerchant1990/reverie
+# sighingnow/jekyll-gitbook
+# One template:
+# thecdil/bootstrap-template
+
+
+# Defaults to simplify front matter,
+# all files in the "pages" folder will be output at root of site
+defaults:
+  - scope:
+      path: "_pages"
+    values:
+      layout: page
+      permalink: /:basename:output_ext
+#   - scope:
+#       path: "test2.md"
+#     values:
+#       layout: default_light
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+header_pages:
+- _pages/languages.md
+- about.md
+# - _pages/2022-07-03-voyages.md
+- basicfrenchsummary.md
+
+include:
+- /_pages
+  
+# Ignore stuff
+# exclude:
+# - README.md
+# - _pages/2021-04-27-home.md
+# - test2.md
+ 
+ 
+# Post permalink
+permalink: /:year/:month/:day/:title:output_ext
+
+
+# feed:
+#   disable: true
+  
+  
+# plugins:
+# - jekyll-toc
+# # TOC Settings
+# toc:
+#  min_level: 1
+#  max_level: 3
+#  list_class: toc
+#  list_class: toc__list
+#  sublist_class: toc__sublist
