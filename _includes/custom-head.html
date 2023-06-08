@@ -1,0 +1,17 @@
+<!-- To be included automatically in minima's head.html -->
+
+<!---
+The following code <base href="/[repo]/"> is to solve the reference base url problem on github pages:
+on github page constructed from your repository [repo], no matter what is your site.url or site.baseurl, the reference base url will always be your "[username].github.io", but not "[username].github.io/[repo]/".
+So for a concrete link such as "asd.html":
+"asd.html" will produce "[username].github.io/asd.html",
+"/asd.html" will produce "[username].github.io/asd.html",
+"./asd.html" will produce "[username].github.io/asd.html".
+Instead, after using <base href="/[repo]/">:
+"asd.html" will produce "[username].github.io/[repo]/asd.html",
+"/asd.html" will produce "[username].github.io/asd.html",
+"./asd.html" will produce "[username].github.io/[repo]/asd.html".
+In particular, when you have some code referring to "assets/img/asd.png" but not want to bother modifying "{{ site.baseurl}}/assets/img/asd/png" when you publish it to github pages, then one simple line <base href="/[repo]/"> is ok to solve the problem, i.e. you conserve your each local post file, but just modify the <head> once for all posts.
+--->
+
+<base href="/testing_local/">
