@@ -1,8 +1,8 @@
 ---
-# layout: page_light
 title: 法语启蒙
 page_category: "法语启蒙"
 if_print_post_list: false
+# layout: page_light
 ---
 
 目录:
@@ -26,7 +26,7 @@ if_print_post_list: false
 </details>
 
 **课前要求：**
-- 语音：需要了解常用字母组合的发音，见[下方👇](#语音字母组合)。
+- 语音：需要了解常用字母组合的发音，见下方👇的[零基础](#零基础)部分。
 - 动词：需要了解 être, avoir, faire, aller 以及其他所有 -er 规则动词的变位，见[此页面]({{ site.baseurl }}/2022/12/16/法语简单动词变位.html)。
 
 **讲义和音视频：**  
@@ -66,7 +66,7 @@ if_print_post_list: false
   - 语法：复合过去时（[vidéo](https://youtube.com/playlist?list=PLTqYSrQbW-6vizJZJXbWhYRO63JrxKo_Z "Le 🇫🇷FLE A1 conjugaison passé composé")）
 - 第十四课：C'est remboursable ?  
 
-**语法点总结**见[此页面]({{ site.baseurl }}/2023/06/04/法语基本语法-2.html)
+**语法点总结**：见[此页面]({{ site.baseurl }}/2023/06/04/法语基本语法-2.html)
 
 <!-- {% assign posts = site.tags["启蒙20"] %} -->
 <!-- {% include print_posts_simple.html content=posts %} -->
