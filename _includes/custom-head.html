@@ -1,6 +1,4 @@
----
-# To be included my head.html and head_light.html
----
+<!-- To be included my head.html and head_light.html -->
 
 <!---
 The following code <base href="/[repo]/"> is to solve the reference base url problem on github pages:
@@ -14,6 +12,7 @@ Instead, after using <base href="/[repo]/">:
 "/asd.html" will produce "[username].github.io/asd.html",
 "./asd.html" will produce "[username].github.io/[repo]/asd.html".
 In particular, when you have some code referring to "assets/img/asd.png" but not want to bother modifying "{{ site.baseurl}}/assets/img/asd/png" when you publish it to github pages, then one simple line <base href="/[repo]/"> is ok to solve the problem, i.e. you conserve your each local post file, but just modify the <head> once for all posts.
+An alternative way is to use ../ (maybe several times) before each hyperlink to go upper in parent directories - this is a "relative" solution.
 --->
 
 <base href="/testing_local/">
