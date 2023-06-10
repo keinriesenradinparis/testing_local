@@ -118,3 +118,24 @@ details,
 %vertical-rhythm {
   margin-bottom: $spacing-unit / 2;
 }
+
+/**
+ * Blockquotes
+ */
+
+blockquote {
+  // color: $brand-color;
+  background: rgba(127, 127, 127, 0.1);
+  border-left: 4px solid rgba(0, 122, 204, 0.5);
+  padding-left: $spacing-unit / 2;
+//   @include relative-font-size(1.125);
+  font-style: italic;
+
+//   > :last-child {
+//     margin-bottom: 0;
+//   }
+
+//   i, em {
+//     font-style: normal;
+//   }
+}
