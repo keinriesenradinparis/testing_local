@@ -107,3 +107,14 @@ body {
 th, td {
   padding-right: $spacing-unit; // or possibly $spacing-unit / 2
 }
+
+/**
+  * Set `margin-bottom` to maintain vertical rhythm
+  */
+h1, h2, h3, h4, h5, h6,
+p, blockquote, pre,
+ul, ol, dl, figure,
+details,
+%vertical-rhythm {
+  margin-bottom: $spacing-unit / 2;
+}
