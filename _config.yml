@@ -61,7 +61,6 @@ header_pages:
 
 include:
 - /_pages
-- /html
   
 # Ignore stuff
 # exclude:
