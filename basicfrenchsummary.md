@@ -88,7 +88,7 @@ if_print_post_list: false
 [03-04]({{ site.baseurl }}/assets/doc/NdCS6/03%20-%20compl.pdf),
 [05]({{ site.baseurl }}/assets/doc/NdCS6/05%20-%20compl.pdf),
 [06]({{ site.baseurl }}/assets/doc/NdCS6/06%20-%20compl.pdf),
-[07]({{ site.baseurl }}/assets/doc/NdCS6/07.pdf),
+[07-08]({{ site.baseurl }}/assets/doc/NdCS6/07.pdf),
 [09]({{ site.baseurl }}/assets/doc/NdCS6/09.pdf),
 [10]({{ site.baseurl }}/assets/doc/NdCS6/10.pdf),
 [11]({{ site.baseurl }}/assets/doc/NdCS6/11.pdf),
@@ -147,6 +147,15 @@ if_print_post_list: false
 [12]({{ site.baseurl }}/assets/doc/NdCS5/12v2.pdf),
 [13]({{ site.baseurl }}/assets/doc/NdCS5/13v2.pdf),
 [14]({{ site.baseurl }}/assets/doc/NdCS5/14.pdf)
+
+<h2 align="center">
+* &nbsp; * &nbsp; *
+</h2>
+
+## 零基础
+
+**讲义 PDF/PPT：**
+ 01, 02, 03, 04, 05, 06, 07, [08]({{ site.baseurl }}/assets/doc/NdCS4/08.pdf) (期中复习课), 09, 10, 11, 12, 13, 14
 
 <h2 align="center">
 * &nbsp; * &nbsp; *
