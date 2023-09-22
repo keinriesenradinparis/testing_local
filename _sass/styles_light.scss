@@ -24,7 +24,7 @@ html {
 }
 
 body {
-  font: $base-font-weight #{$base-font-size}/#{$base-line-height} "Times New Roman";
+  font: $base-font-weight #{$base-font-size}/#{$base-line-height} sans-serif,Helvetica,Arial,-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI","Segoe UI Emoji","Segoe UI Symbol","Apple Color Emoji",Roboto;
 //   font-size: $base-font-size;
 }
 
