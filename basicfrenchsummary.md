@@ -1,5 +1,5 @@
 ---
-title: 法语启蒙
+title: "法语启蒙"
 page_category: "法语启蒙"
 if_print_post_list: false
 # layout: page_light
@@ -13,6 +13,9 @@ if_print_post_list: false
 * &nbsp; * &nbsp; *
 </h2>
 
+## 报名
+
+[报名信息页]({{ site.baseurl }}/2023/09/22/法语报名.html)
 
 ## 启蒙20
 
