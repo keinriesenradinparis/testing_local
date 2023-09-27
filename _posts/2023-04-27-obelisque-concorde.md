@@ -4,7 +4,7 @@ date: "2023-04-27"
 categories:
   - "languages"
   - "egyptian"
-layout: page_light
+# layout: page_light
 ---
 
 拉美西斯二世时期的卢克索神庙（Luxor Temple）前有一对方尖碑，其中一块于 1833 年抵达巴黎并于 1836 年立于协和广场，另一块还留在原地。
