@@ -13,7 +13,7 @@ if_print_post_list: false
 * &nbsp; * &nbsp; *
 </h2>
 
-## 启蒙50
+## 启蒙50（课程暂停）
 
 <details markdown=block style="color: white;">
   <summary markdown=span>基本信息</summary>
@@ -24,7 +24,7 @@ if_print_post_list: false
     - 主题：① 看病；② 描述过去的状态；③ 描述经常发生的/过去的事件。
 </details>
 
-## 报名
+## 报名（课程暂停）
 
 第八期[报名信息页]({{ site.baseurl }}/2023/09/22/法语报名.html)
 
