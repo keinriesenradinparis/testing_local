@@ -2,7 +2,8 @@
 title: "Kallimni 'Arabi Aktar"
 date: "2024-02-10"
 categories:
-  - "egyptian"
+  - "languages"
+  - "arabic"
 ---
 
 ## Module 01 - Vocabulary
@@ -75,7 +76,51 @@ categories:
 الزميل collegue
 احكي tell! (imperative)
 حصل to happen
-عكس الأدولر to invert the roles
+عكس الأدوار to invert the roles
+دور ج أدوار role; floor
 احكي الحكلية tell the story! (imperative)
+
+الموقف situation
+
+اتأخّر to be late
+الطابور line, queue
+الزحمة crowd
+تذاكر ticket
+اتخانق to fight
+استنّى كتير to wait a lot
+
+وقع to fall
+عام to swim
+
+قام to get up
+نسي to forget
+جري to run
+
+قرا الحكاية to read story
+ضرب to hit, to beat
+قسم البوليس police station 
+
+مسك to seize, to hold
+خاف to fear
+
+عزم to invite 
+الميعاد date, appointment
+المقابلة meeting
+
+في الماضي in the past (tense)
+
+عمل لي حفلة to make party for me
+أخد جايزة في كاراتيه to get a prize in karate 空手道
+كسب to win
+قدر be able to, can
+
+صحيح؟ really ?
+ألف مبروك 
+شاطر في skilled in
+غلب كلّ اللعّيبة to defeat all the players
+
+
+
+
 
 

@@ -2,6 +2,7 @@
 title: "埃及历史补充"
 date: "2023-05-01"
 categories:
+  - "languages"
   - "egyptian"
 ---
 
