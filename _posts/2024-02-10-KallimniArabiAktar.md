@@ -6,9 +6,17 @@ categories:
   - "arabic"
 ---
 
+## Module 01 - Grammar
+
+Past tense of verbs.
+
+Negation: ما...ش
+
 ## Module 01 - Vocabulary
 
 ### ٢
+
+- مشوار حياتي my life journey
 
 - اتولد to be born
 - اتخرّج من to graduate from
@@ -25,7 +33,9 @@ categories:
 - عاش to live
 - الحالة الاجتماعية social status
 
+- مُخْرِج (film/theater) director
 - ساب to leave
+- معهد السينيما institute of cinema
 
 - اتعيّن to be appointed
 
@@ -34,11 +44,13 @@ categories:
 - جار/جارة neighbour
 - متشكّر thankful
 - متجوّز married
-- كلية الحقوق faculty of law
-- كلية الآداب faculty of literature
-- الصُحُفي journalist
+- كلّية الحقوق faculty of law
+- محامي lawyer
+- كلّية الآداب faculty of literature
+- الصَحَفي journalist
 - المجلة magazine
 - ذاكر to study
+- ضروري تتفضّلي it is necessary that you be kind (please!)
 - ساعد to help
 - فرصة سعيدة happy occasion (pleased to meet you)
 
@@ -50,7 +62,7 @@ categories:
 - هدوم تقيلة heavy clothes
 - قعد to sit, stay
 - قدّ how long
-- قعدتوا قدّ إيه how long did you stay?
+- قعدتوا قدّ إيه قي السكّة how long did you stay on the way?
 - عين spring
 - عيون سخنة و عيون ساقعة hot springs and cold springs
 - عمل خيمة to make tent
@@ -87,6 +99,7 @@ categories:
 - احكي الحكلية tell the story! (imperative)
 
 - الموقف situation
+- وقف to stand still
 
 - اتأخّر to be late
 - متأخّز late
@@ -184,6 +197,47 @@ categories:
 
 ### ٢١
 
+- مش تمام not OK, not well
+- تعبان tired, sick
+- ضحك to laugh
+- المشكلة problem
+- وصّلت اصحابي بيوتهم I brought my friends to their houses.
+- مشي to walk, to go
+- ساق to drive
+- لقي to find
+- في حتّة غريبة at a strange place
+- الدنيا the world
+- مطّر to rain
+- عطل to stop working
+- في ال مطرة in the rain
+- دوّر على to turn to, to look for
+- روّرت على حدّ يساعدتي I looked for someone to help me
+- مقبرة ج مقابر cemetry
+- تقريباً approximately
+- خوفت from خاف to fear
+- تهت from تاه to lose one's way
+- اتصرّف to behave
+- روّح to return
+- تعب to get tired
+- معلش all right, take it easy
+- هايل tremendous
+- المهم the important (thing)
+- صلّح العربية to repair the car
+
+## Module 02 - Grammar
+
+Active participle (adjective).
+
+Negation: مش...
+
+## Module 02 - Vocabulary
+
+### ٢
+
+- فرعون Pharaoh 法老
+- قاس Fez
+- استريّح to rest, to relax
+- فلاح farmer
 
 
 
