@@ -173,6 +173,7 @@ categories:
 - من زمان from long ago
 - لو سمحت لحظة واحدة one moment please
 - في الحقيقة in fact/truth
+- إزاي الكلام ده؟ How is this talking? (How can it be? No!)
 - حدا/حدّ someone, no-one (in negative sentence)
 - أبداً ever, never (in negative sentence)
 - مدّة for a while
