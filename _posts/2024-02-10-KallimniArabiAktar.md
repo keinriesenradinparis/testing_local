@@ -44,8 +44,8 @@ categories:
 
 ### ٤
 
-االصحرا البيضا White Desert National Park
-واحة الفراقر Oasis Siwa
+الصحرا البيضا White Desert National Park
+واحة الفرافر Oasis Siwa
 حكا to talk
 هدوم تقيلة heavy clothes
 قعد to sit, stay
