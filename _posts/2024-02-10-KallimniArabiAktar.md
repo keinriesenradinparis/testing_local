@@ -17,6 +17,7 @@ categories:
 دخل الجيش to enter the army
 خرج من الجيش to come back from the army
 اتجوّز to get married
+الجواز marriage
 
 تاريخ الميلاد date of birth
 التجنيد soldier
@@ -39,6 +40,7 @@ categories:
 المجلة magazine
 ذاكر to study
 ساعد to help
+فرصة سعيدة happy occasion (pleased to meet you)
 
 ### ٤
 
@@ -70,6 +72,9 @@ categories:
 
 ### ١٧
 
+علقة سخنة hot blood?
+طاقية beannie (a kind of cap)
+
 اتسرق to have oneself stolen
 سرق to steal
 السارق thief
@@ -83,6 +88,7 @@ categories:
 الموقف situation
 
 اتأخّر to be late
+متأخّز late
 الطابور line, queue
 الزحمة crowd
 تذاكر ticket
@@ -109,17 +115,72 @@ categories:
 
 في الماضي in the past (tense)
 
+يا خبر what news!
 عمل لي حفلة to make party for me
 أخد جايزة في كاراتيه to get a prize in karate 空手道
 كسب to win
 قدر be able to, can
-
 صحيح؟ really ?
 ألف مبروك 
 شاطر في skilled in
 غلب كلّ اللعّيبة to defeat all the players
+لاعب ج لعّيبة player
+رقص to dance
+باب الشقة apartment door
+لابس طاقية wearing a beanni (a cap)
+شكله غريب he looks strange, foreign, unfamiliar
+مش معقول not possible!
+حرامي thief
+برضه also
+ضرب علقة سخنة to beat so hard
+في السجن in prison
 
+### ١٨
 
+انا شفتك فين قبل كده؟ I have seen you where before now?
+قبل كده before
+الطابور queue
+فعلا indeed
+دايماً always
+زحم crowded
+قفل to lock
+حصوصاً especially
+قرب near
+آخر الشهر end of month
+متأكّد sure
+في الاول at first
+تخن/ثخن to be fat
+دقن beard
+أصلع bald
+فرصة سعيدة happy occasion
+و انا أسعد and I am happy
+
+### ١٩
+
+الحفلة دي ظريفة قوي the party is nice/cute
+الاكل لذيذ the food is delicious
+أخد وقت خشان أتكلّم عربي كويس take time in order to speak arabic well
+شفنا  بعض we saw each other
+في فرح in joy
+عروسة bride
+مش متأكّد not sure
+مش فاكر not remembering
+يا ترا say…, I wonder…, by the way… (from رأى to see)
+
+### ٢٠ 
+
+من زمان from long ago
+لو سمحت لحظة واحدة one moment please
+في الحقيقة in fact/truth
+حدا/حدّ someone, no-one (in negative sentence)
+أبداً ever, never (in negative sentence)
+مدّة for a while
+مدرسة ثانوي secondary school
+صحّ؟ right?
+أطول واحد في الفصل the tallest one in the class
+إيه أخبارك؟ Any news of you?
+
+### ٢١
 
 
 
