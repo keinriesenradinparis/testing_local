@@ -6,6 +6,14 @@ categories:
   - "arabic"
 ---
 
+Table of Contents:
+- [Module 01](#module-01---grammar)
+- [Module 02](#module-02---grammar)
+
+<h2 align="center">
+* &nbsp; * &nbsp; *
+</h2>
+
 ## Module 01 - Grammar
 
 Past tense of verbs.
@@ -35,6 +43,7 @@ Negation: ما...ش
 
 - مُخْرِج (film/theater) director
 - ساب to leave
+- جيت I came, جه he came, to come
 - معهد السينيما institute of cinema
 
 - اتعيّن to be appointed
@@ -57,12 +66,14 @@ Negation: ما...ش
 ### ٤
 
 - الصحرا البيضا White Desert National Park
-- واحة الفرافر Oasis Siwa
+- واحة سيوة Oasis Siwa
+- الفرافر Farafra
 - حكا to talk
 - هدوم تقيلة heavy clothes
 - قعد to sit, stay
 - قدّ how long
 - قعدتوا قدّ إيه قي السكّة how long did you stay on the way?
+- الفجر dawn
 - عين spring
 - عيون سخنة و عيون ساقعة hot springs and cold springs
 - عمل خيمة to make tent
