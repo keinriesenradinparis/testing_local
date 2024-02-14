@@ -1,7 +1,5 @@
 - The webversion is [here](https://keinriesenradinparis.github.io/testing_local/)
 
-- Notes on Kallimni 'Arabi Aktar [here](/_posts/2024-02-10-KallimniArabiAktar.md)
-
 --------------
 Nonsense below.
 
